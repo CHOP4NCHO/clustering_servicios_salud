@@ -1,0 +1,2573 @@
+tipo,servicio_salud,nivel,anio,valor
+tabla03_matrona.pdf,SNSS,Nivel Primario,2020,3877290
+tabla03_matrona.pdf,SNSS,Nivel Primario,2021,4928994
+tabla03_matrona.pdf,SNSS,Nivel Primario,2022,5874759
+tabla03_matrona.pdf,SNSS,Nivel Primario,2023,6335671
+tabla03_matrona.pdf,SNSS,Nivel Primario,2024,6584453
+tabla03_matrona.pdf,SNSS,Nivel Secundario,2020,361642
+tabla03_matrona.pdf,SNSS,Nivel Secundario,2021,466084
+tabla03_matrona.pdf,SNSS,Nivel Secundario,2022,533479
+tabla03_matrona.pdf,SNSS,Nivel Secundario,2023,599284
+tabla03_matrona.pdf,SNSS,Nivel Secundario,2024,659458
+tabla03_matrona.pdf,SNSS,Urgencia,2020,310665
+tabla03_matrona.pdf,SNSS,Urgencia,2021,329078
+tabla03_matrona.pdf,SNSS,Urgencia,2022,376149
+tabla03_matrona.pdf,SNSS,Urgencia,2023,360796
+tabla03_matrona.pdf,SNSS,Urgencia,2024,339436
+tabla03_matrona.pdf,Arica,Nivel Primario,2020,49736
+tabla03_matrona.pdf,Arica,Nivel Primario,2021,68693
+tabla03_matrona.pdf,Arica,Nivel Primario,2022,70125
+tabla03_matrona.pdf,Arica,Nivel Primario,2023,72660
+tabla03_matrona.pdf,Arica,Nivel Primario,2024,77823
+tabla03_matrona.pdf,Arica,Nivel Secundario,2020,21007
+tabla03_matrona.pdf,Arica,Nivel Secundario,2021,25410
+tabla03_matrona.pdf,Arica,Nivel Secundario,2022,33093
+tabla03_matrona.pdf,Arica,Nivel Secundario,2023,39080
+tabla03_matrona.pdf,Arica,Nivel Secundario,2024,37075
+tabla03_matrona.pdf,Arica,Urgencia,2020,1960
+tabla03_matrona.pdf,Arica,Urgencia,2021,1657
+tabla03_matrona.pdf,Arica,Urgencia,2022,2033
+tabla03_matrona.pdf,Arica,Urgencia,2023,2053
+tabla03_matrona.pdf,Arica,Urgencia,2024,2049
+tabla03_matrona.pdf,Iquique,Nivel Primario,2020,99736
+tabla03_matrona.pdf,Iquique,Nivel Primario,2021,120211
+tabla03_matrona.pdf,Iquique,Nivel Primario,2022,132965
+tabla03_matrona.pdf,Iquique,Nivel Primario,2023,130405
+tabla03_matrona.pdf,Iquique,Nivel Primario,2024,147265
+tabla03_matrona.pdf,Iquique,Nivel Secundario,2020,17100
+tabla03_matrona.pdf,Iquique,Nivel Secundario,2021,25230
+tabla03_matrona.pdf,Iquique,Nivel Secundario,2022,24241
+tabla03_matrona.pdf,Iquique,Nivel Secundario,2023,22266
+tabla03_matrona.pdf,Iquique,Nivel Secundario,2024,23446
+tabla03_matrona.pdf,Iquique,Urgencia,2020,12619
+tabla03_matrona.pdf,Iquique,Urgencia,2021,13302
+tabla03_matrona.pdf,Iquique,Urgencia,2022,18211
+tabla03_matrona.pdf,Iquique,Urgencia,2023,21829
+tabla03_matrona.pdf,Iquique,Urgencia,2024,18977
+tabla03_matrona.pdf,Antofagasta,Nivel Primario,2020,106145
+tabla03_matrona.pdf,Antofagasta,Nivel Primario,2021,133606
+tabla03_matrona.pdf,Antofagasta,Nivel Primario,2022,159052
+tabla03_matrona.pdf,Antofagasta,Nivel Primario,2023,162387
+tabla03_matrona.pdf,Antofagasta,Nivel Primario,2024,174218
+tabla03_matrona.pdf,Antofagasta,Nivel Secundario,2020,25301
+tabla03_matrona.pdf,Antofagasta,Nivel Secundario,2021,27953
+tabla03_matrona.pdf,Antofagasta,Nivel Secundario,2022,34053
+tabla03_matrona.pdf,Antofagasta,Nivel Secundario,2023,40900
+tabla03_matrona.pdf,Antofagasta,Nivel Secundario,2024,42178
+tabla03_matrona.pdf,Antofagasta,Urgencia,2020,6346
+tabla03_matrona.pdf,Antofagasta,Urgencia,2021,6813
+tabla03_matrona.pdf,Antofagasta,Urgencia,2022,12683
+tabla03_matrona.pdf,Antofagasta,Urgencia,2023,10813
+tabla03_matrona.pdf,Antofagasta,Urgencia,2024,10575
+tabla03_matrona.pdf,Atacama,Nivel Primario,2020,51940
+tabla03_matrona.pdf,Atacama,Nivel Primario,2021,76706
+tabla03_matrona.pdf,Atacama,Nivel Primario,2022,91279
+tabla03_matrona.pdf,Atacama,Nivel Primario,2023,103119
+tabla03_matrona.pdf,Atacama,Nivel Primario,2024,109195
+tabla03_matrona.pdf,Atacama,Nivel Secundario,2020,14006
+tabla03_matrona.pdf,Atacama,Nivel Secundario,2021,17984
+tabla03_matrona.pdf,Atacama,Nivel Secundario,2022,14972
+tabla03_matrona.pdf,Atacama,Nivel Secundario,2023,16598
+tabla03_matrona.pdf,Atacama,Nivel Secundario,2024,18839
+tabla03_matrona.pdf,Atacama,Urgencia,2020,2549
+tabla03_matrona.pdf,Atacama,Urgencia,2021,2393
+tabla03_matrona.pdf,Atacama,Urgencia,2022,2842
+tabla03_matrona.pdf,Atacama,Urgencia,2023,2484
+tabla03_matrona.pdf,Atacama,Urgencia,2024,2407
+tabla03_matrona.pdf,Coquimbo,Nivel Primario,2020,186053
+tabla03_matrona.pdf,Coquimbo,Nivel Primario,2021,239795
+tabla03_matrona.pdf,Coquimbo,Nivel Primario,2022,259643
+tabla03_matrona.pdf,Coquimbo,Nivel Primario,2023,287282
+tabla03_matrona.pdf,Coquimbo,Nivel Primario,2024,283691
+tabla03_matrona.pdf,Coquimbo,Nivel Secundario,2020,10245
+tabla03_matrona.pdf,Coquimbo,Nivel Secundario,2021,12935
+tabla03_matrona.pdf,Coquimbo,Nivel Secundario,2022,15900
+tabla03_matrona.pdf,Coquimbo,Nivel Secundario,2023,20165
+tabla03_matrona.pdf,Coquimbo,Nivel Secundario,2024,26469
+tabla03_matrona.pdf,Coquimbo,Urgencia,2020,20713
+tabla03_matrona.pdf,Coquimbo,Urgencia,2021,22705
+tabla03_matrona.pdf,Coquimbo,Urgencia,2022,33065
+tabla03_matrona.pdf,Coquimbo,Urgencia,2023,20111
+tabla03_matrona.pdf,Coquimbo,Urgencia,2024,25484
+tabla03_matrona.pdf,Valparaíso San Antonio,Nivel Primario,2020,96172
+tabla03_matrona.pdf,Valparaíso San Antonio,Nivel Primario,2021,134850
+tabla03_matrona.pdf,Valparaíso San Antonio,Nivel Primario,2022,176038
+tabla03_matrona.pdf,Valparaíso San Antonio,Nivel Primario,2023,187551
+tabla03_matrona.pdf,Valparaíso San Antonio,Nivel Primario,2024,198522
+tabla03_matrona.pdf,Valparaíso San Antonio,Nivel Secundario,2020,9460
+tabla03_matrona.pdf,Valparaíso San Antonio,Nivel Secundario,2021,8871
+tabla03_matrona.pdf,Valparaíso San Antonio,Nivel Secundario,2022,9478
+tabla03_matrona.pdf,Valparaíso San Antonio,Nivel Secundario,2023,10248
+tabla03_matrona.pdf,Valparaíso San Antonio,Nivel Secundario,2024,10392
+tabla03_matrona.pdf,Valparaíso San Antonio,Urgencia,2020,5714
+tabla03_matrona.pdf,Valparaíso San Antonio,Urgencia,2021,5418
+tabla03_matrona.pdf,Valparaíso San Antonio,Urgencia,2022,7719
+tabla03_matrona.pdf,Valparaíso San Antonio,Urgencia,2023,10327
+tabla03_matrona.pdf,Valparaíso San Antonio,Urgencia,2024,10276
+tabla03_matrona.pdf,Viña del Mar Quillota,Nivel Primario,2020,229064
+tabla03_matrona.pdf,Viña del Mar Quillota,Nivel Primario,2021,304148
+tabla03_matrona.pdf,Viña del Mar Quillota,Nivel Primario,2022,340458
+tabla03_matrona.pdf,Viña del Mar Quillota,Nivel Primario,2023,379320
+tabla03_matrona.pdf,Viña del Mar Quillota,Nivel Primario,2024,405969
+tabla03_matrona.pdf,Viña del Mar Quillota,Nivel Secundario,2020,16051
+tabla03_matrona.pdf,Viña del Mar Quillota,Nivel Secundario,2021,21405
+tabla03_matrona.pdf,Viña del Mar Quillota,Nivel Secundario,2022,28774
+tabla03_matrona.pdf,Viña del Mar Quillota,Nivel Secundario,2023,19000
+tabla03_matrona.pdf,Viña del Mar Quillota,Nivel Secundario,2024,20411
+tabla03_matrona.pdf,Viña del Mar Quillota,Urgencia,2020,8882
+tabla03_matrona.pdf,Viña del Mar Quillota,Urgencia,2021,10470
+tabla03_matrona.pdf,Viña del Mar Quillota,Urgencia,2022,8938
+tabla03_matrona.pdf,Viña del Mar Quillota,Urgencia,2023,8995
+tabla03_matrona.pdf,Viña del Mar Quillota,Urgencia,2024,9103
+tabla03_matrona.pdf,Aconcagua,Nivel Primario,2020,66910
+tabla03_matrona.pdf,Aconcagua,Nivel Primario,2021,87330
+tabla03_matrona.pdf,Aconcagua,Nivel Primario,2022,102871
+tabla03_matrona.pdf,Aconcagua,Nivel Primario,2023,110151
+tabla03_matrona.pdf,Aconcagua,Nivel Primario,2024,106923
+tabla03_matrona.pdf,Aconcagua,Nivel Secundario,2020,617
+tabla03_matrona.pdf,Aconcagua,Nivel Secundario,2021,1390
+tabla03_matrona.pdf,Aconcagua,Nivel Secundario,2022,1583
+tabla03_matrona.pdf,Aconcagua,Nivel Secundario,2023,1403
+tabla03_matrona.pdf,Aconcagua,Nivel Secundario,2024,1945
+tabla03_matrona.pdf,Aconcagua,Urgencia,2020,0
+tabla03_matrona.pdf,Aconcagua,Urgencia,2021,0
+tabla03_matrona.pdf,Aconcagua,Urgencia,2023,0
+tabla03_matrona.pdf,Metropolitano Norte,Nivel Primario,2020,221395
+tabla03_matrona.pdf,Metropolitano Norte,Nivel Primario,2021,265331
+tabla03_matrona.pdf,Metropolitano Norte,Nivel Primario,2022,298635
+tabla03_matrona.pdf,Metropolitano Norte,Nivel Primario,2023,322685
+tabla03_matrona.pdf,Metropolitano Norte,Nivel Primario,2024,337218
+tabla03_matrona.pdf,Metropolitano Norte,Nivel Secundario,2020,12726
+tabla03_matrona.pdf,Metropolitano Norte,Nivel Secundario,2021,14328
+tabla03_matrona.pdf,Metropolitano Norte,Nivel Secundario,2022,15293
+tabla03_matrona.pdf,Metropolitano Norte,Nivel Secundario,2023,15798
+tabla03_matrona.pdf,Metropolitano Norte,Nivel Secundario,2024,16258
+tabla03_matrona.pdf,Metropolitano Norte,Urgencia,2020,8625
+tabla03_matrona.pdf,Metropolitano Norte,Urgencia,2021,8517
+tabla03_matrona.pdf,Metropolitano Norte,Urgencia,2022,9954
+tabla03_matrona.pdf,Metropolitano Norte,Urgencia,2023,9784
+tabla03_matrona.pdf,Metropolitano Norte,Urgencia,2024,9171
+tabla03_matrona.pdf,Metropolitano Occidente,Nivel Primario,2020,254126
+tabla03_matrona.pdf,Metropolitano Occidente,Nivel Primario,2021,326603
+tabla03_matrona.pdf,Metropolitano Occidente,Nivel Primario,2022,385113
+tabla03_matrona.pdf,Metropolitano Occidente,Nivel Primario,2023,412324
+tabla03_matrona.pdf,Metropolitano Occidente,Nivel Primario,2024,416773
+tabla03_matrona.pdf,Metropolitano Occidente,Nivel Secundario,2020,32319
+tabla03_matrona.pdf,Metropolitano Occidente,Nivel Secundario,2021,45578
+tabla03_matrona.pdf,Metropolitano Occidente,Nivel Secundario,2022,49553
+tabla03_matrona.pdf,Metropolitano Occidente,Nivel Secundario,2023,51507
+tabla03_matrona.pdf,Metropolitano Occidente,Nivel Secundario,2024,57880
+tabla03_matrona.pdf,Metropolitano Occidente,Urgencia,2020,38670
+tabla03_matrona.pdf,Metropolitano Occidente,Urgencia,2021,46149
+tabla03_matrona.pdf,Metropolitano Occidente,Urgencia,2022,42618
+tabla03_matrona.pdf,Metropolitano Occidente,Urgencia,2023,37550
+tabla03_matrona.pdf,Metropolitano Occidente,Urgencia,2024,32126
+tabla03_matrona.pdf,Metropolitano Central,Nivel Primario,2020,135393
+tabla03_matrona.pdf,Metropolitano Central,Nivel Primario,2021,150087
+tabla03_matrona.pdf,Metropolitano Central,Nivel Primario,2022,191979
+tabla03_matrona.pdf,Metropolitano Central,Nivel Primario,2023,213429
+tabla03_matrona.pdf,Metropolitano Central,Nivel Primario,2024,223098
+tabla03_matrona.pdf,Metropolitano Central,Nivel Secundario,2020,17009
+tabla03_matrona.pdf,Metropolitano Central,Nivel Secundario,2021,17224
+tabla03_matrona.pdf,Metropolitano Central,Nivel Secundario,2022,23758
+tabla03_matrona.pdf,Metropolitano Central,Nivel Secundario,2023,29847
+tabla03_matrona.pdf,Metropolitano Central,Nivel Secundario,2024,32086
+tabla03_matrona.pdf,Metropolitano Central,Urgencia,2020,10152
+tabla03_matrona.pdf,Metropolitano Central,Urgencia,2021,5858
+tabla03_matrona.pdf,Metropolitano Central,Urgencia,2022,12669
+tabla03_matrona.pdf,Metropolitano Central,Urgencia,2023,11806
+tabla03_matrona.pdf,Metropolitano Central,Urgencia,2024,10114
+tabla03_matrona.pdf,Metropolitano Oriente,Nivel Primario,2020,163612
+tabla03_matrona.pdf,Metropolitano Oriente,Nivel Primario,2021,199181
+tabla03_matrona.pdf,Metropolitano Oriente,Nivel Primario,2022,248985
+tabla03_matrona.pdf,Metropolitano Oriente,Nivel Primario,2023,276369
+tabla03_matrona.pdf,Metropolitano Oriente,Nivel Primario,2024,269507
+tabla03_matrona.pdf,Metropolitano Oriente,Nivel Secundario,2020,4066
+tabla03_matrona.pdf,Metropolitano Oriente,Nivel Secundario,2021,6733
+tabla03_matrona.pdf,Metropolitano Oriente,Nivel Secundario,2022,7851
+tabla03_matrona.pdf,Metropolitano Oriente,Nivel Secundario,2023,10952
+tabla03_matrona.pdf,Metropolitano Oriente,Nivel Secundario,2024,14688
+tabla03_matrona.pdf,Metropolitano Oriente,Urgencia,2020,2821
+tabla03_matrona.pdf,Metropolitano Oriente,Urgencia,2021,2809
+tabla03_matrona.pdf,Metropolitano Oriente,Urgencia,2022,2561
+tabla03_matrona.pdf,Metropolitano Oriente,Urgencia,2023,2229
+tabla03_matrona.pdf,Metropolitano Oriente,Urgencia,2024,1834
+tabla03_matrona.pdf,Metropolitano Sur,Nivel Primario,2020,265815
+tabla03_matrona.pdf,Metropolitano Sur,Nivel Primario,2021,342638
+tabla03_matrona.pdf,Metropolitano Sur,Nivel Primario,2022,417504
+tabla03_matrona.pdf,Metropolitano Sur,Nivel Primario,2023,444588
+tabla03_matrona.pdf,Metropolitano Sur,Nivel Primario,2024,471764
+tabla03_matrona.pdf,Metropolitano Sur,Nivel Secundario,2020,19851
+tabla03_matrona.pdf,Metropolitano Sur,Nivel Secundario,2021,24430
+tabla03_matrona.pdf,Metropolitano Sur,Nivel Secundario,2022,27013
+tabla03_matrona.pdf,Metropolitano Sur,Nivel Secundario,2023,26665
+tabla03_matrona.pdf,Metropolitano Sur,Nivel Secundario,2024,29499
+tabla03_matrona.pdf,Metropolitano Sur,Urgencia,2020,23374
+tabla03_matrona.pdf,Metropolitano Sur,Urgencia,2021,24169
+tabla03_matrona.pdf,Metropolitano Sur,Urgencia,2022,23135
+tabla03_matrona.pdf,Metropolitano Sur,Urgencia,2023,23620
+tabla03_matrona.pdf,Metropolitano Sur,Urgencia,2024,22103
+tabla03_matrona.pdf,Metropolitano Sur Oriente,Nivel Primario,2020,263352
+tabla03_matrona.pdf,Metropolitano Sur Oriente,Nivel Primario,2021,291050
+tabla03_matrona.pdf,Metropolitano Sur Oriente,Nivel Primario,2022,378955
+tabla03_matrona.pdf,Metropolitano Sur Oriente,Nivel Primario,2023,418049
+tabla03_matrona.pdf,Metropolitano Sur Oriente,Nivel Primario,2024,402285
+tabla03_matrona.pdf,Metropolitano Sur Oriente,Nivel Secundario,2020,19713
+tabla03_matrona.pdf,Metropolitano Sur Oriente,Nivel Secundario,2021,34614
+tabla03_matrona.pdf,Metropolitano Sur Oriente,Nivel Secundario,2022,37018
+tabla03_matrona.pdf,Metropolitano Sur Oriente,Nivel Secundario,2023,47460
+tabla03_matrona.pdf,Metropolitano Sur Oriente,Nivel Secundario,2024,60835
+tabla03_matrona.pdf,Metropolitano Sur Oriente,Urgencia,2020,4872
+tabla03_matrona.pdf,Metropolitano Sur Oriente,Urgencia,2021,4484
+tabla03_matrona.pdf,Metropolitano Sur Oriente,Urgencia,2022,5434
+tabla03_matrona.pdf,Metropolitano Sur Oriente,Urgencia,2023,5438
+tabla03_matrona.pdf,Metropolitano Sur Oriente,Urgencia,2024,5078
+tabla03_matrona.pdf,O'Higgins,Nivel Primario,2020,240130
+tabla03_matrona.pdf,O'Higgins,Nivel Primario,2021,298638
+tabla03_matrona.pdf,O'Higgins,Nivel Primario,2022,335024
+tabla03_matrona.pdf,O'Higgins,Nivel Primario,2023,356105
+tabla03_matrona.pdf,O'Higgins,Nivel Primario,2024,380614
+tabla03_matrona.pdf,O'Higgins,Nivel Secundario,2020,15871
+tabla03_matrona.pdf,O'Higgins,Nivel Secundario,2021,22766
+tabla03_matrona.pdf,O'Higgins,Nivel Secundario,2022,28926
+tabla03_matrona.pdf,O'Higgins,Nivel Secundario,2023,34616
+tabla03_matrona.pdf,O'Higgins,Nivel Secundario,2024,33290
+tabla03_matrona.pdf,O'Higgins,Urgencia,2020,21320
+tabla03_matrona.pdf,O'Higgins,Urgencia,2021,21023
+tabla03_matrona.pdf,O'Higgins,Urgencia,2022,24858
+tabla03_matrona.pdf,O'Higgins,Urgencia,2023,23619
+tabla03_matrona.pdf,O'Higgins,Urgencia,2024,22485
+tabla03_matrona.pdf,Maule,Nivel Primario,2020,312837
+tabla03_matrona.pdf,Maule,Nivel Primario,2021,407326
+tabla03_matrona.pdf,Maule,Nivel Primario,2022,494295
+tabla03_matrona.pdf,Maule,Nivel Primario,2023,529303
+tabla03_matrona.pdf,Maule,Nivel Primario,2024,545780
+tabla03_matrona.pdf,Maule,Nivel Secundario,2020,20811
+tabla03_matrona.pdf,Maule,Nivel Secundario,2021,29002
+tabla03_matrona.pdf,Maule,Nivel Secundario,2022,35783
+tabla03_matrona.pdf,Maule,Nivel Secundario,2023,44246
+tabla03_matrona.pdf,Maule,Nivel Secundario,2024,44409
+tabla03_matrona.pdf,Maule,Urgencia,2020,14534
+tabla03_matrona.pdf,Maule,Urgencia,2021,14418
+tabla03_matrona.pdf,Maule,Urgencia,2022,17373
+tabla03_matrona.pdf,Maule,Urgencia,2023,16728
+tabla03_matrona.pdf,Maule,Urgencia,2024,15329
+tabla03_matrona.pdf,Ñuble,Nivel Primario,2020,161813
+tabla03_matrona.pdf,Ñuble,Nivel Primario,2021,204296
+tabla03_matrona.pdf,Ñuble,Nivel Primario,2022,230161
+tabla03_matrona.pdf,Ñuble,Nivel Primario,2023,259955
+tabla03_matrona.pdf,Ñuble,Nivel Primario,2024,278386
+tabla03_matrona.pdf,Ñuble,Nivel Secundario,2020,4865
+tabla03_matrona.pdf,Ñuble,Nivel Secundario,2021,9183
+tabla03_matrona.pdf,Ñuble,Nivel Secundario,2022,11268
+tabla03_matrona.pdf,Ñuble,Nivel Secundario,2023,11075
+tabla03_matrona.pdf,Ñuble,Nivel Secundario,2024,15127
+tabla03_matrona.pdf,Ñuble,Urgencia,2020,10904
+tabla03_matrona.pdf,Ñuble,Urgencia,2021,12658
+tabla03_matrona.pdf,Ñuble,Urgencia,2022,12228
+tabla03_matrona.pdf,Ñuble,Urgencia,2023,14764
+tabla03_matrona.pdf,Ñuble,Urgencia,2024,14954
+tabla03_matrona.pdf,Concepción,Nivel Primario,2020,125109
+tabla03_matrona.pdf,Concepción,Nivel Primario,2021,159666
+tabla03_matrona.pdf,Concepción,Nivel Primario,2022,190930
+tabla03_matrona.pdf,Concepción,Nivel Primario,2023,213155
+tabla03_matrona.pdf,Concepción,Nivel Primario,2024,221220
+tabla03_matrona.pdf,Concepción,Nivel Secundario,2020,20150
+tabla03_matrona.pdf,Concepción,Nivel Secundario,2021,27529
+tabla03_matrona.pdf,Concepción,Nivel Secundario,2022,31106
+tabla03_matrona.pdf,Concepción,Nivel Secundario,2023,34587
+tabla03_matrona.pdf,Concepción,Nivel Secundario,2024,36696
+tabla03_matrona.pdf,Concepción,Urgencia,2020,11609
+tabla03_matrona.pdf,Concepción,Urgencia,2021,11050
+tabla03_matrona.pdf,Concepción,Urgencia,2022,11128
+tabla03_matrona.pdf,Concepción,Urgencia,2023,9481
+tabla03_matrona.pdf,Concepción,Urgencia,2024,8445
+tabla03_matrona.pdf,Arauco,Nivel Primario,2020,47239
+tabla03_matrona.pdf,Arauco,Nivel Primario,2021,57257
+tabla03_matrona.pdf,Arauco,Nivel Primario,2022,72006
+tabla03_matrona.pdf,Arauco,Nivel Primario,2023,77511
+tabla03_matrona.pdf,Arauco,Nivel Primario,2024,80402
+tabla03_matrona.pdf,Arauco,Nivel Secundario,2020,2139
+tabla03_matrona.pdf,Arauco,Nivel Secundario,2021,1776
+tabla03_matrona.pdf,Arauco,Nivel Secundario,2022,1846
+tabla03_matrona.pdf,Arauco,Nivel Secundario,2023,2477
+tabla03_matrona.pdf,Arauco,Nivel Secundario,2024,3416
+tabla03_matrona.pdf,Arauco,Urgencia,2020,10814
+tabla03_matrona.pdf,Arauco,Urgencia,2021,11181
+tabla03_matrona.pdf,Arauco,Urgencia,2022,13312
+tabla03_matrona.pdf,Arauco,Urgencia,2023,13929
+tabla03_matrona.pdf,Arauco,Urgencia,2024,13240
+tabla03_matrona.pdf,Talcahuano,Nivel Primario,2020,79303
+tabla03_matrona.pdf,Talcahuano,Nivel Primario,2021,102741
+tabla03_matrona.pdf,Talcahuano,Nivel Primario,2022,122437
+tabla03_matrona.pdf,Talcahuano,Nivel Primario,2023,125403
+tabla03_matrona.pdf,Talcahuano,Nivel Primario,2024,128729
+tabla03_matrona.pdf,Talcahuano,Nivel Secundario,2020,9309
+tabla03_matrona.pdf,Talcahuano,Nivel Secundario,2021,14275
+tabla03_matrona.pdf,Talcahuano,Nivel Secundario,2022,20150
+tabla03_matrona.pdf,Talcahuano,Nivel Secundario,2023,20258
+tabla03_matrona.pdf,Talcahuano,Nivel Secundario,2024,18438
+tabla03_matrona.pdf,Talcahuano,Urgencia,2020,5984
+tabla03_matrona.pdf,Talcahuano,Urgencia,2021,5823
+tabla03_matrona.pdf,Talcahuano,Urgencia,2022,6696
+tabla03_matrona.pdf,Talcahuano,Urgencia,2023,6614
+tabla03_matrona.pdf,Talcahuano,Urgencia,2024,6706
+tabla03_matrona.pdf,Biobío,Nivel Primario,2020,102230
+tabla03_matrona.pdf,Biobío,Nivel Primario,2021,135807
+tabla03_matrona.pdf,Biobío,Nivel Primario,2022,171115
+tabla03_matrona.pdf,Biobío,Nivel Primario,2023,181792
+tabla03_matrona.pdf,Biobío,Nivel Primario,2024,185972
+tabla03_matrona.pdf,Biobío,Nivel Secundario,2020,14976
+tabla03_matrona.pdf,Biobío,Nivel Secundario,2021,16893
+tabla03_matrona.pdf,Biobío,Nivel Secundario,2022,20603
+tabla03_matrona.pdf,Biobío,Nivel Secundario,2023,23920
+tabla03_matrona.pdf,Biobío,Nivel Secundario,2024,26563
+tabla03_matrona.pdf,Biobío,Urgencia,2020,9764
+tabla03_matrona.pdf,Biobío,Urgencia,2021,11023
+tabla03_matrona.pdf,Biobío,Urgencia,2022,11927
+tabla03_matrona.pdf,Biobío,Urgencia,2023,13628
+tabla03_matrona.pdf,Biobío,Urgencia,2024,12613
+tabla03_matrona.pdf,Araucanía Norte,Nivel Primario,2020,62614
+tabla03_matrona.pdf,Araucanía Norte,Nivel Primario,2021,86695
+tabla03_matrona.pdf,Araucanía Norte,Nivel Primario,2022,112282
+tabla03_matrona.pdf,Araucanía Norte,Nivel Primario,2023,114636
+tabla03_matrona.pdf,Araucanía Norte,Nivel Primario,2024,126488
+tabla03_matrona.pdf,Araucanía Norte,Nivel Secundario,2020,5087
+tabla03_matrona.pdf,Araucanía Norte,Nivel Secundario,2021,6496
+tabla03_matrona.pdf,Araucanía Norte,Nivel Secundario,2022,8683
+tabla03_matrona.pdf,Araucanía Norte,Nivel Secundario,2023,12783
+tabla03_matrona.pdf,Araucanía Norte,Nivel Secundario,2024,11399
+tabla03_matrona.pdf,Araucanía Norte,Urgencia,2020,9008
+tabla03_matrona.pdf,Araucanía Norte,Urgencia,2021,9399
+tabla03_matrona.pdf,Araucanía Norte,Urgencia,2022,9962
+tabla03_matrona.pdf,Araucanía Norte,Urgencia,2023,11412
+tabla03_matrona.pdf,Araucanía Norte,Urgencia,2024,10629
+tabla03_matrona.pdf,Araucanía Sur,Nivel Primario,2020,184124
+tabla03_matrona.pdf,Araucanía Sur,Nivel Primario,2021,249474
+tabla03_matrona.pdf,Araucanía Sur,Nivel Primario,2022,309839
+tabla03_matrona.pdf,Araucanía Sur,Nivel Primario,2023,335613
+tabla03_matrona.pdf,Araucanía Sur,Nivel Primario,2024,358025
+tabla03_matrona.pdf,Araucanía Sur,Nivel Secundario,2020,18275
+tabla03_matrona.pdf,Araucanía Sur,Nivel Secundario,2021,21349
+tabla03_matrona.pdf,Araucanía Sur,Nivel Secundario,2022,15411
+tabla03_matrona.pdf,Araucanía Sur,Nivel Secundario,2023,20921
+tabla03_matrona.pdf,Araucanía Sur,Nivel Secundario,2024,26887
+tabla03_matrona.pdf,Araucanía Sur,Urgencia,2020,17433
+tabla03_matrona.pdf,Araucanía Sur,Urgencia,2021,22791
+tabla03_matrona.pdf,Araucanía Sur,Urgencia,2022,24963
+tabla03_matrona.pdf,Araucanía Sur,Urgencia,2023,23411
+tabla03_matrona.pdf,Araucanía Sur,Urgencia,2024,20403
+tabla03_matrona.pdf,Valdivia,Nivel Primario,2020,92282
+tabla03_matrona.pdf,Valdivia,Nivel Primario,2021,114776
+tabla03_matrona.pdf,Valdivia,Nivel Primario,2022,151832
+tabla03_matrona.pdf,Valdivia,Nivel Primario,2023,162577
+tabla03_matrona.pdf,Valdivia,Nivel Primario,2024,168888
+tabla03_matrona.pdf,Valdivia,Nivel Secundario,2020,3805
+tabla03_matrona.pdf,Valdivia,Nivel Secundario,2021,4343
+tabla03_matrona.pdf,Valdivia,Nivel Secundario,2022,5888
+tabla03_matrona.pdf,Valdivia,Nivel Secundario,2023,5407
+tabla03_matrona.pdf,Valdivia,Nivel Secundario,2024,6582
+tabla03_matrona.pdf,Valdivia,Urgencia,2020,16768
+tabla03_matrona.pdf,Valdivia,Urgencia,2021,16518
+tabla03_matrona.pdf,Valdivia,Urgencia,2022,19098
+tabla03_matrona.pdf,Valdivia,Urgencia,2023,20761
+tabla03_matrona.pdf,Valdivia,Urgencia,2024,18591
+tabla03_matrona.pdf,Osorno,Nivel Primario,2020,68715
+tabla03_matrona.pdf,Osorno,Nivel Primario,2021,88608
+tabla03_matrona.pdf,Osorno,Nivel Primario,2022,97464
+tabla03_matrona.pdf,Osorno,Nivel Primario,2023,102705
+tabla03_matrona.pdf,Osorno,Nivel Primario,2024,103384
+tabla03_matrona.pdf,Osorno,Nivel Secundario,2020,3604
+tabla03_matrona.pdf,Osorno,Nivel Secundario,2021,2653
+tabla03_matrona.pdf,Osorno,Nivel Secundario,2022,3181
+tabla03_matrona.pdf,Osorno,Nivel Secundario,2023,3633
+tabla03_matrona.pdf,Osorno,Nivel Secundario,2024,3195
+tabla03_matrona.pdf,Osorno,Urgencia,2020,6916
+tabla03_matrona.pdf,Osorno,Urgencia,2021,7316
+tabla03_matrona.pdf,Osorno,Urgencia,2022,7995
+tabla03_matrona.pdf,Osorno,Urgencia,2023,8070
+tabla03_matrona.pdf,Osorno,Urgencia,2024,7643
+tabla03_matrona.pdf,Del Reloncaví,Nivel Primario,2020,97646
+tabla03_matrona.pdf,Del Reloncaví,Nivel Primario,2021,126831
+tabla03_matrona.pdf,Del Reloncaví,Nivel Primario,2022,154367
+tabla03_matrona.pdf,Del Reloncaví,Nivel Primario,2023,164993
+tabla03_matrona.pdf,Del Reloncaví,Nivel Primario,2024,176918
+tabla03_matrona.pdf,Del Reloncaví,Nivel Secundario,2020,13196
+tabla03_matrona.pdf,Del Reloncaví,Nivel Secundario,2021,13704
+tabla03_matrona.pdf,Del Reloncaví,Nivel Secundario,2022,14215
+tabla03_matrona.pdf,Del Reloncaví,Nivel Secundario,2023,17010
+tabla03_matrona.pdf,Del Reloncaví,Nivel Secundario,2024,24286
+tabla03_matrona.pdf,Del Reloncaví,Urgencia,2020,15998
+tabla03_matrona.pdf,Del Reloncaví,Urgencia,2021,16657
+tabla03_matrona.pdf,Del Reloncaví,Urgencia,2022,18810
+tabla03_matrona.pdf,Del Reloncaví,Urgencia,2023,16401
+tabla03_matrona.pdf,Del Reloncaví,Urgencia,2024,17146
+tabla03_matrona.pdf,Chiloé,Nivel Primario,2020,52643
+tabla03_matrona.pdf,Chiloé,Nivel Primario,2021,73682
+tabla03_matrona.pdf,Chiloé,Nivel Primario,2022,92165
+tabla03_matrona.pdf,Chiloé,Nivel Primario,2023,93241
+tabla03_matrona.pdf,Chiloé,Nivel Primario,2024,98701
+tabla03_matrona.pdf,Chiloé,Nivel Secundario,2020,6484
+tabla03_matrona.pdf,Chiloé,Nivel Secundario,2021,7528
+tabla03_matrona.pdf,Chiloé,Nivel Secundario,2022,9091
+tabla03_matrona.pdf,Chiloé,Nivel Secundario,2023,9682
+tabla03_matrona.pdf,Chiloé,Nivel Secundario,2024,10335
+tabla03_matrona.pdf,Chiloé,Urgencia,2020,5569
+tabla03_matrona.pdf,Chiloé,Urgencia,2021,6017
+tabla03_matrona.pdf,Chiloé,Urgencia,2022,6095
+tabla03_matrona.pdf,Chiloé,Urgencia,2023,6249
+tabla03_matrona.pdf,Chiloé,Urgencia,2024,5236
+tabla03_matrona.pdf,Aisén,Nivel Primario,2020,25103
+tabla03_matrona.pdf,Aisén,Nivel Primario,2021,29854
+tabla03_matrona.pdf,Aisén,Nivel Primario,2022,31446
+tabla03_matrona.pdf,Aisén,Nivel Primario,2023,36869
+tabla03_matrona.pdf,Aisén,Nivel Primario,2024,40095
+tabla03_matrona.pdf,Aisén,Nivel Secundario,2020,1244
+tabla03_matrona.pdf,Aisén,Nivel Secundario,2021,1277
+tabla03_matrona.pdf,Aisén,Nivel Secundario,2022,1522
+tabla03_matrona.pdf,Aisén,Nivel Secundario,2023,1866
+tabla03_matrona.pdf,Aisén,Nivel Secundario,2024,2597
+tabla03_matrona.pdf,Aisén,Urgencia,2020,1261
+tabla03_matrona.pdf,Aisén,Urgencia,2021,2646
+tabla03_matrona.pdf,Aisén,Urgencia,2022,3717
+tabla03_matrona.pdf,Aisén,Urgencia,2023,2554
+tabla03_matrona.pdf,Aisén,Urgencia,2024,1941
+tabla03_matrona.pdf,Magallanes,Nivel Primario,2020,36053
+tabla03_matrona.pdf,Magallanes,Nivel Primario,2021,53114
+tabla03_matrona.pdf,Magallanes,Nivel Primario,2022,55794
+tabla03_matrona.pdf,Magallanes,Nivel Primario,2023,61494
+tabla03_matrona.pdf,Magallanes,Nivel Primario,2024,66600
+tabla03_matrona.pdf,Magallanes,Nivel Secundario,2020,2355
+tabla03_matrona.pdf,Magallanes,Nivel Secundario,2021,3225
+tabla03_matrona.pdf,Magallanes,Nivel Secundario,2022,3226
+tabla03_matrona.pdf,Magallanes,Nivel Secundario,2023,4914
+tabla03_matrona.pdf,Magallanes,Nivel Secundario,2024,4237
+tabla04_nutricionista.pdf,SNSS,Nivel Primario,2020,1000804
+tabla04_nutricionista.pdf,SNSS,Nivel Primario,2021,1656167
+tabla04_nutricionista.pdf,SNSS,Nivel Primario,2022,2611827
+tabla04_nutricionista.pdf,SNSS,Nivel Primario,2023,2899791
+tabla04_nutricionista.pdf,SNSS,Nivel Primario,2024,3088541
+tabla04_nutricionista.pdf,SNSS,Nivel Secundario,2020,96620
+tabla04_nutricionista.pdf,SNSS,Nivel Secundario,2021,147212
+tabla04_nutricionista.pdf,SNSS,Nivel Secundario,2022,193402
+tabla04_nutricionista.pdf,SNSS,Nivel Secundario,2023,212842
+tabla04_nutricionista.pdf,SNSS,Nivel Secundario,2024,243100
+tabla04_nutricionista.pdf,Arica,Nivel Primario,2020,10668
+tabla04_nutricionista.pdf,Arica,Nivel Primario,2021,20415
+tabla04_nutricionista.pdf,Arica,Nivel Primario,2022,23037
+tabla04_nutricionista.pdf,Arica,Nivel Primario,2023,28171
+tabla04_nutricionista.pdf,Arica,Nivel Primario,2024,35007
+tabla04_nutricionista.pdf,Arica,Nivel Secundario,2020,1723
+tabla04_nutricionista.pdf,Arica,Nivel Secundario,2021,2628
+tabla04_nutricionista.pdf,Arica,Nivel Secundario,2022,4915
+tabla04_nutricionista.pdf,Arica,Nivel Secundario,2023,6115
+tabla04_nutricionista.pdf,Arica,Nivel Secundario,2024,6603
+tabla04_nutricionista.pdf,Iquique,Nivel Primario,2020,21129
+tabla04_nutricionista.pdf,Iquique,Nivel Primario,2021,42910
+tabla04_nutricionista.pdf,Iquique,Nivel Primario,2022,60225
+tabla04_nutricionista.pdf,Iquique,Nivel Primario,2023,64109
+tabla04_nutricionista.pdf,Iquique,Nivel Primario,2024,71787
+tabla04_nutricionista.pdf,Iquique,Nivel Secundario,2020,1070
+tabla04_nutricionista.pdf,Iquique,Nivel Secundario,2021,1944
+tabla04_nutricionista.pdf,Iquique,Nivel Secundario,2022,3169
+tabla04_nutricionista.pdf,Iquique,Nivel Secundario,2023,3144
+tabla04_nutricionista.pdf,Iquique,Nivel Secundario,2024,4505
+tabla04_nutricionista.pdf,Antofagasta,Nivel Primario,2020,22943
+tabla04_nutricionista.pdf,Antofagasta,Nivel Primario,2021,46048
+tabla04_nutricionista.pdf,Antofagasta,Nivel Primario,2022,57959
+tabla04_nutricionista.pdf,Antofagasta,Nivel Primario,2023,68462
+tabla04_nutricionista.pdf,Antofagasta,Nivel Primario,2024,79236
+tabla04_nutricionista.pdf,Antofagasta,Nivel Secundario,2020,7121
+tabla04_nutricionista.pdf,Antofagasta,Nivel Secundario,2021,9546
+tabla04_nutricionista.pdf,Antofagasta,Nivel Secundario,2022,11269
+tabla04_nutricionista.pdf,Antofagasta,Nivel Secundario,2023,12103
+tabla04_nutricionista.pdf,Antofagasta,Nivel Secundario,2024,12878
+tabla04_nutricionista.pdf,Atacama,Nivel Primario,2020,11854
+tabla04_nutricionista.pdf,Atacama,Nivel Primario,2021,19001
+tabla04_nutricionista.pdf,Atacama,Nivel Primario,2022,43886
+tabla04_nutricionista.pdf,Atacama,Nivel Primario,2023,58980
+tabla04_nutricionista.pdf,Atacama,Nivel Primario,2024,71715
+tabla04_nutricionista.pdf,Atacama,Nivel Secundario,2020,1581
+tabla04_nutricionista.pdf,Atacama,Nivel Secundario,2021,3271
+tabla04_nutricionista.pdf,Atacama,Nivel Secundario,2022,2655
+tabla04_nutricionista.pdf,Atacama,Nivel Secundario,2023,2704
+tabla04_nutricionista.pdf,Atacama,Nivel Secundario,2024,2748
+tabla04_nutricionista.pdf,Coquimbo,Nivel Primario,2020,56104
+tabla04_nutricionista.pdf,Coquimbo,Nivel Primario,2021,93588
+tabla04_nutricionista.pdf,Coquimbo,Nivel Primario,2022,133642
+tabla04_nutricionista.pdf,Coquimbo,Nivel Primario,2023,153016
+tabla04_nutricionista.pdf,Coquimbo,Nivel Primario,2024,171695
+tabla04_nutricionista.pdf,Coquimbo,Nivel Secundario,2020,2614
+tabla04_nutricionista.pdf,Coquimbo,Nivel Secundario,2021,6791
+tabla04_nutricionista.pdf,Coquimbo,Nivel Secundario,2022,9401
+tabla04_nutricionista.pdf,Coquimbo,Nivel Secundario,2023,12086
+tabla04_nutricionista.pdf,Coquimbo,Nivel Secundario,2024,12838
+tabla04_nutricionista.pdf,Valparaíso San Antonio,Nivel Primario,2020,27906
+tabla04_nutricionista.pdf,Valparaíso San Antonio,Nivel Primario,2021,45718
+tabla04_nutricionista.pdf,Valparaíso San Antonio,Nivel Primario,2022,75015
+tabla04_nutricionista.pdf,Valparaíso San Antonio,Nivel Primario,2023,84083
+tabla04_nutricionista.pdf,Valparaíso San Antonio,Nivel Primario,2024,83726
+tabla04_nutricionista.pdf,Valparaíso San Antonio,Nivel Secundario,2020,3638
+tabla04_nutricionista.pdf,Valparaíso San Antonio,Nivel Secundario,2021,2926
+tabla04_nutricionista.pdf,Valparaíso San Antonio,Nivel Secundario,2022,4354
+tabla04_nutricionista.pdf,Valparaíso San Antonio,Nivel Secundario,2023,5180
+tabla04_nutricionista.pdf,Valparaíso San Antonio,Nivel Secundario,2024,6699
+tabla04_nutricionista.pdf,Viña del Mar Quillota,Nivel Primario,2020,47644
+tabla04_nutricionista.pdf,Viña del Mar Quillota,Nivel Primario,2021,82396
+tabla04_nutricionista.pdf,Viña del Mar Quillota,Nivel Primario,2022,125103
+tabla04_nutricionista.pdf,Viña del Mar Quillota,Nivel Primario,2023,156217
+tabla04_nutricionista.pdf,Viña del Mar Quillota,Nivel Primario,2024,159709
+tabla04_nutricionista.pdf,Viña del Mar Quillota,Nivel Secundario,2020,6234
+tabla04_nutricionista.pdf,Viña del Mar Quillota,Nivel Secundario,2021,7840
+tabla04_nutricionista.pdf,Viña del Mar Quillota,Nivel Secundario,2022,8760
+tabla04_nutricionista.pdf,Viña del Mar Quillota,Nivel Secundario,2023,9736
+tabla04_nutricionista.pdf,Viña del Mar Quillota,Nivel Secundario,2024,8357
+tabla04_nutricionista.pdf,Aconcagua,Nivel Primario,2020,16144
+tabla04_nutricionista.pdf,Aconcagua,Nivel Primario,2021,29000
+tabla04_nutricionista.pdf,Aconcagua,Nivel Primario,2022,45409
+tabla04_nutricionista.pdf,Aconcagua,Nivel Primario,2023,48668
+tabla04_nutricionista.pdf,Aconcagua,Nivel Primario,2024,51634
+tabla04_nutricionista.pdf,Aconcagua,Nivel Secundario,2020,2735
+tabla04_nutricionista.pdf,Aconcagua,Nivel Secundario,2021,3882
+tabla04_nutricionista.pdf,Aconcagua,Nivel Secundario,2022,3785
+tabla04_nutricionista.pdf,Aconcagua,Nivel Secundario,2023,3906
+tabla04_nutricionista.pdf,Aconcagua,Nivel Secundario,2024,4066
+tabla04_nutricionista.pdf,Metropolitano Norte,Nivel Primario,2020,43004
+tabla04_nutricionista.pdf,Metropolitano Norte,Nivel Primario,2021,68472
+tabla04_nutricionista.pdf,Metropolitano Norte,Nivel Primario,2022,110735
+tabla04_nutricionista.pdf,Metropolitano Norte,Nivel Primario,2023,126498
+tabla04_nutricionista.pdf,Metropolitano Norte,Nivel Primario,2024,128341
+tabla04_nutricionista.pdf,Metropolitano Norte,Nivel Secundario,2020,3654
+tabla04_nutricionista.pdf,Metropolitano Norte,Nivel Secundario,2021,5717
+tabla04_nutricionista.pdf,Metropolitano Norte,Nivel Secundario,2022,6297
+tabla04_nutricionista.pdf,Metropolitano Norte,Nivel Secundario,2023,7645
+tabla04_nutricionista.pdf,Metropolitano Norte,Nivel Secundario,2024,9069
+tabla04_nutricionista.pdf,Metropolitano Occidente,Nivel Primario,2020,73183
+tabla04_nutricionista.pdf,Metropolitano Occidente,Nivel Primario,2021,124072
+tabla04_nutricionista.pdf,Metropolitano Occidente,Nivel Primario,2022,212969
+tabla04_nutricionista.pdf,Metropolitano Occidente,Nivel Primario,2023,226350
+tabla04_nutricionista.pdf,Metropolitano Occidente,Nivel Primario,2024,229743
+tabla04_nutricionista.pdf,Metropolitano Occidente,Nivel Secundario,2020,7998
+tabla04_nutricionista.pdf,Metropolitano Occidente,Nivel Secundario,2021,13577
+tabla04_nutricionista.pdf,Metropolitano Occidente,Nivel Secundario,2022,16739
+tabla04_nutricionista.pdf,Metropolitano Occidente,Nivel Secundario,2023,17744
+tabla04_nutricionista.pdf,Metropolitano Occidente,Nivel Secundario,2024,20482
+tabla04_nutricionista.pdf,Metropolitano Central,Nivel Primario,2020,38184
+tabla04_nutricionista.pdf,Metropolitano Central,Nivel Primario,2021,47886
+tabla04_nutricionista.pdf,Metropolitano Central,Nivel Primario,2022,80827
+tabla04_nutricionista.pdf,Metropolitano Central,Nivel Primario,2023,97895
+tabla04_nutricionista.pdf,Metropolitano Central,Nivel Primario,2024,117277
+tabla04_nutricionista.pdf,Metropolitano Central,Nivel Secundario,2020,3930
+tabla04_nutricionista.pdf,Metropolitano Central,Nivel Secundario,2021,1265
+tabla04_nutricionista.pdf,Metropolitano Central,Nivel Secundario,2022,4836
+tabla04_nutricionista.pdf,Metropolitano Central,Nivel Secundario,2023,6346
+tabla04_nutricionista.pdf,Metropolitano Central,Nivel Secundario,2024,7379
+tabla04_nutricionista.pdf,Metropolitano Oriente,Nivel Primario,2020,37160
+tabla04_nutricionista.pdf,Metropolitano Oriente,Nivel Primario,2021,58231
+tabla04_nutricionista.pdf,Metropolitano Oriente,Nivel Primario,2022,105553
+tabla04_nutricionista.pdf,Metropolitano Oriente,Nivel Primario,2023,118119
+tabla04_nutricionista.pdf,Metropolitano Oriente,Nivel Primario,2024,127222
+tabla04_nutricionista.pdf,Metropolitano Oriente,Nivel Secundario,2020,3590
+tabla04_nutricionista.pdf,Metropolitano Oriente,Nivel Secundario,2021,5506
+tabla04_nutricionista.pdf,Metropolitano Oriente,Nivel Secundario,2022,7904
+tabla04_nutricionista.pdf,Metropolitano Oriente,Nivel Secundario,2023,8780
+tabla04_nutricionista.pdf,Metropolitano Oriente,Nivel Secundario,2024,9804
+tabla04_nutricionista.pdf,Metropolitano Sur,Nivel Primario,2020,58911
+tabla04_nutricionista.pdf,Metropolitano Sur,Nivel Primario,2021,89646
+tabla04_nutricionista.pdf,Metropolitano Sur,Nivel Primario,2022,151483
+tabla04_nutricionista.pdf,Metropolitano Sur,Nivel Primario,2023,171162
+tabla04_nutricionista.pdf,Metropolitano Sur,Nivel Primario,2024,189990
+tabla04_nutricionista.pdf,Metropolitano Sur,Nivel Secundario,2020,8240
+tabla04_nutricionista.pdf,Metropolitano Sur,Nivel Secundario,2021,12207
+tabla04_nutricionista.pdf,Metropolitano Sur,Nivel Secundario,2022,14216
+tabla04_nutricionista.pdf,Metropolitano Sur,Nivel Secundario,2023,14845
+tabla04_nutricionista.pdf,Metropolitano Sur,Nivel Secundario,2024,20734
+tabla04_nutricionista.pdf,Metropolitano Sur Oriente,Nivel Primario,2020,60338
+tabla04_nutricionista.pdf,Metropolitano Sur Oriente,Nivel Primario,2021,71539
+tabla04_nutricionista.pdf,Metropolitano Sur Oriente,Nivel Primario,2022,145671
+tabla04_nutricionista.pdf,Metropolitano Sur Oriente,Nivel Primario,2023,158801
+tabla04_nutricionista.pdf,Metropolitano Sur Oriente,Nivel Primario,2024,171360
+tabla04_nutricionista.pdf,Metropolitano Sur Oriente,Nivel Secundario,2020,4595
+tabla04_nutricionista.pdf,Metropolitano Sur Oriente,Nivel Secundario,2021,9253
+tabla04_nutricionista.pdf,Metropolitano Sur Oriente,Nivel Secundario,2022,13218
+tabla04_nutricionista.pdf,Metropolitano Sur Oriente,Nivel Secundario,2023,16437
+tabla04_nutricionista.pdf,Metropolitano Sur Oriente,Nivel Secundario,2024,17117
+tabla04_nutricionista.pdf,O'Higgins,Nivel Primario,2020,68414
+tabla04_nutricionista.pdf,O'Higgins,Nivel Primario,2021,120182
+tabla04_nutricionista.pdf,O'Higgins,Nivel Primario,2022,165865
+tabla04_nutricionista.pdf,O'Higgins,Nivel Primario,2023,181744
+tabla04_nutricionista.pdf,O'Higgins,Nivel Primario,2024,185591
+tabla04_nutricionista.pdf,O'Higgins,Nivel Secundario,2020,2185
+tabla04_nutricionista.pdf,O'Higgins,Nivel Secundario,2021,4461
+tabla04_nutricionista.pdf,O'Higgins,Nivel Secundario,2022,6953
+tabla04_nutricionista.pdf,O'Higgins,Nivel Secundario,2023,6263
+tabla04_nutricionista.pdf,O'Higgins,Nivel Secundario,2024,6309
+tabla04_nutricionista.pdf,Maule,Nivel Primario,2020,96304
+tabla04_nutricionista.pdf,Maule,Nivel Primario,2021,170220
+tabla04_nutricionista.pdf,Maule,Nivel Primario,2022,234116
+tabla04_nutricionista.pdf,Maule,Nivel Primario,2023,256262
+tabla04_nutricionista.pdf,Maule,Nivel Primario,2024,265568
+tabla04_nutricionista.pdf,Maule,Nivel Secundario,2020,8227
+tabla04_nutricionista.pdf,Maule,Nivel Secundario,2021,11547
+tabla04_nutricionista.pdf,Maule,Nivel Secundario,2022,13390
+tabla04_nutricionista.pdf,Maule,Nivel Secundario,2023,15570
+tabla04_nutricionista.pdf,Maule,Nivel Secundario,2024,19654
+tabla04_nutricionista.pdf,Ñuble,Nivel Primario,2020,43546
+tabla04_nutricionista.pdf,Ñuble,Nivel Primario,2021,74855
+tabla04_nutricionista.pdf,Ñuble,Nivel Primario,2022,108812
+tabla04_nutricionista.pdf,Ñuble,Nivel Primario,2023,121928
+tabla04_nutricionista.pdf,Ñuble,Nivel Primario,2024,129958
+tabla04_nutricionista.pdf,Ñuble,Nivel Secundario,2020,6056
+tabla04_nutricionista.pdf,Ñuble,Nivel Secundario,2021,6948
+tabla04_nutricionista.pdf,Ñuble,Nivel Secundario,2022,9404
+tabla04_nutricionista.pdf,Ñuble,Nivel Secundario,2023,10334
+tabla04_nutricionista.pdf,Ñuble,Nivel Secundario,2024,11592
+tabla04_nutricionista.pdf,Concepción,Nivel Primario,2020,32366
+tabla04_nutricionista.pdf,Concepción,Nivel Primario,2021,52505
+tabla04_nutricionista.pdf,Concepción,Nivel Primario,2022,89703
+tabla04_nutricionista.pdf,Concepción,Nivel Primario,2023,100328
+tabla04_nutricionista.pdf,Concepción,Nivel Primario,2024,108653
+tabla04_nutricionista.pdf,Concepción,Nivel Secundario,2020,1842
+tabla04_nutricionista.pdf,Concepción,Nivel Secundario,2021,3135
+tabla04_nutricionista.pdf,Concepción,Nivel Secundario,2022,4055
+tabla04_nutricionista.pdf,Concepción,Nivel Secundario,2023,4404
+tabla04_nutricionista.pdf,Concepción,Nivel Secundario,2024,4444
+tabla04_nutricionista.pdf,Arauco,Nivel Primario,2020,14202
+tabla04_nutricionista.pdf,Arauco,Nivel Primario,2021,23588
+tabla04_nutricionista.pdf,Arauco,Nivel Primario,2022,36474
+tabla04_nutricionista.pdf,Arauco,Nivel Primario,2023,43718
+tabla04_nutricionista.pdf,Arauco,Nivel Primario,2024,49168
+tabla04_nutricionista.pdf,Arauco,Nivel Secundario,2021,110
+tabla04_nutricionista.pdf,Arauco,Nivel Secundario,2022,169
+tabla04_nutricionista.pdf,Arauco,Nivel Secundario,2023,328
+tabla04_nutricionista.pdf,Arauco,Nivel Secundario,2024,528
+tabla04_nutricionista.pdf,Talcahuano,Nivel Primario,2020,18255
+tabla04_nutricionista.pdf,Talcahuano,Nivel Primario,2021,23321
+tabla04_nutricionista.pdf,Talcahuano,Nivel Primario,2022,53884
+tabla04_nutricionista.pdf,Talcahuano,Nivel Primario,2023,58200
+tabla04_nutricionista.pdf,Talcahuano,Nivel Primario,2024,55611
+tabla04_nutricionista.pdf,Talcahuano,Nivel Secundario,2020,3466
+tabla04_nutricionista.pdf,Talcahuano,Nivel Secundario,2021,7568
+tabla04_nutricionista.pdf,Talcahuano,Nivel Secundario,2022,9742
+tabla04_nutricionista.pdf,Talcahuano,Nivel Secundario,2023,10152
+tabla04_nutricionista.pdf,Talcahuano,Nivel Secundario,2024,11796
+tabla04_nutricionista.pdf,Biobío,Nivel Primario,2020,37697
+tabla04_nutricionista.pdf,Biobío,Nivel Primario,2021,64940
+tabla04_nutricionista.pdf,Biobío,Nivel Primario,2022,97823
+tabla04_nutricionista.pdf,Biobío,Nivel Primario,2023,96843
+tabla04_nutricionista.pdf,Biobío,Nivel Primario,2024,100254
+tabla04_nutricionista.pdf,Biobío,Nivel Secundario,2020,4172
+tabla04_nutricionista.pdf,Biobío,Nivel Secundario,2021,4508
+tabla04_nutricionista.pdf,Biobío,Nivel Secundario,2022,7583
+tabla04_nutricionista.pdf,Biobío,Nivel Secundario,2023,8265
+tabla04_nutricionista.pdf,Biobío,Nivel Secundario,2024,9264
+tabla04_nutricionista.pdf,Araucanía Norte,Nivel Primario,2020,18731
+tabla04_nutricionista.pdf,Araucanía Norte,Nivel Primario,2021,30630
+tabla04_nutricionista.pdf,Araucanía Norte,Nivel Primario,2022,54152
+tabla04_nutricionista.pdf,Araucanía Norte,Nivel Primario,2023,58372
+tabla04_nutricionista.pdf,Araucanía Norte,Nivel Primario,2024,59353
+tabla04_nutricionista.pdf,Araucanía Norte,Nivel Secundario,2020,398
+tabla04_nutricionista.pdf,Araucanía Norte,Nivel Secundario,2021,3372
+tabla04_nutricionista.pdf,Araucanía Norte,Nivel Secundario,2022,5239
+tabla04_nutricionista.pdf,Araucanía Norte,Nivel Secundario,2023,6100
+tabla04_nutricionista.pdf,Araucanía Norte,Nivel Secundario,2024,5674
+tabla04_nutricionista.pdf,Araucanía Sur,Nivel Primario,2020,57557
+tabla04_nutricionista.pdf,Araucanía Sur,Nivel Primario,2021,103754
+tabla04_nutricionista.pdf,Araucanía Sur,Nivel Primario,2022,157663
+tabla04_nutricionista.pdf,Araucanía Sur,Nivel Primario,2023,167209
+tabla04_nutricionista.pdf,Araucanía Sur,Nivel Primario,2024,177499
+tabla04_nutricionista.pdf,Araucanía Sur,Nivel Secundario,2020,2156
+tabla04_nutricionista.pdf,Araucanía Sur,Nivel Secundario,2021,6021
+tabla04_nutricionista.pdf,Araucanía Sur,Nivel Secundario,2022,8708
+tabla04_nutricionista.pdf,Araucanía Sur,Nivel Secundario,2023,7587
+tabla04_nutricionista.pdf,Araucanía Sur,Nivel Secundario,2024,9149
+tabla04_nutricionista.pdf,Valdivia,Nivel Primario,2020,15908
+tabla04_nutricionista.pdf,Valdivia,Nivel Primario,2021,26527
+tabla04_nutricionista.pdf,Valdivia,Nivel Primario,2022,56016
+tabla04_nutricionista.pdf,Valdivia,Nivel Primario,2023,59609
+tabla04_nutricionista.pdf,Valdivia,Nivel Primario,2024,61139
+tabla04_nutricionista.pdf,Valdivia,Nivel Secundario,2020,879
+tabla04_nutricionista.pdf,Valdivia,Nivel Secundario,2021,1132
+tabla04_nutricionista.pdf,Valdivia,Nivel Secundario,2022,1602
+tabla04_nutricionista.pdf,Valdivia,Nivel Secundario,2023,1855
+tabla04_nutricionista.pdf,Valdivia,Nivel Secundario,2024,2186
+tabla04_nutricionista.pdf,Osorno,Nivel Primario,2020,19805
+tabla04_nutricionista.pdf,Osorno,Nivel Primario,2021,34180
+tabla04_nutricionista.pdf,Osorno,Nivel Primario,2022,42735
+tabla04_nutricionista.pdf,Osorno,Nivel Primario,2023,46390
+tabla04_nutricionista.pdf,Osorno,Nivel Primario,2024,46558
+tabla04_nutricionista.pdf,Osorno,Nivel Secundario,2020,2285
+tabla04_nutricionista.pdf,Osorno,Nivel Secundario,2021,2960
+tabla04_nutricionista.pdf,Osorno,Nivel Secundario,2022,4555
+tabla04_nutricionista.pdf,Osorno,Nivel Secundario,2023,4586
+tabla04_nutricionista.pdf,Osorno,Nivel Secundario,2024,4736
+tabla04_nutricionista.pdf,Del Reloncaví,Nivel Primario,2020,20341
+tabla04_nutricionista.pdf,Del Reloncaví,Nivel Primario,2021,37774
+tabla04_nutricionista.pdf,Del Reloncaví,Nivel Primario,2022,62367
+tabla04_nutricionista.pdf,Del Reloncaví,Nivel Primario,2023,65721
+tabla04_nutricionista.pdf,Del Reloncaví,Nivel Primario,2024,72696
+tabla04_nutricionista.pdf,Del Reloncaví,Nivel Secundario,2020,3708
+tabla04_nutricionista.pdf,Del Reloncaví,Nivel Secundario,2021,4422
+tabla04_nutricionista.pdf,Del Reloncaví,Nivel Secundario,2022,4432
+tabla04_nutricionista.pdf,Del Reloncaví,Nivel Secundario,2023,3617
+tabla04_nutricionista.pdf,Del Reloncaví,Nivel Secundario,2024,6225
+tabla04_nutricionista.pdf,Chiloé,Nivel Primario,2020,16556
+tabla04_nutricionista.pdf,Chiloé,Nivel Primario,2021,31243
+tabla04_nutricionista.pdf,Chiloé,Nivel Primario,2022,48440
+tabla04_nutricionista.pdf,Chiloé,Nivel Primario,2023,46749
+tabla04_nutricionista.pdf,Chiloé,Nivel Primario,2024,50459
+tabla04_nutricionista.pdf,Chiloé,Nivel Secundario,2020,902
+tabla04_nutricionista.pdf,Chiloé,Nivel Secundario,2021,1230
+tabla04_nutricionista.pdf,Chiloé,Nivel Secundario,2022,2211
+tabla04_nutricionista.pdf,Chiloé,Nivel Secundario,2023,2510
+tabla04_nutricionista.pdf,Chiloé,Nivel Secundario,2024,2408
+tabla04_nutricionista.pdf,Aisén,Nivel Primario,2020,5527
+tabla04_nutricionista.pdf,Aisén,Nivel Primario,2021,7283
+tabla04_nutricionista.pdf,Aisén,Nivel Primario,2022,12513
+tabla04_nutricionista.pdf,Aisén,Nivel Primario,2023,15069
+tabla04_nutricionista.pdf,Aisén,Nivel Primario,2024,16751
+tabla04_nutricionista.pdf,Aisén,Nivel Secundario,2020,753
+tabla04_nutricionista.pdf,Aisén,Nivel Secundario,2021,2001
+tabla04_nutricionista.pdf,Aisén,Nivel Secundario,2022,2032
+tabla04_nutricionista.pdf,Aisén,Nivel Secundario,2023,2104
+tabla04_nutricionista.pdf,Aisén,Nivel Secundario,2024,2519
+tabla04_nutricionista.pdf,Magallanes,Nivel Primario,2020,10423
+tabla04_nutricionista.pdf,Magallanes,Nivel Primario,2021,16243
+tabla04_nutricionista.pdf,Magallanes,Nivel Primario,2022,19750
+tabla04_nutricionista.pdf,Magallanes,Nivel Primario,2023,21118
+tabla04_nutricionista.pdf,Magallanes,Nivel Primario,2024,20841
+tabla05_psicologo.pdf,SNSS,Nivel Primario,2020,769055
+tabla05_psicologo.pdf,SNSS,Nivel Primario,2021,1360729
+tabla05_psicologo.pdf,SNSS,Nivel Primario,2022,2055888
+tabla05_psicologo.pdf,SNSS,Nivel Primario,2023,2399363
+tabla05_psicologo.pdf,SNSS,Nivel Primario,2024,2547234
+tabla05_psicologo.pdf,SNSS,Nivel Secundario,2020,553499
+tabla05_psicologo.pdf,SNSS,Nivel Secundario,2021,781887
+tabla05_psicologo.pdf,SNSS,Nivel Secundario,2022,1006954
+tabla05_psicologo.pdf,SNSS,Nivel Secundario,2023,1134048
+tabla05_psicologo.pdf,SNSS,Nivel Secundario,2024,1270614
+tabla05_psicologo.pdf,SNSS,Urgencia,2023,66246
+tabla05_psicologo.pdf,SNSS,Urgencia,2024,73722
+tabla05_psicologo.pdf,Arica,Nivel Primario,2020,10641
+tabla05_psicologo.pdf,Arica,Nivel Primario,2021,26527
+tabla05_psicologo.pdf,Arica,Nivel Primario,2022,26931
+tabla05_psicologo.pdf,Arica,Nivel Primario,2023,30175
+tabla05_psicologo.pdf,Arica,Nivel Primario,2024,36098
+tabla05_psicologo.pdf,Arica,Nivel Secundario,2020,15096
+tabla05_psicologo.pdf,Arica,Nivel Secundario,2021,18618
+tabla05_psicologo.pdf,Arica,Nivel Secundario,2022,24992
+tabla05_psicologo.pdf,Arica,Nivel Secundario,2023,23191
+tabla05_psicologo.pdf,Arica,Nivel Secundario,2024,25613
+tabla05_psicologo.pdf,Iquique,Nivel Primario,2020,27023
+tabla05_psicologo.pdf,Iquique,Nivel Primario,2021,35630
+tabla05_psicologo.pdf,Iquique,Nivel Primario,2022,49234
+tabla05_psicologo.pdf,Iquique,Nivel Primario,2023,53597
+tabla05_psicologo.pdf,Iquique,Nivel Primario,2024,57894
+tabla05_psicologo.pdf,Iquique,Nivel Secundario,2020,11182
+tabla05_psicologo.pdf,Iquique,Nivel Secundario,2021,10746
+tabla05_psicologo.pdf,Iquique,Nivel Secundario,2022,14732
+tabla05_psicologo.pdf,Iquique,Nivel Secundario,2023,17189
+tabla05_psicologo.pdf,Iquique,Nivel Secundario,2024,20667
+tabla05_psicologo.pdf,Iquique,Urgencia,2023,3594
+tabla05_psicologo.pdf,Iquique,Urgencia,2024,4373
+tabla05_psicologo.pdf,Antofagasta,Nivel Primario,2020,15605
+tabla05_psicologo.pdf,Antofagasta,Nivel Primario,2021,33433
+tabla05_psicologo.pdf,Antofagasta,Nivel Primario,2022,48131
+tabla05_psicologo.pdf,Antofagasta,Nivel Primario,2023,53227
+tabla05_psicologo.pdf,Antofagasta,Nivel Primario,2024,60274
+tabla05_psicologo.pdf,Antofagasta,Nivel Secundario,2020,21564
+tabla05_psicologo.pdf,Antofagasta,Nivel Secundario,2021,35876
+tabla05_psicologo.pdf,Antofagasta,Nivel Secundario,2022,36524
+tabla05_psicologo.pdf,Antofagasta,Nivel Secundario,2023,38020
+tabla05_psicologo.pdf,Antofagasta,Nivel Secundario,2024,43534
+tabla05_psicologo.pdf,Antofagasta,Urgencia,2023,1310
+tabla05_psicologo.pdf,Antofagasta,Urgencia,2024,766
+tabla05_psicologo.pdf,Atacama,Nivel Primario,2020,14153
+tabla05_psicologo.pdf,Atacama,Nivel Primario,2021,26522
+tabla05_psicologo.pdf,Atacama,Nivel Primario,2022,35030
+tabla05_psicologo.pdf,Atacama,Nivel Primario,2023,43093
+tabla05_psicologo.pdf,Atacama,Nivel Primario,2024,44875
+tabla05_psicologo.pdf,Atacama,Nivel Secundario,2020,9591
+tabla05_psicologo.pdf,Atacama,Nivel Secundario,2021,14570
+tabla05_psicologo.pdf,Atacama,Nivel Secundario,2022,12221
+tabla05_psicologo.pdf,Atacama,Nivel Secundario,2023,12086
+tabla05_psicologo.pdf,Atacama,Nivel Secundario,2024,12165
+tabla05_psicologo.pdf,Atacama,Urgencia,2023,1150
+tabla05_psicologo.pdf,Atacama,Urgencia,2024,1040
+tabla05_psicologo.pdf,Coquimbo,Nivel Primario,2020,37067
+tabla05_psicologo.pdf,Coquimbo,Nivel Primario,2021,64769
+tabla05_psicologo.pdf,Coquimbo,Nivel Primario,2022,92159
+tabla05_psicologo.pdf,Coquimbo,Nivel Primario,2023,117156
+tabla05_psicologo.pdf,Coquimbo,Nivel Primario,2024,110238
+tabla05_psicologo.pdf,Coquimbo,Nivel Secundario,2020,16048
+tabla05_psicologo.pdf,Coquimbo,Nivel Secundario,2021,35958
+tabla05_psicologo.pdf,Coquimbo,Nivel Secundario,2022,40015
+tabla05_psicologo.pdf,Coquimbo,Nivel Secundario,2023,46021
+tabla05_psicologo.pdf,Coquimbo,Nivel Secundario,2024,53991
+tabla05_psicologo.pdf,Coquimbo,Urgencia,2023,5886
+tabla05_psicologo.pdf,Coquimbo,Urgencia,2024,5881
+tabla05_psicologo.pdf,Valparaíso San Antonio,Nivel Primario,2020,18589
+tabla05_psicologo.pdf,Valparaíso San Antonio,Nivel Primario,2021,34437
+tabla05_psicologo.pdf,Valparaíso San Antonio,Nivel Primario,2022,65634
+tabla05_psicologo.pdf,Valparaíso San Antonio,Nivel Primario,2023,79063
+tabla05_psicologo.pdf,Valparaíso San Antonio,Nivel Primario,2024,80742
+tabla05_psicologo.pdf,Valparaíso San Antonio,Nivel Secundario,2020,10846
+tabla05_psicologo.pdf,Valparaíso San Antonio,Nivel Secundario,2021,15238
+tabla05_psicologo.pdf,Valparaíso San Antonio,Nivel Secundario,2022,20386
+tabla05_psicologo.pdf,Valparaíso San Antonio,Nivel Secundario,2023,25316
+tabla05_psicologo.pdf,Valparaíso San Antonio,Nivel Secundario,2024,28211
+tabla05_psicologo.pdf,Valparaíso San Antonio,Urgencia,2023,2451
+tabla05_psicologo.pdf,Valparaíso San Antonio,Urgencia,2024,1616
+tabla05_psicologo.pdf,Viña del Mar Quillota,Nivel Primario,2020,55433
+tabla05_psicologo.pdf,Viña del Mar Quillota,Nivel Primario,2021,85926
+tabla05_psicologo.pdf,Viña del Mar Quillota,Nivel Primario,2022,133940
+tabla05_psicologo.pdf,Viña del Mar Quillota,Nivel Primario,2023,157094
+tabla05_psicologo.pdf,Viña del Mar Quillota,Nivel Primario,2024,167058
+tabla05_psicologo.pdf,Viña del Mar Quillota,Nivel Secundario,2020,28100
+tabla05_psicologo.pdf,Viña del Mar Quillota,Nivel Secundario,2021,38390
+tabla05_psicologo.pdf,Viña del Mar Quillota,Nivel Secundario,2022,43044
+tabla05_psicologo.pdf,Viña del Mar Quillota,Nivel Secundario,2023,48687
+tabla05_psicologo.pdf,Viña del Mar Quillota,Nivel Secundario,2024,49468
+tabla05_psicologo.pdf,Viña del Mar Quillota,Urgencia,2023,2385
+tabla05_psicologo.pdf,Viña del Mar Quillota,Urgencia,2024,2717
+tabla05_psicologo.pdf,Aconcagua,Nivel Primario,2020,14787
+tabla05_psicologo.pdf,Aconcagua,Nivel Primario,2021,25356
+tabla05_psicologo.pdf,Aconcagua,Nivel Primario,2022,36387
+tabla05_psicologo.pdf,Aconcagua,Nivel Primario,2023,41445
+tabla05_psicologo.pdf,Aconcagua,Nivel Primario,2024,40816
+tabla05_psicologo.pdf,Aconcagua,Nivel Secundario,2020,5671
+tabla05_psicologo.pdf,Aconcagua,Nivel Secundario,2021,10684
+tabla05_psicologo.pdf,Aconcagua,Nivel Secundario,2022,14794
+tabla05_psicologo.pdf,Aconcagua,Nivel Secundario,2023,16725
+tabla05_psicologo.pdf,Aconcagua,Nivel Secundario,2024,21173
+tabla05_psicologo.pdf,Aconcagua,Urgencia,2023,1383
+tabla05_psicologo.pdf,Aconcagua,Urgencia,2024,777
+tabla05_psicologo.pdf,Metropolitano Norte,Nivel Primario,2020,37023
+tabla05_psicologo.pdf,Metropolitano Norte,Nivel Primario,2021,64387
+tabla05_psicologo.pdf,Metropolitano Norte,Nivel Primario,2022,94229
+tabla05_psicologo.pdf,Metropolitano Norte,Nivel Primario,2023,108654
+tabla05_psicologo.pdf,Metropolitano Norte,Nivel Primario,2024,123717
+tabla05_psicologo.pdf,Metropolitano Norte,Nivel Secundario,2020,29465
+tabla05_psicologo.pdf,Metropolitano Norte,Nivel Secundario,2021,44325
+tabla05_psicologo.pdf,Metropolitano Norte,Nivel Secundario,2022,57236
+tabla05_psicologo.pdf,Metropolitano Norte,Nivel Secundario,2023,66130
+tabla05_psicologo.pdf,Metropolitano Norte,Nivel Secundario,2024,71975
+tabla05_psicologo.pdf,Metropolitano Norte,Urgencia,2023,4772
+tabla05_psicologo.pdf,Metropolitano Norte,Urgencia,2024,4139
+tabla05_psicologo.pdf,Metropolitano Occidente,Nivel Primario,2020,39919
+tabla05_psicologo.pdf,Metropolitano Occidente,Nivel Primario,2021,80073
+tabla05_psicologo.pdf,Metropolitano Occidente,Nivel Primario,2022,127411
+tabla05_psicologo.pdf,Metropolitano Occidente,Nivel Primario,2023,148795
+tabla05_psicologo.pdf,Metropolitano Occidente,Nivel Primario,2024,162250
+tabla05_psicologo.pdf,Metropolitano Occidente,Nivel Secundario,2020,32768
+tabla05_psicologo.pdf,Metropolitano Occidente,Nivel Secundario,2021,52401
+tabla05_psicologo.pdf,Metropolitano Occidente,Nivel Secundario,2022,76685
+tabla05_psicologo.pdf,Metropolitano Occidente,Nivel Secundario,2023,82644
+tabla05_psicologo.pdf,Metropolitano Occidente,Nivel Secundario,2024,87468
+tabla05_psicologo.pdf,Metropolitano Occidente,Urgencia,2023,4554
+tabla05_psicologo.pdf,Metropolitano Occidente,Urgencia,2024,5263
+tabla05_psicologo.pdf,Metropolitano Central,Nivel Primario,2020,26383
+tabla05_psicologo.pdf,Metropolitano Central,Nivel Primario,2021,45366
+tabla05_psicologo.pdf,Metropolitano Central,Nivel Primario,2022,68672
+tabla05_psicologo.pdf,Metropolitano Central,Nivel Primario,2023,79044
+tabla05_psicologo.pdf,Metropolitano Central,Nivel Primario,2024,88853
+tabla05_psicologo.pdf,Metropolitano Central,Nivel Secundario,2020,32286
+tabla05_psicologo.pdf,Metropolitano Central,Nivel Secundario,2021,38968
+tabla05_psicologo.pdf,Metropolitano Central,Nivel Secundario,2022,55820
+tabla05_psicologo.pdf,Metropolitano Central,Nivel Secundario,2023,67525
+tabla05_psicologo.pdf,Metropolitano Central,Nivel Secundario,2024,83126
+tabla05_psicologo.pdf,Metropolitano Central,Urgencia,2023,752
+tabla05_psicologo.pdf,Metropolitano Central,Urgencia,2024,903
+tabla05_psicologo.pdf,Metropolitano Oriente,Nivel Primario,2020,44845
+tabla05_psicologo.pdf,Metropolitano Oriente,Nivel Primario,2021,63583
+tabla05_psicologo.pdf,Metropolitano Oriente,Nivel Primario,2022,109821
+tabla05_psicologo.pdf,Metropolitano Oriente,Nivel Primario,2023,134342
+tabla05_psicologo.pdf,Metropolitano Oriente,Nivel Primario,2024,135813
+tabla05_psicologo.pdf,Metropolitano Oriente,Nivel Secundario,2020,53510
+tabla05_psicologo.pdf,Metropolitano Oriente,Nivel Secundario,2021,67082
+tabla05_psicologo.pdf,Metropolitano Oriente,Nivel Secundario,2022,78497
+tabla05_psicologo.pdf,Metropolitano Oriente,Nivel Secundario,2023,91667
+tabla05_psicologo.pdf,Metropolitano Oriente,Nivel Secundario,2024,106237
+tabla05_psicologo.pdf,Metropolitano Oriente,Urgencia,2023,2960
+tabla05_psicologo.pdf,Metropolitano Oriente,Urgencia,2024,2483
+tabla05_psicologo.pdf,Metropolitano Sur,Nivel Primario,2020,44813
+tabla05_psicologo.pdf,Metropolitano Sur,Nivel Primario,2021,86301
+tabla05_psicologo.pdf,Metropolitano Sur,Nivel Primario,2022,134529
+tabla05_psicologo.pdf,Metropolitano Sur,Nivel Primario,2023,155050
+tabla05_psicologo.pdf,Metropolitano Sur,Nivel Primario,2024,172791
+tabla05_psicologo.pdf,Metropolitano Sur,Nivel Secundario,2020,22882
+tabla05_psicologo.pdf,Metropolitano Sur,Nivel Secundario,2021,33882
+tabla05_psicologo.pdf,Metropolitano Sur,Nivel Secundario,2022,44738
+tabla05_psicologo.pdf,Metropolitano Sur,Nivel Secundario,2023,50025
+tabla05_psicologo.pdf,Metropolitano Sur,Nivel Secundario,2024,55440
+tabla05_psicologo.pdf,Metropolitano Sur,Urgencia,2023,7425
+tabla05_psicologo.pdf,Metropolitano Sur,Urgencia,2024,8599
+tabla05_psicologo.pdf,Metropolitano Sur Oriente,Nivel Primario,2020,47987
+tabla05_psicologo.pdf,Metropolitano Sur Oriente,Nivel Primario,2021,74661
+tabla05_psicologo.pdf,Metropolitano Sur Oriente,Nivel Primario,2022,114139
+tabla05_psicologo.pdf,Metropolitano Sur Oriente,Nivel Primario,2023,141815
+tabla05_psicologo.pdf,Metropolitano Sur Oriente,Nivel Primario,2024,147777
+tabla05_psicologo.pdf,Metropolitano Sur Oriente,Nivel Secundario,2020,67826
+tabla05_psicologo.pdf,Metropolitano Sur Oriente,Nivel Secundario,2021,67626
+tabla05_psicologo.pdf,Metropolitano Sur Oriente,Nivel Secundario,2022,97096
+tabla05_psicologo.pdf,Metropolitano Sur Oriente,Nivel Secundario,2023,106118
+tabla05_psicologo.pdf,Metropolitano Sur Oriente,Nivel Secundario,2024,112265
+tabla05_psicologo.pdf,Metropolitano Sur Oriente,Urgencia,2023,1799
+tabla05_psicologo.pdf,Metropolitano Sur Oriente,Urgencia,2024,2338
+tabla05_psicologo.pdf,O'Higgins,Nivel Primario,2020,54480
+tabla05_psicologo.pdf,O'Higgins,Nivel Primario,2021,100756
+tabla05_psicologo.pdf,O'Higgins,Nivel Primario,2022,138602
+tabla05_psicologo.pdf,O'Higgins,Nivel Primario,2023,154710
+tabla05_psicologo.pdf,O'Higgins,Nivel Primario,2024,170564
+tabla05_psicologo.pdf,O'Higgins,Nivel Secundario,2020,26174
+tabla05_psicologo.pdf,O'Higgins,Nivel Secundario,2021,42930
+tabla05_psicologo.pdf,O'Higgins,Nivel Secundario,2022,52125
+tabla05_psicologo.pdf,O'Higgins,Nivel Secundario,2023,58739
+tabla05_psicologo.pdf,O'Higgins,Nivel Secundario,2024,70166
+tabla05_psicologo.pdf,O'Higgins,Urgencia,2023,4148
+tabla05_psicologo.pdf,O'Higgins,Urgencia,2024,4676
+tabla05_psicologo.pdf,Maule,Nivel Primario,2020,66714
+tabla05_psicologo.pdf,Maule,Nivel Primario,2021,116213
+tabla05_psicologo.pdf,Maule,Nivel Primario,2022,173047
+tabla05_psicologo.pdf,Maule,Nivel Primario,2023,215456
+tabla05_psicologo.pdf,Maule,Nivel Primario,2024,221350
+tabla05_psicologo.pdf,Maule,Nivel Secundario,2020,35427
+tabla05_psicologo.pdf,Maule,Nivel Secundario,2021,42852
+tabla05_psicologo.pdf,Maule,Nivel Secundario,2022,51432
+tabla05_psicologo.pdf,Maule,Nivel Secundario,2023,49653
+tabla05_psicologo.pdf,Maule,Nivel Secundario,2024,60924
+tabla05_psicologo.pdf,Maule,Urgencia,2023,2416
+tabla05_psicologo.pdf,Maule,Urgencia,2024,4712
+tabla05_psicologo.pdf,Ñuble,Nivel Primario,2020,26649
+tabla05_psicologo.pdf,Ñuble,Nivel Primario,2021,56075
+tabla05_psicologo.pdf,Ñuble,Nivel Primario,2022,73586
+tabla05_psicologo.pdf,Ñuble,Nivel Primario,2023,82797
+tabla05_psicologo.pdf,Ñuble,Nivel Primario,2024,83718
+tabla05_psicologo.pdf,Ñuble,Nivel Secundario,2020,14586
+tabla05_psicologo.pdf,Ñuble,Nivel Secundario,2021,25205
+tabla05_psicologo.pdf,Ñuble,Nivel Secundario,2022,28417
+tabla05_psicologo.pdf,Ñuble,Nivel Secundario,2023,34690
+tabla05_psicologo.pdf,Ñuble,Nivel Secundario,2024,39763
+tabla05_psicologo.pdf,Ñuble,Urgencia,2023,2233
+tabla05_psicologo.pdf,Ñuble,Urgencia,2024,1571
+tabla05_psicologo.pdf,Concepción,Nivel Primario,2020,26594
+tabla05_psicologo.pdf,Concepción,Nivel Primario,2021,49944
+tabla05_psicologo.pdf,Concepción,Nivel Primario,2022,73605
+tabla05_psicologo.pdf,Concepción,Nivel Primario,2023,89758
+tabla05_psicologo.pdf,Concepción,Nivel Primario,2024,93220
+tabla05_psicologo.pdf,Concepción,Nivel Secundario,2020,14090
+tabla05_psicologo.pdf,Concepción,Nivel Secundario,2021,20398
+tabla05_psicologo.pdf,Concepción,Nivel Secundario,2022,30416
+tabla05_psicologo.pdf,Concepción,Nivel Secundario,2023,32728
+tabla05_psicologo.pdf,Concepción,Nivel Secundario,2024,28204
+tabla05_psicologo.pdf,Concepción,Urgencia,2023,3637
+tabla05_psicologo.pdf,Concepción,Urgencia,2024,2948
+tabla05_psicologo.pdf,Arauco,Nivel Primario,2020,4191
+tabla05_psicologo.pdf,Arauco,Nivel Primario,2021,8757
+tabla05_psicologo.pdf,Arauco,Nivel Primario,2022,12874
+tabla05_psicologo.pdf,Arauco,Nivel Primario,2023,16525
+tabla05_psicologo.pdf,Arauco,Nivel Primario,2024,17268
+tabla05_psicologo.pdf,Arauco,Nivel Secundario,2020,5177
+tabla05_psicologo.pdf,Arauco,Nivel Secundario,2021,9366
+tabla05_psicologo.pdf,Arauco,Nivel Secundario,2022,12542
+tabla05_psicologo.pdf,Arauco,Nivel Secundario,2023,15546
+tabla05_psicologo.pdf,Arauco,Nivel Secundario,2024,17323
+tabla05_psicologo.pdf,Arauco,Urgencia,2023,17
+tabla05_psicologo.pdf,Arauco,Urgencia,2024,167
+tabla05_psicologo.pdf,Talcahuano,Nivel Primario,2020,15866
+tabla05_psicologo.pdf,Talcahuano,Nivel Primario,2021,26290
+tabla05_psicologo.pdf,Talcahuano,Nivel Primario,2022,43815
+tabla05_psicologo.pdf,Talcahuano,Nivel Primario,2023,45265
+tabla05_psicologo.pdf,Talcahuano,Nivel Primario,2024,48456
+tabla05_psicologo.pdf,Talcahuano,Nivel Secundario,2020,11731
+tabla05_psicologo.pdf,Talcahuano,Nivel Secundario,2021,13707
+tabla05_psicologo.pdf,Talcahuano,Nivel Secundario,2022,17796
+tabla05_psicologo.pdf,Talcahuano,Nivel Secundario,2023,23573
+tabla05_psicologo.pdf,Talcahuano,Nivel Secundario,2024,29122
+tabla05_psicologo.pdf,Talcahuano,Urgencia,2023,980
+tabla05_psicologo.pdf,Talcahuano,Urgencia,2024,2033
+tabla05_psicologo.pdf,Biobío,Nivel Primario,2020,27707
+tabla05_psicologo.pdf,Biobío,Nivel Primario,2021,43008
+tabla05_psicologo.pdf,Biobío,Nivel Primario,2022,59518
+tabla05_psicologo.pdf,Biobío,Nivel Primario,2023,62561
+tabla05_psicologo.pdf,Biobío,Nivel Primario,2024,70289
+tabla05_psicologo.pdf,Biobío,Nivel Secundario,2020,12854
+tabla05_psicologo.pdf,Biobío,Nivel Secundario,2021,21982
+tabla05_psicologo.pdf,Biobío,Nivel Secundario,2022,34304
+tabla05_psicologo.pdf,Biobío,Nivel Secundario,2023,40044
+tabla05_psicologo.pdf,Biobío,Nivel Secundario,2024,41987
+tabla05_psicologo.pdf,Biobío,Urgencia,2023,1740
+tabla05_psicologo.pdf,Biobío,Urgencia,2024,1927
+tabla05_psicologo.pdf,Araucanía Norte,Nivel Primario,2020,11549
+tabla05_psicologo.pdf,Araucanía Norte,Nivel Primario,2021,20004
+tabla05_psicologo.pdf,Araucanía Norte,Nivel Primario,2022,35995
+tabla05_psicologo.pdf,Araucanía Norte,Nivel Primario,2023,36160
+tabla05_psicologo.pdf,Araucanía Norte,Nivel Primario,2024,32883
+tabla05_psicologo.pdf,Araucanía Norte,Nivel Secundario,2020,16640
+tabla05_psicologo.pdf,Araucanía Norte,Nivel Secundario,2021,21855
+tabla05_psicologo.pdf,Araucanía Norte,Nivel Secundario,2022,33282
+tabla05_psicologo.pdf,Araucanía Norte,Nivel Secundario,2023,36974
+tabla05_psicologo.pdf,Araucanía Norte,Nivel Secundario,2024,37005
+tabla06_fonoaudiologo.pdf,SNSS,Nivel Primario,2020,109867
+tabla06_fonoaudiologo.pdf,SNSS,Nivel Primario,2021,230635
+tabla06_fonoaudiologo.pdf,SNSS,Nivel Primario,2022,372520
+tabla06_fonoaudiologo.pdf,SNSS,Nivel Primario,2023,476058
+tabla06_fonoaudiologo.pdf,SNSS,Nivel Primario,2024,567492
+tabla06_fonoaudiologo.pdf,SNSS,Nivel Secundario,2020,305155
+tabla06_fonoaudiologo.pdf,SNSS,Nivel Secundario,2021,591354
+tabla06_fonoaudiologo.pdf,SNSS,Nivel Secundario,2022,685804
+tabla06_fonoaudiologo.pdf,SNSS,Nivel Secundario,2023,832671
+tabla06_fonoaudiologo.pdf,SNSS,Nivel Secundario,2024,994485
+tabla06_fonoaudiologo.pdf,Arica,Nivel Primario,2020,127
+tabla06_fonoaudiologo.pdf,Arica,Nivel Primario,2021,350
+tabla06_fonoaudiologo.pdf,Arica,Nivel Primario,2022,748
+tabla06_fonoaudiologo.pdf,Arica,Nivel Primario,2023,255
+tabla06_fonoaudiologo.pdf,Arica,Nivel Primario,2024,209
+tabla06_fonoaudiologo.pdf,Arica,Nivel Secundario,2020,4175
+tabla06_fonoaudiologo.pdf,Arica,Nivel Secundario,2021,4354
+tabla06_fonoaudiologo.pdf,Arica,Nivel Secundario,2022,5546
+tabla06_fonoaudiologo.pdf,Arica,Nivel Secundario,2023,4438
+tabla06_fonoaudiologo.pdf,Arica,Nivel Secundario,2024,6177
+tabla06_fonoaudiologo.pdf,Iquique,Nivel Primario,2020,2554
+tabla06_fonoaudiologo.pdf,Iquique,Nivel Primario,2021,3772
+tabla06_fonoaudiologo.pdf,Iquique,Nivel Primario,2022,10764
+tabla06_fonoaudiologo.pdf,Iquique,Nivel Primario,2023,10354
+tabla06_fonoaudiologo.pdf,Iquique,Nivel Primario,2024,11483
+tabla06_fonoaudiologo.pdf,Iquique,Nivel Secundario,2020,96
+tabla06_fonoaudiologo.pdf,Iquique,Nivel Secundario,2021,1410
+tabla06_fonoaudiologo.pdf,Iquique,Nivel Secundario,2022,3771
+tabla06_fonoaudiologo.pdf,Iquique,Nivel Secundario,2023,4123
+tabla06_fonoaudiologo.pdf,Iquique,Nivel Secundario,2024,7873
+tabla06_fonoaudiologo.pdf,Antofagasta,Nivel Primario,2020,3504
+tabla06_fonoaudiologo.pdf,Antofagasta,Nivel Primario,2021,8957
+tabla06_fonoaudiologo.pdf,Antofagasta,Nivel Primario,2022,13124
+tabla06_fonoaudiologo.pdf,Antofagasta,Nivel Primario,2023,19558
+tabla06_fonoaudiologo.pdf,Antofagasta,Nivel Primario,2024,20660
+tabla06_fonoaudiologo.pdf,Antofagasta,Nivel Secundario,2020,16377
+tabla06_fonoaudiologo.pdf,Antofagasta,Nivel Secundario,2021,52018
+tabla06_fonoaudiologo.pdf,Antofagasta,Nivel Secundario,2022,49549
+tabla06_fonoaudiologo.pdf,Antofagasta,Nivel Secundario,2023,27326
+tabla06_fonoaudiologo.pdf,Antofagasta,Nivel Secundario,2024,24405
+tabla06_fonoaudiologo.pdf,Atacama,Nivel Primario,2020,1925
+tabla06_fonoaudiologo.pdf,Atacama,Nivel Primario,2021,4850
+tabla06_fonoaudiologo.pdf,Atacama,Nivel Primario,2022,8939
+tabla06_fonoaudiologo.pdf,Atacama,Nivel Primario,2023,7847
+tabla06_fonoaudiologo.pdf,Atacama,Nivel Primario,2024,8989
+tabla06_fonoaudiologo.pdf,Atacama,Nivel Secundario,2020,1593
+tabla06_fonoaudiologo.pdf,Atacama,Nivel Secundario,2021,8144
+tabla06_fonoaudiologo.pdf,Atacama,Nivel Secundario,2022,9515
+tabla06_fonoaudiologo.pdf,Atacama,Nivel Secundario,2023,11307
+tabla06_fonoaudiologo.pdf,Atacama,Nivel Secundario,2024,11649
+tabla06_fonoaudiologo.pdf,Coquimbo,Nivel Primario,2020,9098
+tabla06_fonoaudiologo.pdf,Coquimbo,Nivel Primario,2021,12954
+tabla06_fonoaudiologo.pdf,Coquimbo,Nivel Primario,2022,17317
+tabla06_fonoaudiologo.pdf,Coquimbo,Nivel Primario,2023,26259
+tabla06_fonoaudiologo.pdf,Coquimbo,Nivel Primario,2024,27041
+tabla06_fonoaudiologo.pdf,Coquimbo,Nivel Secundario,2020,15257
+tabla06_fonoaudiologo.pdf,Coquimbo,Nivel Secundario,2021,40904
+tabla06_fonoaudiologo.pdf,Coquimbo,Nivel Secundario,2022,46261
+tabla06_fonoaudiologo.pdf,Coquimbo,Nivel Secundario,2023,56906
+tabla06_fonoaudiologo.pdf,Coquimbo,Nivel Secundario,2024,58206
+tabla06_fonoaudiologo.pdf,Valparaíso San Antonio,Nivel Primario,2020,4866
+tabla06_fonoaudiologo.pdf,Valparaíso San Antonio,Nivel Primario,2021,9530
+tabla06_fonoaudiologo.pdf,Valparaíso San Antonio,Nivel Primario,2022,16203
+tabla06_fonoaudiologo.pdf,Valparaíso San Antonio,Nivel Primario,2023,22466
+tabla06_fonoaudiologo.pdf,Valparaíso San Antonio,Nivel Primario,2024,17845
+tabla06_fonoaudiologo.pdf,Valparaíso San Antonio,Nivel Secundario,2020,12839
+tabla06_fonoaudiologo.pdf,Valparaíso San Antonio,Nivel Secundario,2021,19659
+tabla06_fonoaudiologo.pdf,Valparaíso San Antonio,Nivel Secundario,2022,11814
+tabla06_fonoaudiologo.pdf,Valparaíso San Antonio,Nivel Secundario,2023,41225
+tabla06_fonoaudiologo.pdf,Valparaíso San Antonio,Nivel Secundario,2024,44684
+tabla06_fonoaudiologo.pdf,Viña del Mar Quillota,Nivel Primario,2020,7188
+tabla06_fonoaudiologo.pdf,Viña del Mar Quillota,Nivel Primario,2021,14319
+tabla06_fonoaudiologo.pdf,Viña del Mar Quillota,Nivel Primario,2022,16730
+tabla06_fonoaudiologo.pdf,Viña del Mar Quillota,Nivel Primario,2023,29247
+tabla06_fonoaudiologo.pdf,Viña del Mar Quillota,Nivel Primario,2024,36005
+tabla06_fonoaudiologo.pdf,Viña del Mar Quillota,Nivel Secundario,2020,20904
+tabla06_fonoaudiologo.pdf,Viña del Mar Quillota,Nivel Secundario,2021,38023
+tabla06_fonoaudiologo.pdf,Viña del Mar Quillota,Nivel Secundario,2022,40012
+tabla06_fonoaudiologo.pdf,Viña del Mar Quillota,Nivel Secundario,2023,53635
+tabla06_fonoaudiologo.pdf,Viña del Mar Quillota,Nivel Secundario,2024,60014
+tabla06_fonoaudiologo.pdf,Aconcagua,Nivel Primario,2020,1498
+tabla06_fonoaudiologo.pdf,Aconcagua,Nivel Primario,2021,2623
+tabla06_fonoaudiologo.pdf,Aconcagua,Nivel Primario,2022,5539
+tabla06_fonoaudiologo.pdf,Aconcagua,Nivel Primario,2023,6673
+tabla06_fonoaudiologo.pdf,Aconcagua,Nivel Primario,2024,9904
+tabla06_fonoaudiologo.pdf,Aconcagua,Nivel Secundario,2020,4290
+tabla06_fonoaudiologo.pdf,Aconcagua,Nivel Secundario,2021,9402
+tabla06_fonoaudiologo.pdf,Aconcagua,Nivel Secundario,2022,11483
+tabla06_fonoaudiologo.pdf,Aconcagua,Nivel Secundario,2023,19177
+tabla06_fonoaudiologo.pdf,Aconcagua,Nivel Secundario,2024,16665
+tabla06_fonoaudiologo.pdf,Metropolitano Norte,Nivel Primario,2020,4907
+tabla06_fonoaudiologo.pdf,Metropolitano Norte,Nivel Primario,2021,9340
+tabla06_fonoaudiologo.pdf,Metropolitano Norte,Nivel Primario,2022,14463
+tabla06_fonoaudiologo.pdf,Metropolitano Norte,Nivel Primario,2023,17516
+tabla06_fonoaudiologo.pdf,Metropolitano Norte,Nivel Primario,2024,17315
+tabla06_fonoaudiologo.pdf,Metropolitano Norte,Nivel Secundario,2020,8767
+tabla06_fonoaudiologo.pdf,Metropolitano Norte,Nivel Secundario,2021,11119
+tabla06_fonoaudiologo.pdf,Metropolitano Norte,Nivel Secundario,2022,16614
+tabla06_fonoaudiologo.pdf,Metropolitano Norte,Nivel Secundario,2023,33372
+tabla06_fonoaudiologo.pdf,Metropolitano Norte,Nivel Secundario,2024,35023
+tabla06_fonoaudiologo.pdf,Metropolitano Occidente,Nivel Primario,2020,4461
+tabla06_fonoaudiologo.pdf,Metropolitano Occidente,Nivel Primario,2021,14028
+tabla06_fonoaudiologo.pdf,Metropolitano Occidente,Nivel Primario,2022,22671
+tabla06_fonoaudiologo.pdf,Metropolitano Occidente,Nivel Primario,2023,31077
+tabla06_fonoaudiologo.pdf,Metropolitano Occidente,Nivel Primario,2024,38888
+tabla06_fonoaudiologo.pdf,Metropolitano Occidente,Nivel Secundario,2020,5796
+tabla06_fonoaudiologo.pdf,Metropolitano Occidente,Nivel Secundario,2021,18438
+tabla06_fonoaudiologo.pdf,Metropolitano Occidente,Nivel Secundario,2022,24497
+tabla06_fonoaudiologo.pdf,Metropolitano Occidente,Nivel Secundario,2023,36292
+tabla06_fonoaudiologo.pdf,Metropolitano Occidente,Nivel Secundario,2024,34816
+tabla06_fonoaudiologo.pdf,Metropolitano Central,Nivel Primario,2020,5939
+tabla06_fonoaudiologo.pdf,Metropolitano Central,Nivel Primario,2021,7983
+tabla06_fonoaudiologo.pdf,Metropolitano Central,Nivel Primario,2022,11269
+tabla06_fonoaudiologo.pdf,Metropolitano Central,Nivel Primario,2023,12246
+tabla06_fonoaudiologo.pdf,Metropolitano Central,Nivel Primario,2024,12971
+tabla06_fonoaudiologo.pdf,Metropolitano Central,Nivel Secundario,2020,22866
+tabla06_fonoaudiologo.pdf,Metropolitano Central,Nivel Secundario,2021,40652
+tabla06_fonoaudiologo.pdf,Metropolitano Central,Nivel Secundario,2022,49438
+tabla06_fonoaudiologo.pdf,Metropolitano Central,Nivel Secundario,2023,52832
+tabla06_fonoaudiologo.pdf,Metropolitano Central,Nivel Secundario,2024,55524
+tabla06_fonoaudiologo.pdf,Metropolitano Oriente,Nivel Primario,2020,2440
+tabla06_fonoaudiologo.pdf,Metropolitano Oriente,Nivel Primario,2021,4354
+tabla06_fonoaudiologo.pdf,Metropolitano Oriente,Nivel Primario,2022,3598
+tabla06_fonoaudiologo.pdf,Metropolitano Oriente,Nivel Primario,2023,3533
+tabla06_fonoaudiologo.pdf,Metropolitano Oriente,Nivel Primario,2024,4414
+tabla06_fonoaudiologo.pdf,Metropolitano Oriente,Nivel Secundario,2020,15449
+tabla06_fonoaudiologo.pdf,Metropolitano Oriente,Nivel Secundario,2021,24500
+tabla06_fonoaudiologo.pdf,Metropolitano Oriente,Nivel Secundario,2022,25805
+tabla06_fonoaudiologo.pdf,Metropolitano Oriente,Nivel Secundario,2023,44872
+tabla06_fonoaudiologo.pdf,Metropolitano Oriente,Nivel Secundario,2024,93078
+tabla06_fonoaudiologo.pdf,Metropolitano Sur,Nivel Primario,2020,4760
+tabla06_fonoaudiologo.pdf,Metropolitano Sur,Nivel Primario,2021,9477
+tabla06_fonoaudiologo.pdf,Metropolitano Sur,Nivel Primario,2022,18823
+tabla06_fonoaudiologo.pdf,Metropolitano Sur,Nivel Primario,2023,29296
+tabla06_fonoaudiologo.pdf,Metropolitano Sur,Nivel Primario,2024,34999
+tabla06_fonoaudiologo.pdf,Metropolitano Sur,Nivel Secundario,2020,21072
+tabla06_fonoaudiologo.pdf,Metropolitano Sur,Nivel Secundario,2021,27550
+tabla06_fonoaudiologo.pdf,Metropolitano Sur,Nivel Secundario,2022,31771
+tabla06_fonoaudiologo.pdf,Metropolitano Sur,Nivel Secundario,2023,33981
+tabla06_fonoaudiologo.pdf,Metropolitano Sur,Nivel Secundario,2024,39120
+tabla06_fonoaudiologo.pdf,Metropolitano Sur Oriente,Nivel Primario,2020,3326
+tabla06_fonoaudiologo.pdf,Metropolitano Sur Oriente,Nivel Primario,2021,6747
+tabla06_fonoaudiologo.pdf,Metropolitano Sur Oriente,Nivel Primario,2022,11027
+tabla06_fonoaudiologo.pdf,Metropolitano Sur Oriente,Nivel Primario,2023,15494
+tabla06_fonoaudiologo.pdf,Metropolitano Sur Oriente,Nivel Primario,2024,25863
+tabla06_fonoaudiologo.pdf,Metropolitano Sur Oriente,Nivel Secundario,2020,18781
+tabla06_fonoaudiologo.pdf,Metropolitano Sur Oriente,Nivel Secundario,2021,28383
+tabla06_fonoaudiologo.pdf,Metropolitano Sur Oriente,Nivel Secundario,2022,38482
+tabla06_fonoaudiologo.pdf,Metropolitano Sur Oriente,Nivel Secundario,2023,51865
+tabla06_fonoaudiologo.pdf,Metropolitano Sur Oriente,Nivel Secundario,2024,60291
+tabla06_fonoaudiologo.pdf,O'Higgins,Nivel Primario,2020,3915
+tabla06_fonoaudiologo.pdf,O'Higgins,Nivel Primario,2021,12557
+tabla06_fonoaudiologo.pdf,O'Higgins,Nivel Primario,2022,18138
+tabla06_fonoaudiologo.pdf,O'Higgins,Nivel Primario,2023,26145
+tabla06_fonoaudiologo.pdf,O'Higgins,Nivel Primario,2024,35908
+tabla06_fonoaudiologo.pdf,O'Higgins,Nivel Secundario,2020,18543
+tabla06_fonoaudiologo.pdf,O'Higgins,Nivel Secundario,2021,35088
+tabla06_fonoaudiologo.pdf,O'Higgins,Nivel Secundario,2022,52084
+tabla06_fonoaudiologo.pdf,O'Higgins,Nivel Secundario,2023,51903
+tabla06_fonoaudiologo.pdf,O'Higgins,Nivel Secundario,2024,54907
+tabla06_fonoaudiologo.pdf,Maule,Nivel Primario,2020,14650
+tabla06_fonoaudiologo.pdf,Maule,Nivel Primario,2021,27371
+tabla06_fonoaudiologo.pdf,Maule,Nivel Primario,2022,42896
+tabla06_fonoaudiologo.pdf,Maule,Nivel Primario,2023,59153
+tabla06_fonoaudiologo.pdf,Maule,Nivel Primario,2024,67892
+tabla06_fonoaudiologo.pdf,Maule,Nivel Secundario,2020,26727
+tabla06_fonoaudiologo.pdf,Maule,Nivel Secundario,2021,45280
+tabla06_fonoaudiologo.pdf,Maule,Nivel Secundario,2022,40785
+tabla06_fonoaudiologo.pdf,Maule,Nivel Secundario,2023,44067
+tabla06_fonoaudiologo.pdf,Maule,Nivel Secundario,2024,54116
+tabla06_fonoaudiologo.pdf,Ñuble,Nivel Primario,2020,4986
+tabla06_fonoaudiologo.pdf,Ñuble,Nivel Primario,2021,13942
+tabla06_fonoaudiologo.pdf,Ñuble,Nivel Primario,2022,23915
+tabla06_fonoaudiologo.pdf,Ñuble,Nivel Primario,2023,26685
+tabla06_fonoaudiologo.pdf,Ñuble,Nivel Primario,2024,34822
+tabla06_fonoaudiologo.pdf,Ñuble,Nivel Secundario,2020,11779
+tabla06_fonoaudiologo.pdf,Ñuble,Nivel Secundario,2021,26609
+tabla06_fonoaudiologo.pdf,Ñuble,Nivel Secundario,2022,34999
+tabla06_fonoaudiologo.pdf,Ñuble,Nivel Secundario,2023,35893
+tabla06_fonoaudiologo.pdf,Ñuble,Nivel Secundario,2024,66116
+tabla06_fonoaudiologo.pdf,Concepción,Nivel Primario,2020,5695
+tabla06_fonoaudiologo.pdf,Concepción,Nivel Primario,2021,14167
+tabla06_fonoaudiologo.pdf,Concepción,Nivel Primario,2022,22310
+tabla06_fonoaudiologo.pdf,Concepción,Nivel Primario,2023,23347
+tabla06_fonoaudiologo.pdf,Concepción,Nivel Primario,2024,27827
+tabla06_fonoaudiologo.pdf,Concepción,Nivel Secundario,2020,8869
+tabla06_fonoaudiologo.pdf,Concepción,Nivel Secundario,2021,19833
+tabla06_fonoaudiologo.pdf,Concepción,Nivel Secundario,2022,21274
+tabla06_fonoaudiologo.pdf,Concepción,Nivel Secundario,2023,13392
+tabla06_fonoaudiologo.pdf,Concepción,Nivel Secundario,2024,15080
+tabla06_fonoaudiologo.pdf,Arauco,Nivel Primario,2020,2291
+tabla06_fonoaudiologo.pdf,Arauco,Nivel Primario,2021,4061
+tabla06_fonoaudiologo.pdf,Arauco,Nivel Primario,2022,7069
+tabla06_fonoaudiologo.pdf,Arauco,Nivel Primario,2023,9364
+tabla06_fonoaudiologo.pdf,Arauco,Nivel Primario,2024,11488
+tabla06_fonoaudiologo.pdf,Arauco,Nivel Secundario,2020,320
+tabla06_fonoaudiologo.pdf,Arauco,Nivel Secundario,2021,1170
+tabla06_fonoaudiologo.pdf,Arauco,Nivel Secundario,2022,1537
+tabla06_fonoaudiologo.pdf,Arauco,Nivel Secundario,2023,1642
+tabla06_fonoaudiologo.pdf,Arauco,Nivel Secundario,2024,2011
+tabla06_fonoaudiologo.pdf,Talcahuano,Nivel Primario,2020,1768
+tabla06_fonoaudiologo.pdf,Talcahuano,Nivel Primario,2021,4231
+tabla06_fonoaudiologo.pdf,Talcahuano,Nivel Primario,2022,7583
+tabla06_fonoaudiologo.pdf,Talcahuano,Nivel Primario,2023,7145
+tabla06_fonoaudiologo.pdf,Talcahuano,Nivel Primario,2024,7189
+tabla06_fonoaudiologo.pdf,Talcahuano,Nivel Secundario,2020,2185
+tabla06_fonoaudiologo.pdf,Talcahuano,Nivel Secundario,2021,5393
+tabla06_fonoaudiologo.pdf,Talcahuano,Nivel Secundario,2022,9586
+tabla06_fonoaudiologo.pdf,Talcahuano,Nivel Secundario,2023,21740
+tabla06_fonoaudiologo.pdf,Talcahuano,Nivel Secundario,2024,26595
+tabla06_fonoaudiologo.pdf,Biobío,Nivel Primario,2020,5976
+tabla06_fonoaudiologo.pdf,Biobío,Nivel Primario,2021,11771
+tabla06_fonoaudiologo.pdf,Biobío,Nivel Primario,2022,17581
+tabla06_fonoaudiologo.pdf,Biobío,Nivel Primario,2023,18063
+tabla06_fonoaudiologo.pdf,Biobío,Nivel Primario,2024,23511
+tabla06_fonoaudiologo.pdf,Biobío,Nivel Secundario,2020,6137
+tabla06_fonoaudiologo.pdf,Biobío,Nivel Secundario,2021,15121
+tabla06_fonoaudiologo.pdf,Biobío,Nivel Secundario,2022,21269
+tabla06_fonoaudiologo.pdf,Biobío,Nivel Secundario,2023,24071
+tabla06_fonoaudiologo.pdf,Biobío,Nivel Secundario,2024,26200
+tabla06_fonoaudiologo.pdf,Araucanía Norte,Nivel Primario,2020,1815
+tabla06_fonoaudiologo.pdf,Araucanía Norte,Nivel Primario,2021,3112
+tabla06_fonoaudiologo.pdf,Araucanía Norte,Nivel Primario,2022,5608
+tabla06_fonoaudiologo.pdf,Araucanía Norte,Nivel Primario,2023,9439
+tabla06_fonoaudiologo.pdf,Araucanía Norte,Nivel Primario,2024,11721
+tabla06_fonoaudiologo.pdf,Araucanía Norte,Nivel Secundario,2020,2431
+tabla06_fonoaudiologo.pdf,Araucanía Norte,Nivel Secundario,2021,11098
+tabla06_fonoaudiologo.pdf,Araucanía Norte,Nivel Secundario,2022,12904
+tabla06_fonoaudiologo.pdf,Araucanía Norte,Nivel Secundario,2023,16821
+tabla06_fonoaudiologo.pdf,Araucanía Norte,Nivel Secundario,2024,20324
+tabla06_fonoaudiologo.pdf,Araucanía Sur,Nivel Primario,2020,1264
+tabla06_fonoaudiologo.pdf,Araucanía Sur,Nivel Primario,2021,8322
+tabla06_fonoaudiologo.pdf,Araucanía Sur,Nivel Primario,2022,19948
+tabla06_fonoaudiologo.pdf,Araucanía Sur,Nivel Primario,2023,20612
+tabla06_fonoaudiologo.pdf,Araucanía Sur,Nivel Primario,2024,28862
+tabla06_fonoaudiologo.pdf,Araucanía Sur,Nivel Secundario,2020,21601
+tabla06_fonoaudiologo.pdf,Araucanía Sur,Nivel Secundario,2021,32814
+tabla06_fonoaudiologo.pdf,Araucanía Sur,Nivel Secundario,2022,45552
+tabla06_fonoaudiologo.pdf,Araucanía Sur,Nivel Secundario,2023,59938
+tabla06_fonoaudiologo.pdf,Araucanía Sur,Nivel Secundario,2024,66607
+tabla06_fonoaudiologo.pdf,Valdivia,Nivel Primario,2020,1667
+tabla06_fonoaudiologo.pdf,Valdivia,Nivel Primario,2021,4704
+tabla06_fonoaudiologo.pdf,Valdivia,Nivel Primario,2022,8820
+tabla06_fonoaudiologo.pdf,Valdivia,Nivel Primario,2023,11403
+tabla06_fonoaudiologo.pdf,Valdivia,Nivel Primario,2024,13328
+tabla06_fonoaudiologo.pdf,Valdivia,Nivel Secundario,2020,3743
+tabla06_fonoaudiologo.pdf,Valdivia,Nivel Secundario,2021,9894
+tabla06_fonoaudiologo.pdf,Valdivia,Nivel Secundario,2022,6685
+tabla06_fonoaudiologo.pdf,Valdivia,Nivel Secundario,2023,6916
+tabla06_fonoaudiologo.pdf,Valdivia,Nivel Secundario,2024,16705
+tabla06_fonoaudiologo.pdf,Osorno,Nivel Primario,2020,3002
+tabla06_fonoaudiologo.pdf,Osorno,Nivel Primario,2021,6065
+tabla06_fonoaudiologo.pdf,Osorno,Nivel Primario,2022,8958
+tabla06_fonoaudiologo.pdf,Osorno,Nivel Primario,2023,10497
+tabla06_fonoaudiologo.pdf,Osorno,Nivel Primario,2024,10303
+tabla06_fonoaudiologo.pdf,Osorno,Nivel Secundario,2020,6566
+tabla06_fonoaudiologo.pdf,Osorno,Nivel Secundario,2021,12196
+tabla06_fonoaudiologo.pdf,Osorno,Nivel Secundario,2022,11115
+tabla06_fonoaudiologo.pdf,Osorno,Nivel Secundario,2023,16430
+tabla06_fonoaudiologo.pdf,Osorno,Nivel Secundario,2024,17845
+tabla06_fonoaudiologo.pdf,Del Reloncaví,Nivel Primario,2020,2043
+tabla06_fonoaudiologo.pdf,Del Reloncaví,Nivel Primario,2021,3806
+tabla06_fonoaudiologo.pdf,Del Reloncaví,Nivel Primario,2022,7668
+tabla06_fonoaudiologo.pdf,Del Reloncaví,Nivel Primario,2023,9252
+tabla06_fonoaudiologo.pdf,Del Reloncaví,Nivel Primario,2024,14386
+tabla06_fonoaudiologo.pdf,Del Reloncaví,Nivel Secundario,2020,14020
+tabla06_fonoaudiologo.pdf,Del Reloncaví,Nivel Secundario,2021,23938
+tabla06_fonoaudiologo.pdf,Del Reloncaví,Nivel Secundario,2022,32694
+tabla06_fonoaudiologo.pdf,Del Reloncaví,Nivel Secundario,2023,27791
+tabla06_fonoaudiologo.pdf,Del Reloncaví,Nivel Secundario,2024,32998
+tabla06_fonoaudiologo.pdf,Chiloé,Nivel Primario,2020,1826
+tabla06_fonoaudiologo.pdf,Chiloé,Nivel Primario,2021,3992
+tabla06_fonoaudiologo.pdf,Chiloé,Nivel Primario,2022,5584
+tabla06_fonoaudiologo.pdf,Chiloé,Nivel Primario,2023,6282
+tabla06_fonoaudiologo.pdf,Chiloé,Nivel Primario,2024,5073
+tabla06_fonoaudiologo.pdf,Chiloé,Nivel Secundario,2020,1218
+tabla06_fonoaudiologo.pdf,Chiloé,Nivel Secundario,2021,1221
+tabla06_fonoaudiologo.pdf,Chiloé,Nivel Secundario,2022,2765
+tabla06_fonoaudiologo.pdf,Chiloé,Nivel Secundario,2023,5203
+tabla06_fonoaudiologo.pdf,Chiloé,Nivel Secundario,2024,5633
+tabla06_fonoaudiologo.pdf,Aisén,Nivel Primario,2020,1648
+tabla06_fonoaudiologo.pdf,Aisén,Nivel Primario,2021,1834
+tabla06_fonoaudiologo.pdf,Aisén,Nivel Primario,2022,2533
+tabla06_fonoaudiologo.pdf,Aisén,Nivel Primario,2023,3904
+tabla06_fonoaudiologo.pdf,Aisén,Nivel Primario,2024,4369
+tabla06_fonoaudiologo.pdf,Aisén,Nivel Secundario,2020,1408
+tabla06_fonoaudiologo.pdf,Aisén,Nivel Secundario,2021,3455
+tabla06_fonoaudiologo.pdf,Aisén,Nivel Secundario,2022,4212
+tabla06_fonoaudiologo.pdf,Aisén,Nivel Secundario,2023,5233
+tabla06_fonoaudiologo.pdf,Aisén,Nivel Secundario,2024,5781
+tabla06_fonoaudiologo.pdf,Magallanes,Nivel Primario,2020,728
+tabla06_fonoaudiologo.pdf,Magallanes,Nivel Primario,2021,1416
+tabla06_fonoaudiologo.pdf,Magallanes,Nivel Primario,2022,2694
+tabla06_fonoaudiologo.pdf,Magallanes,Nivel Primario,2023,2946
+tabla06_fonoaudiologo.pdf,Magallanes,Nivel Primario,2024,4227
+tabla06_fonoaudiologo.pdf,Magallanes,Nivel Secundario,2020,11346
+tabla06_fonoaudiologo.pdf,Magallanes,Nivel Secundario,2021,23688
+tabla06_fonoaudiologo.pdf,Magallanes,Nivel Secundario,2022,23785
+tabla06_fonoaudiologo.pdf,Magallanes,Nivel Secundario,2023,30280
+tabla06_fonoaudiologo.pdf,Magallanes,Nivel Secundario,2024,36042
+tabla07_tocupacional.pdf,SNSS,Nivel Primario,2020,177733
+tabla07_tocupacional.pdf,SNSS,Nivel Primario,2021,380404
+tabla07_tocupacional.pdf,SNSS,Nivel Primario,2022,623316
+tabla07_tocupacional.pdf,SNSS,Nivel Primario,2023,737565
+tabla07_tocupacional.pdf,SNSS,Nivel Primario,2024,905116
+tabla07_tocupacional.pdf,SNSS,Nivel Secundario,2020,358214
+tabla07_tocupacional.pdf,SNSS,Nivel Secundario,2021,682388
+tabla07_tocupacional.pdf,SNSS,Nivel Secundario,2022,825728
+tabla07_tocupacional.pdf,SNSS,Nivel Secundario,2023,1022085
+tabla07_tocupacional.pdf,SNSS,Nivel Secundario,2024,1232244
+tabla07_tocupacional.pdf,Arica,Nivel Primario,2020,1553
+tabla07_tocupacional.pdf,Arica,Nivel Primario,2021,4369
+tabla07_tocupacional.pdf,Arica,Nivel Primario,2022,5825
+tabla07_tocupacional.pdf,Arica,Nivel Primario,2023,3595
+tabla07_tocupacional.pdf,Arica,Nivel Primario,2024,6696
+tabla07_tocupacional.pdf,Arica,Nivel Secundario,2020,8337
+tabla07_tocupacional.pdf,Arica,Nivel Secundario,2021,7117
+tabla07_tocupacional.pdf,Arica,Nivel Secundario,2022,8006
+tabla07_tocupacional.pdf,Arica,Nivel Secundario,2023,6632
+tabla07_tocupacional.pdf,Arica,Nivel Secundario,2024,11071
+tabla07_tocupacional.pdf,Iquique,Nivel Primario,2020,6567
+tabla07_tocupacional.pdf,Iquique,Nivel Primario,2021,9742
+tabla07_tocupacional.pdf,Iquique,Nivel Primario,2022,15129
+tabla07_tocupacional.pdf,Iquique,Nivel Primario,2023,17850
+tabla07_tocupacional.pdf,Iquique,Nivel Primario,2024,17632
+tabla07_tocupacional.pdf,Iquique,Nivel Secundario,2020,4579
+tabla07_tocupacional.pdf,Iquique,Nivel Secundario,2021,3696
+tabla07_tocupacional.pdf,Iquique,Nivel Secundario,2022,8099
+tabla07_tocupacional.pdf,Iquique,Nivel Secundario,2023,10357
+tabla07_tocupacional.pdf,Iquique,Nivel Secundario,2024,14581
+tabla07_tocupacional.pdf,Antofagasta,Nivel Primario,2020,2714
+tabla07_tocupacional.pdf,Antofagasta,Nivel Primario,2021,6069
+tabla07_tocupacional.pdf,Antofagasta,Nivel Primario,2022,9520
+tabla07_tocupacional.pdf,Antofagasta,Nivel Primario,2023,10920
+tabla07_tocupacional.pdf,Antofagasta,Nivel Primario,2024,12663
+tabla07_tocupacional.pdf,Antofagasta,Nivel Secundario,2020,13480
+tabla07_tocupacional.pdf,Antofagasta,Nivel Secundario,2021,37608
+tabla07_tocupacional.pdf,Antofagasta,Nivel Secundario,2022,28078
+tabla07_tocupacional.pdf,Antofagasta,Nivel Secundario,2023,25732
+tabla07_tocupacional.pdf,Antofagasta,Nivel Secundario,2024,31579
+tabla07_tocupacional.pdf,Atacama,Nivel Primario,2020,3670
+tabla07_tocupacional.pdf,Atacama,Nivel Primario,2021,9000
+tabla07_tocupacional.pdf,Atacama,Nivel Primario,2022,10169
+tabla07_tocupacional.pdf,Atacama,Nivel Primario,2023,11760
+tabla07_tocupacional.pdf,Atacama,Nivel Primario,2024,12945
+tabla07_tocupacional.pdf,Atacama,Nivel Secundario,2020,3766
+tabla07_tocupacional.pdf,Atacama,Nivel Secundario,2021,14221
+tabla07_tocupacional.pdf,Atacama,Nivel Secundario,2022,11407
+tabla07_tocupacional.pdf,Atacama,Nivel Secundario,2023,12242
+tabla07_tocupacional.pdf,Atacama,Nivel Secundario,2024,14081
+tabla07_tocupacional.pdf,Coquimbo,Nivel Primario,2020,6682
+tabla07_tocupacional.pdf,Coquimbo,Nivel Primario,2021,14633
+tabla07_tocupacional.pdf,Coquimbo,Nivel Primario,2022,20731
+tabla07_tocupacional.pdf,Coquimbo,Nivel Primario,2023,28606
+tabla07_tocupacional.pdf,Coquimbo,Nivel Primario,2024,31779
+tabla07_tocupacional.pdf,Coquimbo,Nivel Secundario,2020,12501
+tabla07_tocupacional.pdf,Coquimbo,Nivel Secundario,2021,40640
+tabla07_tocupacional.pdf,Coquimbo,Nivel Secundario,2022,47418
+tabla07_tocupacional.pdf,Coquimbo,Nivel Secundario,2023,47438
+tabla07_tocupacional.pdf,Coquimbo,Nivel Secundario,2024,66794
+tabla07_tocupacional.pdf,Valparaíso San Antonio,Nivel Primario,2020,9156
+tabla07_tocupacional.pdf,Valparaíso San Antonio,Nivel Primario,2021,16812
+tabla07_tocupacional.pdf,Valparaíso San Antonio,Nivel Primario,2022,26790
+tabla07_tocupacional.pdf,Valparaíso San Antonio,Nivel Primario,2023,30069
+tabla07_tocupacional.pdf,Valparaíso San Antonio,Nivel Primario,2024,34466
+tabla07_tocupacional.pdf,Valparaíso San Antonio,Nivel Secundario,2020,7368
+tabla07_tocupacional.pdf,Valparaíso San Antonio,Nivel Secundario,2021,25950
+tabla07_tocupacional.pdf,Valparaíso San Antonio,Nivel Secundario,2022,14212
+tabla07_tocupacional.pdf,Valparaíso San Antonio,Nivel Secundario,2023,35429
+tabla07_tocupacional.pdf,Valparaíso San Antonio,Nivel Secundario,2024,37061
+tabla07_tocupacional.pdf,Viña del Mar Quillota,Nivel Primario,2020,11154
+tabla07_tocupacional.pdf,Viña del Mar Quillota,Nivel Primario,2021,22686
+tabla07_tocupacional.pdf,Viña del Mar Quillota,Nivel Primario,2022,40360
+tabla07_tocupacional.pdf,Viña del Mar Quillota,Nivel Primario,2023,50115
+tabla07_tocupacional.pdf,Viña del Mar Quillota,Nivel Primario,2024,63184
+tabla07_tocupacional.pdf,Viña del Mar Quillota,Nivel Secundario,2020,14264
+tabla07_tocupacional.pdf,Viña del Mar Quillota,Nivel Secundario,2021,24481
+tabla07_tocupacional.pdf,Viña del Mar Quillota,Nivel Secundario,2022,26830
+tabla07_tocupacional.pdf,Viña del Mar Quillota,Nivel Secundario,2023,37606
+tabla07_tocupacional.pdf,Viña del Mar Quillota,Nivel Secundario,2024,54337
+tabla07_tocupacional.pdf,Aconcagua,Nivel Primario,2020,5806
+tabla07_tocupacional.pdf,Aconcagua,Nivel Primario,2021,9362
+tabla07_tocupacional.pdf,Aconcagua,Nivel Primario,2022,16273
+tabla07_tocupacional.pdf,Aconcagua,Nivel Primario,2023,19140
+tabla07_tocupacional.pdf,Aconcagua,Nivel Primario,2024,22189
+tabla07_tocupacional.pdf,Aconcagua,Nivel Secundario,2020,2929
+tabla07_tocupacional.pdf,Aconcagua,Nivel Secundario,2021,7691
+tabla07_tocupacional.pdf,Aconcagua,Nivel Secundario,2022,9156
+tabla07_tocupacional.pdf,Aconcagua,Nivel Secundario,2023,18137
+tabla07_tocupacional.pdf,Aconcagua,Nivel Secundario,2024,16557
+tabla07_tocupacional.pdf,Metropolitano Norte,Nivel Primario,2020,7502
+tabla07_tocupacional.pdf,Metropolitano Norte,Nivel Primario,2021,13679
+tabla07_tocupacional.pdf,Metropolitano Norte,Nivel Primario,2022,25890
+tabla07_tocupacional.pdf,Metropolitano Norte,Nivel Primario,2023,36707
+tabla07_tocupacional.pdf,Metropolitano Norte,Nivel Primario,2024,47037
+tabla07_tocupacional.pdf,Metropolitano Norte,Nivel Secundario,2020,28946
+tabla07_tocupacional.pdf,Metropolitano Norte,Nivel Secundario,2021,42329
+tabla07_tocupacional.pdf,Metropolitano Norte,Nivel Secundario,2022,54296
+tabla07_tocupacional.pdf,Metropolitano Norte,Nivel Secundario,2023,63460
+tabla07_tocupacional.pdf,Metropolitano Norte,Nivel Secundario,2024,67117
+tabla07_tocupacional.pdf,Metropolitano Occidente,Nivel Primario,2020,10386
+tabla07_tocupacional.pdf,Metropolitano Occidente,Nivel Primario,2021,23635
+tabla07_tocupacional.pdf,Metropolitano Occidente,Nivel Primario,2022,48186
+tabla07_tocupacional.pdf,Metropolitano Occidente,Nivel Primario,2023,59220
+tabla07_tocupacional.pdf,Metropolitano Occidente,Nivel Primario,2024,67478
+tabla07_tocupacional.pdf,Metropolitano Occidente,Nivel Secundario,2020,16433
+tabla07_tocupacional.pdf,Metropolitano Occidente,Nivel Secundario,2021,29038
+tabla07_tocupacional.pdf,Metropolitano Occidente,Nivel Secundario,2022,45561
+tabla07_tocupacional.pdf,Metropolitano Occidente,Nivel Secundario,2023,55629
+tabla07_tocupacional.pdf,Metropolitano Occidente,Nivel Secundario,2024,59868
+tabla07_tocupacional.pdf,Metropolitano Central,Nivel Primario,2020,3875
+tabla07_tocupacional.pdf,Metropolitano Central,Nivel Primario,2021,8688
+tabla07_tocupacional.pdf,Metropolitano Central,Nivel Primario,2022,23314
+tabla07_tocupacional.pdf,Metropolitano Central,Nivel Primario,2023,25961
+tabla07_tocupacional.pdf,Metropolitano Central,Nivel Primario,2024,26161
+tabla07_tocupacional.pdf,Metropolitano Central,Nivel Secundario,2020,39043
+tabla07_tocupacional.pdf,Metropolitano Central,Nivel Secundario,2021,65327
+tabla07_tocupacional.pdf,Metropolitano Central,Nivel Secundario,2022,97211
+tabla07_tocupacional.pdf,Metropolitano Central,Nivel Secundario,2023,104122
+tabla07_tocupacional.pdf,Metropolitano Central,Nivel Secundario,2024,92970
+tabla07_tocupacional.pdf,Metropolitano Oriente,Nivel Primario,2020,6389
+tabla07_tocupacional.pdf,Metropolitano Oriente,Nivel Primario,2021,7701
+tabla07_tocupacional.pdf,Metropolitano Oriente,Nivel Primario,2022,11743
+tabla07_tocupacional.pdf,Metropolitano Oriente,Nivel Primario,2023,10940
+tabla07_tocupacional.pdf,Metropolitano Oriente,Nivel Primario,2024,15161
+tabla07_tocupacional.pdf,Metropolitano Oriente,Nivel Secundario,2020,22161
+tabla07_tocupacional.pdf,Metropolitano Oriente,Nivel Secundario,2021,36370
+tabla07_tocupacional.pdf,Metropolitano Oriente,Nivel Secundario,2022,44134
+tabla07_tocupacional.pdf,Metropolitano Oriente,Nivel Secundario,2023,67100
+tabla07_tocupacional.pdf,Metropolitano Oriente,Nivel Secundario,2024,142552
+tabla07_tocupacional.pdf,Metropolitano Sur,Nivel Primario,2020,17178
+tabla07_tocupacional.pdf,Metropolitano Sur,Nivel Primario,2021,33924
+tabla07_tocupacional.pdf,Metropolitano Sur,Nivel Primario,2022,62940
+tabla07_tocupacional.pdf,Metropolitano Sur,Nivel Primario,2023,73065
+tabla07_tocupacional.pdf,Metropolitano Sur,Nivel Primario,2024,90950
+tabla07_tocupacional.pdf,Metropolitano Sur,Nivel Secundario,2020,14528
+tabla07_tocupacional.pdf,Metropolitano Sur,Nivel Secundario,2021,27633
+tabla07_tocupacional.pdf,Metropolitano Sur,Nivel Secundario,2022,37526
+tabla07_tocupacional.pdf,Metropolitano Sur,Nivel Secundario,2023,43097
+tabla07_tocupacional.pdf,Metropolitano Sur,Nivel Secundario,2024,46090
+tabla07_tocupacional.pdf,Metropolitano Sur Oriente,Nivel Primario,2020,6614
+tabla07_tocupacional.pdf,Metropolitano Sur Oriente,Nivel Primario,2021,18971
+tabla07_tocupacional.pdf,Metropolitano Sur Oriente,Nivel Primario,2022,23461
+tabla07_tocupacional.pdf,Metropolitano Sur Oriente,Nivel Primario,2023,36976
+tabla07_tocupacional.pdf,Metropolitano Sur Oriente,Nivel Primario,2024,48945
+tabla07_tocupacional.pdf,Metropolitano Sur Oriente,Nivel Secundario,2020,28566
+tabla07_tocupacional.pdf,Metropolitano Sur Oriente,Nivel Secundario,2021,54597
+tabla07_tocupacional.pdf,Metropolitano Sur Oriente,Nivel Secundario,2022,63315
+tabla07_tocupacional.pdf,Metropolitano Sur Oriente,Nivel Secundario,2023,78737
+tabla07_tocupacional.pdf,Metropolitano Sur Oriente,Nivel Secundario,2024,82838
+tabla07_tocupacional.pdf,O'Higgins,Nivel Primario,2020,15820
+tabla07_tocupacional.pdf,O'Higgins,Nivel Primario,2021,37671
+tabla07_tocupacional.pdf,O'Higgins,Nivel Primario,2022,52901
+tabla07_tocupacional.pdf,O'Higgins,Nivel Primario,2023,57121
+tabla07_tocupacional.pdf,O'Higgins,Nivel Primario,2024,75697
+tabla07_tocupacional.pdf,O'Higgins,Nivel Secundario,2020,11192
+tabla07_tocupacional.pdf,O'Higgins,Nivel Secundario,2021,22361
+tabla07_tocupacional.pdf,O'Higgins,Nivel Secundario,2022,38401
+tabla07_tocupacional.pdf,O'Higgins,Nivel Secundario,2023,48398
+tabla07_tocupacional.pdf,O'Higgins,Nivel Secundario,2024,51676
+tabla07_tocupacional.pdf,Maule,Nivel Primario,2020,10196
+tabla07_tocupacional.pdf,Maule,Nivel Primario,2021,26048
+tabla07_tocupacional.pdf,Maule,Nivel Primario,2022,36008
+tabla07_tocupacional.pdf,Maule,Nivel Primario,2023,43545
+tabla07_tocupacional.pdf,Maule,Nivel Primario,2024,59041
+tabla07_tocupacional.pdf,Maule,Nivel Secundario,2020,28323
+tabla07_tocupacional.pdf,Maule,Nivel Secundario,2021,44756
+tabla07_tocupacional.pdf,Maule,Nivel Secundario,2022,39070
+tabla07_tocupacional.pdf,Maule,Nivel Secundario,2023,57627
+tabla07_tocupacional.pdf,Maule,Nivel Secundario,2024,67967
+tabla07_tocupacional.pdf,Ñuble,Nivel Primario,2020,4675
+tabla07_tocupacional.pdf,Ñuble,Nivel Primario,2021,12837
+tabla07_tocupacional.pdf,Ñuble,Nivel Primario,2022,17117
+tabla07_tocupacional.pdf,Ñuble,Nivel Primario,2023,25508
+tabla07_tocupacional.pdf,Ñuble,Nivel Primario,2024,37622
+tabla07_tocupacional.pdf,Ñuble,Nivel Secundario,2020,4177
+tabla07_tocupacional.pdf,Ñuble,Nivel Secundario,2021,6358
+tabla07_tocupacional.pdf,Ñuble,Nivel Secundario,2022,12880
+tabla07_tocupacional.pdf,Ñuble,Nivel Secundario,2023,20891
+tabla07_tocupacional.pdf,Ñuble,Nivel Secundario,2024,27536
+tabla07_tocupacional.pdf,Concepción,Nivel Primario,2020,3597
+tabla07_tocupacional.pdf,Concepción,Nivel Primario,2021,8811
+tabla07_tocupacional.pdf,Concepción,Nivel Primario,2022,12125
+tabla07_tocupacional.pdf,Concepción,Nivel Primario,2023,14121
+tabla07_tocupacional.pdf,Concepción,Nivel Primario,2024,16908
+tabla07_tocupacional.pdf,Concepción,Nivel Secundario,2020,8271
+tabla07_tocupacional.pdf,Concepción,Nivel Secundario,2021,20173
+tabla07_tocupacional.pdf,Concepción,Nivel Secundario,2022,28240
+tabla07_tocupacional.pdf,Concepción,Nivel Secundario,2023,33749
+tabla07_tocupacional.pdf,Concepción,Nivel Secundario,2024,41687
+tabla07_tocupacional.pdf,Arauco,Nivel Primario,2020,3725
+tabla07_tocupacional.pdf,Arauco,Nivel Primario,2021,8634
+tabla07_tocupacional.pdf,Arauco,Nivel Primario,2022,10939
+tabla07_tocupacional.pdf,Arauco,Nivel Primario,2023,10441
+tabla07_tocupacional.pdf,Arauco,Nivel Primario,2024,14579
+tabla07_tocupacional.pdf,Arauco,Nivel Secundario,2020,1228
+tabla07_tocupacional.pdf,Arauco,Nivel Secundario,2021,2348
+tabla07_tocupacional.pdf,Arauco,Nivel Secundario,2022,3780
+tabla07_tocupacional.pdf,Arauco,Nivel Secundario,2023,4284
+tabla07_tocupacional.pdf,Arauco,Nivel Secundario,2024,7276
+tabla07_tocupacional.pdf,Talcahuano,Nivel Primario,2020,3536
+tabla07_tocupacional.pdf,Talcahuano,Nivel Primario,2021,5946
+tabla07_tocupacional.pdf,Talcahuano,Nivel Primario,2022,12932
+tabla07_tocupacional.pdf,Talcahuano,Nivel Primario,2023,15566
+tabla07_tocupacional.pdf,Talcahuano,Nivel Primario,2024,16204
+tabla07_tocupacional.pdf,Talcahuano,Nivel Secundario,2020,4524
+tabla07_tocupacional.pdf,Talcahuano,Nivel Secundario,2021,11666
+tabla07_tocupacional.pdf,Talcahuano,Nivel Secundario,2022,17476
+tabla07_tocupacional.pdf,Talcahuano,Nivel Secundario,2023,24759
+tabla07_tocupacional.pdf,Talcahuano,Nivel Secundario,2024,30000
+tabla07_tocupacional.pdf,Biobío,Nivel Primario,2020,4401
+tabla07_tocupacional.pdf,Biobío,Nivel Primario,2021,10214
+tabla07_tocupacional.pdf,Biobío,Nivel Primario,2022,21165
+tabla07_tocupacional.pdf,Biobío,Nivel Primario,2023,18926
+tabla07_tocupacional.pdf,Biobío,Nivel Primario,2024,21953
+tabla07_tocupacional.pdf,Biobío,Nivel Secundario,2020,5716
+tabla07_tocupacional.pdf,Biobío,Nivel Secundario,2021,11406
+tabla07_tocupacional.pdf,Biobío,Nivel Secundario,2022,16281
+tabla07_tocupacional.pdf,Biobío,Nivel Secundario,2023,22385
+tabla07_tocupacional.pdf,Biobío,Nivel Secundario,2024,30706
+tabla07_tocupacional.pdf,Araucanía Norte,Nivel Primario,2020,3145
+tabla07_tocupacional.pdf,Araucanía Norte,Nivel Primario,2021,5839
+tabla07_tocupacional.pdf,Araucanía Norte,Nivel Primario,2022,13408
+tabla07_tocupacional.pdf,Araucanía Norte,Nivel Primario,2023,16251
+tabla07_tocupacional.pdf,Araucanía Norte,Nivel Primario,2024,17112
+tabla07_tocupacional.pdf,Araucanía Norte,Nivel Secundario,2020,6202
+tabla07_tocupacional.pdf,Araucanía Norte,Nivel Secundario,2021,12947
+tabla07_tocupacional.pdf,Araucanía Norte,Nivel Secundario,2022,17283
+tabla07_tocupacional.pdf,Araucanía Norte,Nivel Secundario,2023,18790
+tabla07_tocupacional.pdf,Araucanía Norte,Nivel Secundario,2024,25628
+tabla07_tocupacional.pdf,Araucanía Sur,Nivel Primario,2020,5768
+tabla07_tocupacional.pdf,Araucanía Sur,Nivel Primario,2021,15952
+tabla07_tocupacional.pdf,Araucanía Sur,Nivel Primario,2022,25958
+tabla07_tocupacional.pdf,Araucanía Sur,Nivel Primario,2023,26993
+tabla07_tocupacional.pdf,Araucanía Sur,Nivel Primario,2024,40036
+tabla07_tocupacional.pdf,Araucanía Sur,Nivel Secundario,2020,18474
+tabla07_tocupacional.pdf,Araucanía Sur,Nivel Secundario,2021,43687
+tabla07_tocupacional.pdf,Araucanía Sur,Nivel Secundario,2022,53131
+tabla07_tocupacional.pdf,Araucanía Sur,Nivel Secundario,2023,63797
+tabla07_tocupacional.pdf,Araucanía Sur,Nivel Secundario,2024,71728
+tabla07_tocupacional.pdf,Valdivia,Nivel Primario,2020,6179
+tabla07_tocupacional.pdf,Valdivia,Nivel Primario,2021,16313
+tabla07_tocupacional.pdf,Valdivia,Nivel Primario,2022,26193
+tabla07_tocupacional.pdf,Valdivia,Nivel Primario,2023,31139
+tabla07_tocupacional.pdf,Valdivia,Nivel Primario,2024,34527
+tabla07_tocupacional.pdf,Valdivia,Nivel Secundario,2020,5899
+tabla07_tocupacional.pdf,Valdivia,Nivel Secundario,2021,17869
+tabla07_tocupacional.pdf,Valdivia,Nivel Secundario,2022,17501
+tabla07_tocupacional.pdf,Valdivia,Nivel Secundario,2023,19261
+tabla07_tocupacional.pdf,Valdivia,Nivel Secundario,2024,30819
+tabla07_tocupacional.pdf,Osorno,Nivel Primario,2020,5869
+tabla07_tocupacional.pdf,Osorno,Nivel Primario,2021,10879
+tabla07_tocupacional.pdf,Osorno,Nivel Primario,2022,13989
+tabla07_tocupacional.pdf,Osorno,Nivel Primario,2023,17892
+tabla07_tocupacional.pdf,Osorno,Nivel Primario,2024,17408
+tabla07_tocupacional.pdf,Osorno,Nivel Secundario,2020,11019
+tabla07_tocupacional.pdf,Osorno,Nivel Secundario,2021,16823
+tabla07_tocupacional.pdf,Osorno,Nivel Secundario,2022,19363
+tabla07_tocupacional.pdf,Osorno,Nivel Secundario,2023,25110
+tabla07_tocupacional.pdf,Osorno,Nivel Secundario,2024,24619
+tabla07_tocupacional.pdf,Del Reloncaví,Nivel Primario,2020,6713
+tabla07_tocupacional.pdf,Del Reloncaví,Nivel Primario,2021,12057
+tabla07_tocupacional.pdf,Del Reloncaví,Nivel Primario,2022,23840
+tabla07_tocupacional.pdf,Del Reloncaví,Nivel Primario,2023,25470
+tabla07_tocupacional.pdf,Del Reloncaví,Nivel Primario,2024,33825
+tabla07_tocupacional.pdf,Del Reloncaví,Nivel Secundario,2020,20209
+tabla07_tocupacional.pdf,Del Reloncaví,Nivel Secundario,2021,28506
+tabla07_tocupacional.pdf,Del Reloncaví,Nivel Secundario,2022,35902
+tabla07_tocupacional.pdf,Del Reloncaví,Nivel Secundario,2023,37091
+tabla07_tocupacional.pdf,Del Reloncaví,Nivel Secundario,2024,42889
+tabla07_tocupacional.pdf,Chiloé,Nivel Primario,2020,3330
+tabla07_tocupacional.pdf,Chiloé,Nivel Primario,2021,6492
+tabla07_tocupacional.pdf,Chiloé,Nivel Primario,2022,10875
+tabla07_tocupacional.pdf,Chiloé,Nivel Primario,2023,12223
+tabla07_tocupacional.pdf,Chiloé,Nivel Primario,2024,11425
+tabla07_tocupacional.pdf,Chiloé,Nivel Secundario,2020,2508
+tabla07_tocupacional.pdf,Chiloé,Nivel Secundario,2021,3365
+tabla07_tocupacional.pdf,Chiloé,Nivel Secundario,2022,5529
+tabla07_tocupacional.pdf,Chiloé,Nivel Secundario,2023,9813
+tabla07_tocupacional.pdf,Chiloé,Nivel Secundario,2024,10570
+tabla07_tocupacional.pdf,Aisén,Nivel Primario,2020,513
+tabla07_tocupacional.pdf,Aisén,Nivel Primario,2021,722
+tabla07_tocupacional.pdf,Aisén,Nivel Primario,2022,2180
+tabla07_tocupacional.pdf,Aisén,Nivel Primario,2023,2668
+tabla07_tocupacional.pdf,Aisén,Nivel Primario,2024,3871
+tabla07_tocupacional.pdf,Aisén,Nivel Secundario,2020,2692
+tabla07_tocupacional.pdf,Aisén,Nivel Secundario,2021,4543
+tabla07_tocupacional.pdf,Aisén,Nivel Secundario,2022,4809
+tabla07_tocupacional.pdf,Aisén,Nivel Secundario,2023,6382
+tabla07_tocupacional.pdf,Aisén,Nivel Secundario,2024,7402
+tabla07_tocupacional.pdf,Magallanes,Nivel Primario,2020,1020
+tabla07_tocupacional.pdf,Magallanes,Nivel Primario,2021,2718
+tabla07_tocupacional.pdf,Magallanes,Nivel Primario,2022,3355
+tabla07_tocupacional.pdf,Magallanes,Nivel Primario,2023,4777
+tabla07_tocupacional.pdf,Magallanes,Nivel Primario,2024,7622
+tabla07_tocupacional.pdf,Magallanes,Nivel Secundario,2020,10879
+tabla07_tocupacional.pdf,Magallanes,Nivel Secundario,2021,18882
+tabla07_tocupacional.pdf,Magallanes,Nivel Secundario,2022,20833
+tabla07_tocupacional.pdf,Magallanes,Nivel Secundario,2023,24030
+tabla07_tocupacional.pdf,Magallanes,Nivel Secundario,2024,24245
+tabla08_tecnomedico.pdf,SNSS,Nivel Primario,2020,15361
+tabla08_tecnomedico.pdf,SNSS,Nivel Primario,2021,27911
+tabla08_tecnomedico.pdf,SNSS,Nivel Primario,2022,25218
+tabla08_tecnomedico.pdf,SNSS,Nivel Primario,2023,29382
+tabla08_tecnomedico.pdf,SNSS,Nivel Primario,2024,36906
+tabla08_tecnomedico.pdf,SNSS,Nivel Secundario,2020,124662
+tabla08_tecnomedico.pdf,SNSS,Nivel Secundario,2021,166171
+tabla08_tecnomedico.pdf,SNSS,Nivel Secundario,2022,224396
+tabla08_tecnomedico.pdf,SNSS,Nivel Secundario,2023,237657
+tabla08_tecnomedico.pdf,SNSS,Nivel Secundario,2024,261644
+tabla08_tecnomedico.pdf,Arica,Nivel Primario,2020,1240
+tabla08_tecnomedico.pdf,Arica,Nivel Primario,2021,1748
+tabla08_tecnomedico.pdf,Arica,Nivel Primario,2022,1920
+tabla08_tecnomedico.pdf,Arica,Nivel Secundario,2020,1763
+tabla08_tecnomedico.pdf,Arica,Nivel Secundario,2021,2091
+tabla08_tecnomedico.pdf,Arica,Nivel Secundario,2022,1973
+tabla08_tecnomedico.pdf,Arica,Nivel Secundario,2023,3796
+tabla08_tecnomedico.pdf,Arica,Nivel Secundario,2024,4823
+tabla08_tecnomedico.pdf,Iquique,Nivel Primario,2021,4
+tabla08_tecnomedico.pdf,Iquique,Nivel Primario,2022,29
+tabla08_tecnomedico.pdf,Iquique,Nivel Primario,2023,79
+tabla08_tecnomedico.pdf,Iquique,Nivel Secundario,2021,1533
+tabla08_tecnomedico.pdf,Iquique,Nivel Secundario,2022,2013
+tabla08_tecnomedico.pdf,Iquique,Nivel Secundario,2023,2414
+tabla08_tecnomedico.pdf,Iquique,Nivel Secundario,2024,2544
+tabla08_tecnomedico.pdf,Antofagasta,Nivel Primario,2024,135
+tabla08_tecnomedico.pdf,Antofagasta,Nivel Secundario,2020,3505
+tabla08_tecnomedico.pdf,Antofagasta,Nivel Secundario,2021,7278
+tabla08_tecnomedico.pdf,Antofagasta,Nivel Secundario,2022,7049
+tabla08_tecnomedico.pdf,Antofagasta,Nivel Secundario,2023,2139
+tabla08_tecnomedico.pdf,Antofagasta,Nivel Secundario,2024,1673
+tabla08_tecnomedico.pdf,Atacama,Nivel Primario,2023,13
+tabla08_tecnomedico.pdf,Atacama,Nivel Primario,2024,14
+tabla08_tecnomedico.pdf,Atacama,Nivel Secundario,2020,1113
+tabla08_tecnomedico.pdf,Atacama,Nivel Secundario,2021,1194
+tabla08_tecnomedico.pdf,Atacama,Nivel Secundario,2022,701
+tabla08_tecnomedico.pdf,Atacama,Nivel Secundario,2023,2232
+tabla08_tecnomedico.pdf,Atacama,Nivel Secundario,2024,1647
+tabla08_tecnomedico.pdf,Coquimbo,Nivel Primario,2020,25
+tabla08_tecnomedico.pdf,Coquimbo,Nivel Primario,2021,121
+tabla08_tecnomedico.pdf,Coquimbo,Nivel Primario,2022,31
+tabla08_tecnomedico.pdf,Coquimbo,Nivel Primario,2023,302
+tabla08_tecnomedico.pdf,Coquimbo,Nivel Primario,2024,150
+tabla08_tecnomedico.pdf,Coquimbo,Nivel Secundario,2020,9134
+tabla08_tecnomedico.pdf,Coquimbo,Nivel Secundario,2021,17785
+tabla08_tecnomedico.pdf,Coquimbo,Nivel Secundario,2022,21066
+tabla08_tecnomedico.pdf,Coquimbo,Nivel Secundario,2023,12055
+tabla08_tecnomedico.pdf,Coquimbo,Nivel Secundario,2024,11662
+tabla08_tecnomedico.pdf,Valparaíso San Antonio,Nivel Primario,2021,50
+tabla08_tecnomedico.pdf,Valparaíso San Antonio,Nivel Primario,2023,0
+tabla08_tecnomedico.pdf,Valparaíso San Antonio,Nivel Primario,2024,23
+tabla08_tecnomedico.pdf,Valparaíso San Antonio,Nivel Secundario,2020,2872
+tabla08_tecnomedico.pdf,Valparaíso San Antonio,Nivel Secundario,2021,4564
+tabla08_tecnomedico.pdf,Valparaíso San Antonio,Nivel Secundario,2022,4643
+tabla08_tecnomedico.pdf,Valparaíso San Antonio,Nivel Secundario,2023,5761
+tabla08_tecnomedico.pdf,Valparaíso San Antonio,Nivel Secundario,2024,10803
+tabla08_tecnomedico.pdf,Viña del Mar Quillota,Nivel Primario,2020,1985
+tabla08_tecnomedico.pdf,Viña del Mar Quillota,Nivel Primario,2021,3585
+tabla08_tecnomedico.pdf,Viña del Mar Quillota,Nivel Primario,2022,3775
+tabla08_tecnomedico.pdf,Viña del Mar Quillota,Nivel Primario,2023,3618
+tabla08_tecnomedico.pdf,Viña del Mar Quillota,Nivel Primario,2024,3719
+tabla08_tecnomedico.pdf,Viña del Mar Quillota,Nivel Secundario,2020,3139
+tabla08_tecnomedico.pdf,Viña del Mar Quillota,Nivel Secundario,2021,3785
+tabla08_tecnomedico.pdf,Viña del Mar Quillota,Nivel Secundario,2022,7220
+tabla08_tecnomedico.pdf,Viña del Mar Quillota,Nivel Secundario,2023,10316
+tabla08_tecnomedico.pdf,Viña del Mar Quillota,Nivel Secundario,2024,11505
+tabla08_tecnomedico.pdf,Aconcagua,Nivel Primario,2022,219
+tabla08_tecnomedico.pdf,Aconcagua,Nivel Primario,2023,1214
+tabla08_tecnomedico.pdf,Aconcagua,Nivel Primario,2024,607
+tabla08_tecnomedico.pdf,Aconcagua,Nivel Secundario,2020,2621
+tabla08_tecnomedico.pdf,Aconcagua,Nivel Secundario,2021,3080
+tabla08_tecnomedico.pdf,Aconcagua,Nivel Secundario,2022,3381
+tabla08_tecnomedico.pdf,Aconcagua,Nivel Secundario,2023,4379
+tabla08_tecnomedico.pdf,Aconcagua,Nivel Secundario,2024,4534
+tabla08_tecnomedico.pdf,Metropolitano Norte,Nivel Primario,2020,3
+tabla08_tecnomedico.pdf,Metropolitano Norte,Nivel Primario,2021,26
+tabla08_tecnomedico.pdf,Metropolitano Norte,Nivel Primario,2022,1402
+tabla08_tecnomedico.pdf,Metropolitano Norte,Nivel Primario,2023,6079
+tabla08_tecnomedico.pdf,Metropolitano Norte,Nivel Primario,2024,5688
+tabla08_tecnomedico.pdf,Metropolitano Norte,Nivel Secundario,2020,4856
+tabla08_tecnomedico.pdf,Metropolitano Norte,Nivel Secundario,2021,5640
+tabla08_tecnomedico.pdf,Metropolitano Norte,Nivel Secundario,2022,5987
+tabla08_tecnomedico.pdf,Metropolitano Norte,Nivel Secundario,2023,1658
+tabla08_tecnomedico.pdf,Metropolitano Norte,Nivel Secundario,2024,3078
+tabla08_tecnomedico.pdf,Metropolitano Occidente,Nivel Primario,2020,343
+tabla08_tecnomedico.pdf,Metropolitano Occidente,Nivel Primario,2021,89
+tabla08_tecnomedico.pdf,Metropolitano Occidente,Nivel Primario,2022,214
+tabla08_tecnomedico.pdf,Metropolitano Occidente,Nivel Primario,2023,322
+tabla08_tecnomedico.pdf,Metropolitano Occidente,Nivel Primario,2024,927
+tabla08_tecnomedico.pdf,Metropolitano Occidente,Nivel Secundario,2020,6829
+tabla08_tecnomedico.pdf,Metropolitano Occidente,Nivel Secundario,2021,9611
+tabla08_tecnomedico.pdf,Metropolitano Occidente,Nivel Secundario,2022,12291
+tabla08_tecnomedico.pdf,Metropolitano Occidente,Nivel Secundario,2023,15241
+tabla08_tecnomedico.pdf,Metropolitano Occidente,Nivel Secundario,2024,18414
+tabla08_tecnomedico.pdf,Metropolitano Central,Nivel Primario,2021,0
+tabla08_tecnomedico.pdf,Metropolitano Central,Nivel Primario,2023,14
+tabla08_tecnomedico.pdf,Metropolitano Central,Nivel Secundario,2020,12953
+tabla08_tecnomedico.pdf,Metropolitano Central,Nivel Secundario,2021,13128
+tabla08_tecnomedico.pdf,Metropolitano Central,Nivel Secundario,2022,14361
+tabla08_tecnomedico.pdf,Metropolitano Central,Nivel Secundario,2023,16312
+tabla08_tecnomedico.pdf,Metropolitano Central,Nivel Secundario,2024,16317
+tabla08_tecnomedico.pdf,Metropolitano Oriente,Nivel Primario,2020,833
+tabla08_tecnomedico.pdf,Metropolitano Oriente,Nivel Primario,2021,1401
+tabla08_tecnomedico.pdf,Metropolitano Oriente,Nivel Primario,2022,1861
+tabla08_tecnomedico.pdf,Metropolitano Oriente,Nivel Primario,2023,2811
+tabla08_tecnomedico.pdf,Metropolitano Oriente,Nivel Primario,2024,3152
+tabla08_tecnomedico.pdf,Metropolitano Oriente,Nivel Secundario,2020,1554
+tabla08_tecnomedico.pdf,Metropolitano Oriente,Nivel Secundario,2021,2451
+tabla08_tecnomedico.pdf,Metropolitano Oriente,Nivel Secundario,2022,2391
+tabla08_tecnomedico.pdf,Metropolitano Oriente,Nivel Secundario,2023,2300
+tabla08_tecnomedico.pdf,Metropolitano Oriente,Nivel Secundario,2024,2240
+tabla08_tecnomedico.pdf,Metropolitano Sur,Nivel Primario,2021,150
+tabla08_tecnomedico.pdf,Metropolitano Sur,Nivel Primario,2022,126
+tabla08_tecnomedico.pdf,Metropolitano Sur,Nivel Primario,2023,64
+tabla08_tecnomedico.pdf,Metropolitano Sur,Nivel Primario,2024,15
+tabla08_tecnomedico.pdf,Metropolitano Sur,Nivel Secundario,2020,5387
+tabla08_tecnomedico.pdf,Metropolitano Sur,Nivel Secundario,2021,6647
+tabla08_tecnomedico.pdf,Metropolitano Sur,Nivel Secundario,2022,10992
+tabla08_tecnomedico.pdf,Metropolitano Sur,Nivel Secundario,2023,14404
+tabla08_tecnomedico.pdf,Metropolitano Sur,Nivel Secundario,2024,16260
+tabla08_tecnomedico.pdf,Metropolitano Sur Oriente,Nivel Primario,2020,314
+tabla08_tecnomedico.pdf,Metropolitano Sur Oriente,Nivel Primario,2021,510
+tabla08_tecnomedico.pdf,Metropolitano Sur Oriente,Nivel Primario,2022,171
+tabla08_tecnomedico.pdf,Metropolitano Sur Oriente,Nivel Primario,2023,54
+tabla08_tecnomedico.pdf,Metropolitano Sur Oriente,Nivel Primario,2024,70
+tabla08_tecnomedico.pdf,Metropolitano Sur Oriente,Nivel Secundario,2020,6774
+tabla08_tecnomedico.pdf,Metropolitano Sur Oriente,Nivel Secundario,2021,13371
+tabla08_tecnomedico.pdf,Metropolitano Sur Oriente,Nivel Secundario,2022,18524
+tabla08_tecnomedico.pdf,Metropolitano Sur Oriente,Nivel Secundario,2023,20886
+tabla08_tecnomedico.pdf,Metropolitano Sur Oriente,Nivel Secundario,2024,23424
+tabla08_tecnomedico.pdf,O'Higgins,Nivel Primario,2020,1639
+tabla08_tecnomedico.pdf,O'Higgins,Nivel Primario,2021,2886
+tabla08_tecnomedico.pdf,O'Higgins,Nivel Primario,2022,999
+tabla08_tecnomedico.pdf,O'Higgins,Nivel Primario,2023,1854
+tabla08_tecnomedico.pdf,O'Higgins,Nivel Primario,2024,4631
+tabla08_tecnomedico.pdf,O'Higgins,Nivel Secundario,2020,3180
+tabla08_tecnomedico.pdf,O'Higgins,Nivel Secundario,2021,5108
+tabla08_tecnomedico.pdf,O'Higgins,Nivel Secundario,2022,8115
+tabla08_tecnomedico.pdf,O'Higgins,Nivel Secundario,2023,10018
+tabla08_tecnomedico.pdf,O'Higgins,Nivel Secundario,2024,12290
+tabla08_tecnomedico.pdf,Maule,Nivel Primario,2020,1624
+tabla08_tecnomedico.pdf,Maule,Nivel Primario,2021,2564
+tabla08_tecnomedico.pdf,Maule,Nivel Primario,2022,255
+tabla08_tecnomedico.pdf,Maule,Nivel Primario,2023,84
+tabla08_tecnomedico.pdf,Maule,Nivel Primario,2024,2482
+tabla08_tecnomedico.pdf,Maule,Nivel Secundario,2020,4231
+tabla08_tecnomedico.pdf,Maule,Nivel Secundario,2021,4887
+tabla08_tecnomedico.pdf,Maule,Nivel Secundario,2022,10254
+tabla08_tecnomedico.pdf,Maule,Nivel Secundario,2023,14654
+tabla08_tecnomedico.pdf,Maule,Nivel Secundario,2024,12342
+tabla08_tecnomedico.pdf,Ñuble,Nivel Primario,2020,286
+tabla08_tecnomedico.pdf,Ñuble,Nivel Primario,2021,43
+tabla08_tecnomedico.pdf,Ñuble,Nivel Primario,2022,263
+tabla08_tecnomedico.pdf,Ñuble,Nivel Primario,2023,198
+tabla08_tecnomedico.pdf,Ñuble,Nivel Primario,2024,74
+tabla08_tecnomedico.pdf,Ñuble,Nivel Secundario,2020,8136
+tabla08_tecnomedico.pdf,Ñuble,Nivel Secundario,2021,8892
+tabla08_tecnomedico.pdf,Ñuble,Nivel Secundario,2022,10096
+tabla08_tecnomedico.pdf,Ñuble,Nivel Secundario,2023,6825
+tabla08_tecnomedico.pdf,Ñuble,Nivel Secundario,2024,6458
+tabla08_tecnomedico.pdf,Concepción,Nivel Primario,2020,5187
+tabla08_tecnomedico.pdf,Concepción,Nivel Primario,2021,12136
+tabla08_tecnomedico.pdf,Concepción,Nivel Primario,2022,10163
+tabla08_tecnomedico.pdf,Concepción,Nivel Primario,2023,11133
+tabla08_tecnomedico.pdf,Concepción,Nivel Primario,2024,11775
+tabla08_tecnomedico.pdf,Concepción,Nivel Secundario,2020,3664
+tabla08_tecnomedico.pdf,Concepción,Nivel Secundario,2021,4112
+tabla08_tecnomedico.pdf,Concepción,Nivel Secundario,2022,7021
+tabla08_tecnomedico.pdf,Concepción,Nivel Secundario,2023,2690
+tabla08_tecnomedico.pdf,Concepción,Nivel Secundario,2024,2244
+tabla08_tecnomedico.pdf,Arauco,Nivel Primario,2020,514
+tabla08_tecnomedico.pdf,Arauco,Nivel Primario,2021,149
+tabla08_tecnomedico.pdf,Arauco,Nivel Primario,2022,120
+tabla08_tecnomedico.pdf,Arauco,Nivel Primario,2023,336
+tabla08_tecnomedico.pdf,Arauco,Nivel Primario,2024,141
+tabla08_tecnomedico.pdf,Arauco,Nivel Secundario,2020,965
+tabla08_tecnomedico.pdf,Arauco,Nivel Secundario,2021,1309
+tabla08_tecnomedico.pdf,Arauco,Nivel Secundario,2022,2002
+tabla08_tecnomedico.pdf,Arauco,Nivel Secundario,2023,4047
+tabla08_tecnomedico.pdf,Arauco,Nivel Secundario,2024,4377
+tabla08_tecnomedico.pdf,Talcahuano,Nivel Primario,2024,158
+tabla08_tecnomedico.pdf,Talcahuano,Nivel Secundario,2020,12797
+tabla08_tecnomedico.pdf,Talcahuano,Nivel Secundario,2021,21598
+tabla08_tecnomedico.pdf,Talcahuano,Nivel Secundario,2022,30200
+tabla08_tecnomedico.pdf,Talcahuano,Nivel Secundario,2023,32650
+tabla08_tecnomedico.pdf,Talcahuano,Nivel Secundario,2024,33398
+tabla08_tecnomedico.pdf,Biobío,Nivel Primario,2020,10
+tabla08_tecnomedico.pdf,Biobío,Nivel Primario,2021,12
+tabla08_tecnomedico.pdf,Biobío,Nivel Primario,2022,2
+tabla08_tecnomedico.pdf,Biobío,Nivel Primario,2023,5
+tabla08_tecnomedico.pdf,Biobío,Nivel Secundario,2020,11885
+tabla08_tecnomedico.pdf,Biobío,Nivel Secundario,2021,7004
+tabla08_tecnomedico.pdf,Biobío,Nivel Secundario,2022,4632
+tabla08_tecnomedico.pdf,Biobío,Nivel Secundario,2023,8551
+tabla08_tecnomedico.pdf,Biobío,Nivel Secundario,2024,12317
+tabla08_tecnomedico.pdf,Araucanía Norte,Nivel Primario,2021,91
+tabla08_tecnomedico.pdf,Araucanía Norte,Nivel Primario,2023,0
+tabla08_tecnomedico.pdf,Araucanía Norte,Nivel Primario,2024,330
+tabla08_tecnomedico.pdf,Araucanía Norte,Nivel Secundario,2020,758
+tabla08_tecnomedico.pdf,Araucanía Norte,Nivel Secundario,2021,1762
+tabla08_tecnomedico.pdf,Araucanía Norte,Nivel Secundario,2022,3243
+tabla08_tecnomedico.pdf,Araucanía Norte,Nivel Secundario,2023,3346
+tabla08_tecnomedico.pdf,Araucanía Norte,Nivel Secundario,2024,2300
+tabla08_tecnomedico.pdf,Araucanía Sur,Nivel Primario,2020,1051
+tabla08_tecnomedico.pdf,Araucanía Sur,Nivel Primario,2021,911
+tabla08_tecnomedico.pdf,Araucanía Sur,Nivel Primario,2022,2474
+tabla08_tecnomedico.pdf,Araucanía Sur,Nivel Primario,2023,149
+tabla08_tecnomedico.pdf,Araucanía Sur,Nivel Primario,2024,1913
+tabla08_tecnomedico.pdf,Araucanía Sur,Nivel Secundario,2020,4649
+tabla08_tecnomedico.pdf,Araucanía Sur,Nivel Secundario,2021,4883
+tabla08_tecnomedico.pdf,Araucanía Sur,Nivel Secundario,2022,5118
+tabla08_tecnomedico.pdf,Araucanía Sur,Nivel Secundario,2023,8465
+tabla08_tecnomedico.pdf,Araucanía Sur,Nivel Secundario,2024,13850
+tabla08_tecnomedico.pdf,Valdivia,Nivel Primario,2020,26
+tabla08_tecnomedico.pdf,Valdivia,Nivel Primario,2022,168
+tabla08_tecnomedico.pdf,Valdivia,Nivel Primario,2023,799
+tabla08_tecnomedico.pdf,Valdivia,Nivel Primario,2024,744
+tabla08_tecnomedico.pdf,Valdivia,Nivel Secundario,2022,153
+tabla08_tecnomedico.pdf,Valdivia,Nivel Secundario,2023,2150
+tabla08_tecnomedico.pdf,Valdivia,Nivel Secundario,2024,2591
+tabla08_tecnomedico.pdf,Osorno,Nivel Primario,2020,269
+tabla08_tecnomedico.pdf,Osorno,Nivel Primario,2021,318
+tabla08_tecnomedico.pdf,Osorno,Nivel Primario,2023,33
+tabla08_tecnomedico.pdf,Osorno,Nivel Primario,2024,3
+tabla08_tecnomedico.pdf,Osorno,Nivel Secundario,2020,1942
+tabla08_tecnomedico.pdf,Osorno,Nivel Secundario,2021,877
+tabla08_tecnomedico.pdf,Osorno,Nivel Secundario,2022,1984
+tabla08_tecnomedico.pdf,Osorno,Nivel Secundario,2023,1866
+tabla08_tecnomedico.pdf,Osorno,Nivel Secundario,2024,2428
+tabla08_tecnomedico.pdf,Del Reloncaví,Nivel Primario,2020,12
+tabla08_tecnomedico.pdf,Del Reloncaví,Nivel Primario,2021,165
+tabla08_tecnomedico.pdf,Del Reloncaví,Nivel Primario,2022,85
+tabla08_tecnomedico.pdf,Del Reloncaví,Nivel Primario,2023,134
+tabla08_tecnomedico.pdf,Del Reloncaví,Nivel Primario,2024,3
+tabla08_tecnomedico.pdf,Del Reloncaví,Nivel Secundario,2020,3196
+tabla08_tecnomedico.pdf,Del Reloncaví,Nivel Secundario,2021,4384
+tabla08_tecnomedico.pdf,Del Reloncaví,Nivel Secundario,2022,6561
+tabla08_tecnomedico.pdf,Del Reloncaví,Nivel Secundario,2023,8548
+tabla08_tecnomedico.pdf,Del Reloncaví,Nivel Secundario,2024,5881
+tabla08_tecnomedico.pdf,Chiloé,Nivel Primario,2021,944
+tabla08_tecnomedico.pdf,Chiloé,Nivel Primario,2022,904
+tabla08_tecnomedico.pdf,Chiloé,Nivel Primario,2023,1
+tabla08_tecnomedico.pdf,Chiloé,Nivel Primario,2024,30
+tabla08_tecnomedico.pdf,Chiloé,Nivel Secundario,2020,5509
+tabla08_tecnomedico.pdf,Chiloé,Nivel Secundario,2021,6003
+tabla08_tecnomedico.pdf,Chiloé,Nivel Secundario,2022,19186
+tabla08_tecnomedico.pdf,Chiloé,Nivel Secundario,2023,16237
+tabla08_tecnomedico.pdf,Chiloé,Nivel Secundario,2024,17532
+tabla08_tecnomedico.pdf,Aisén,Nivel Primario,2022,27
+tabla08_tecnomedico.pdf,Aisén,Nivel Primario,2023,86
+tabla08_tecnomedico.pdf,Aisén,Nivel Primario,2024,122
+tabla08_tecnomedico.pdf,Aisén,Nivel Secundario,2020,315
+tabla08_tecnomedico.pdf,Aisén,Nivel Secundario,2021,2606
+tabla08_tecnomedico.pdf,Aisén,Nivel Secundario,2022,2587
+tabla08_tecnomedico.pdf,Aisén,Nivel Secundario,2023,2655
+tabla08_tecnomedico.pdf,Aisén,Nivel Secundario,2024,3852
+tabla08_tecnomedico.pdf,Magallanes,Nivel Primario,2021,8
+tabla08_tecnomedico.pdf,Magallanes,Nivel Primario,2022,10
+tabla09_asisocial.pdf,SNSS,Nivel Primario,2020,668322
+tabla09_asisocial.pdf,SNSS,Nivel Primario,2021,1001657
+tabla09_asisocial.pdf,SNSS,Nivel Primario,2022,1399629
+tabla09_asisocial.pdf,SNSS,Nivel Primario,2023,1508853
+tabla09_asisocial.pdf,SNSS,Nivel Primario,2024,1559966
+tabla09_asisocial.pdf,SNSS,Nivel Secundario,2020,391593
+tabla09_asisocial.pdf,SNSS,Nivel Secundario,2021,476379
+tabla09_asisocial.pdf,SNSS,Nivel Secundario,2022,557499
+tabla09_asisocial.pdf,SNSS,Nivel Secundario,2023,600713
+tabla09_asisocial.pdf,SNSS,Nivel Secundario,2024,674738
+tabla09_asisocial.pdf,SNSS,Urgencia,2023,75615
+tabla09_asisocial.pdf,SNSS,Urgencia,2024,99587
+tabla09_asisocial.pdf,Arica,Nivel Primario,2020,6565
+tabla09_asisocial.pdf,Arica,Nivel Primario,2021,10654
+tabla09_asisocial.pdf,Arica,Nivel Primario,2022,10864
+tabla09_asisocial.pdf,Arica,Nivel Primario,2023,10505
+tabla09_asisocial.pdf,Arica,Nivel Primario,2024,10692
+tabla09_asisocial.pdf,Arica,Nivel Secundario,2020,20911
+tabla09_asisocial.pdf,Arica,Nivel Secundario,2021,25668
+tabla09_asisocial.pdf,Arica,Nivel Secundario,2022,20558
+tabla09_asisocial.pdf,Arica,Nivel Secundario,2023,15890
+tabla09_asisocial.pdf,Arica,Nivel Secundario,2024,18151
+tabla09_asisocial.pdf,Iquique,Nivel Primario,2020,28371
+tabla09_asisocial.pdf,Iquique,Nivel Primario,2021,39468
+tabla09_asisocial.pdf,Iquique,Nivel Primario,2022,45552
+tabla09_asisocial.pdf,Iquique,Nivel Primario,2023,47918
+tabla09_asisocial.pdf,Iquique,Nivel Primario,2024,45750
+tabla09_asisocial.pdf,Iquique,Nivel Secundario,2020,6940
+tabla09_asisocial.pdf,Iquique,Nivel Secundario,2021,7803
+tabla09_asisocial.pdf,Iquique,Nivel Secundario,2022,7795
+tabla09_asisocial.pdf,Iquique,Nivel Secundario,2023,9919
+tabla09_asisocial.pdf,Iquique,Nivel Secundario,2024,11225
+tabla09_asisocial.pdf,Iquique,Urgencia,2023,2936
+tabla09_asisocial.pdf,Iquique,Urgencia,2024,3383
+tabla09_asisocial.pdf,Antofagasta,Nivel Primario,2020,23484
+tabla09_asisocial.pdf,Antofagasta,Nivel Primario,2021,43525
+tabla09_asisocial.pdf,Antofagasta,Nivel Primario,2022,64918
+tabla09_asisocial.pdf,Antofagasta,Nivel Primario,2023,64617
+tabla09_asisocial.pdf,Antofagasta,Nivel Primario,2024,65774
+tabla09_asisocial.pdf,Antofagasta,Nivel Secundario,2020,30493
+tabla09_asisocial.pdf,Antofagasta,Nivel Secundario,2021,41079
+tabla09_asisocial.pdf,Antofagasta,Nivel Secundario,2022,42296
+tabla09_asisocial.pdf,Antofagasta,Nivel Secundario,2023,36118
+tabla09_asisocial.pdf,Antofagasta,Nivel Secundario,2024,45247
+tabla09_asisocial.pdf,Antofagasta,Urgencia,2023,1267
+tabla09_asisocial.pdf,Antofagasta,Urgencia,2024,1237
+tabla09_asisocial.pdf,Atacama,Nivel Primario,2020,12513
+tabla09_asisocial.pdf,Atacama,Nivel Primario,2021,21389
+tabla09_asisocial.pdf,Atacama,Nivel Primario,2022,28245
+tabla09_asisocial.pdf,Atacama,Nivel Primario,2023,32815
+tabla09_asisocial.pdf,Atacama,Nivel Primario,2024,29360
+tabla09_asisocial.pdf,Atacama,Nivel Secundario,2020,11398
+tabla09_asisocial.pdf,Atacama,Nivel Secundario,2021,14975
+tabla09_asisocial.pdf,Atacama,Nivel Secundario,2022,3111
+tabla09_asisocial.pdf,Atacama,Nivel Secundario,2023,3849
+tabla09_asisocial.pdf,Atacama,Nivel Secundario,2024,5802
+tabla09_asisocial.pdf,Atacama,Urgencia,2023,1169
+tabla09_asisocial.pdf,Atacama,Urgencia,2024,1083
+tabla09_asisocial.pdf,Coquimbo,Nivel Primario,2020,36266
+tabla09_asisocial.pdf,Coquimbo,Nivel Primario,2021,59429
+tabla09_asisocial.pdf,Coquimbo,Nivel Primario,2022,85155
+tabla09_asisocial.pdf,Coquimbo,Nivel Primario,2023,91476
+tabla09_asisocial.pdf,Coquimbo,Nivel Primario,2024,86127
+tabla09_asisocial.pdf,Coquimbo,Nivel Secundario,2020,15402
+tabla09_asisocial.pdf,Coquimbo,Nivel Secundario,2021,16869
+tabla09_asisocial.pdf,Coquimbo,Nivel Secundario,2022,16407
+tabla09_asisocial.pdf,Coquimbo,Nivel Secundario,2023,16819
+tabla09_asisocial.pdf,Coquimbo,Nivel Secundario,2024,21202
+tabla09_asisocial.pdf,Coquimbo,Urgencia,2023,5605
+tabla09_asisocial.pdf,Coquimbo,Urgencia,2024,9572
+tabla09_asisocial.pdf,Valparaíso San Antonio,Nivel Primario,2020,19494
+tabla09_asisocial.pdf,Valparaíso San Antonio,Nivel Primario,2021,34159
+tabla09_asisocial.pdf,Valparaíso San Antonio,Nivel Primario,2022,50540
+tabla09_asisocial.pdf,Valparaíso San Antonio,Nivel Primario,2023,56195
+tabla09_asisocial.pdf,Valparaíso San Antonio,Nivel Primario,2024,61355
+tabla09_asisocial.pdf,Valparaíso San Antonio,Nivel Secundario,2020,8782
+tabla09_asisocial.pdf,Valparaíso San Antonio,Nivel Secundario,2021,9739
+tabla09_asisocial.pdf,Valparaíso San Antonio,Nivel Secundario,2022,9631
+tabla09_asisocial.pdf,Valparaíso San Antonio,Nivel Secundario,2023,11894
+tabla09_asisocial.pdf,Valparaíso San Antonio,Nivel Secundario,2024,15168
+tabla09_asisocial.pdf,Valparaíso San Antonio,Urgencia,2023,2529
+tabla09_asisocial.pdf,Valparaíso San Antonio,Urgencia,2024,2960
+tabla09_asisocial.pdf,Viña del Mar Quillota,Nivel Primario,2020,49148
+tabla09_asisocial.pdf,Viña del Mar Quillota,Nivel Primario,2021,57817
+tabla09_asisocial.pdf,Viña del Mar Quillota,Nivel Primario,2022,80514
+tabla09_asisocial.pdf,Viña del Mar Quillota,Nivel Primario,2023,93735
+tabla09_asisocial.pdf,Viña del Mar Quillota,Nivel Primario,2024,101692
+tabla09_asisocial.pdf,Viña del Mar Quillota,Nivel Secundario,2020,19770
+tabla09_asisocial.pdf,Viña del Mar Quillota,Nivel Secundario,2021,13212
+tabla09_asisocial.pdf,Viña del Mar Quillota,Nivel Secundario,2022,18878
+tabla09_asisocial.pdf,Viña del Mar Quillota,Nivel Secundario,2023,25632
+tabla09_asisocial.pdf,Viña del Mar Quillota,Nivel Secundario,2024,26979
+tabla09_asisocial.pdf,Viña del Mar Quillota,Urgencia,2023,3650
+tabla09_asisocial.pdf,Viña del Mar Quillota,Urgencia,2024,3603
+tabla09_asisocial.pdf,Aconcagua,Nivel Primario,2020,15073
+tabla09_asisocial.pdf,Aconcagua,Nivel Primario,2021,16861
+tabla09_asisocial.pdf,Aconcagua,Nivel Primario,2022,19392
+tabla09_asisocial.pdf,Aconcagua,Nivel Primario,2023,21848
+tabla09_asisocial.pdf,Aconcagua,Nivel Primario,2024,20581
+tabla09_asisocial.pdf,Aconcagua,Nivel Secundario,2020,6654
+tabla09_asisocial.pdf,Aconcagua,Nivel Secundario,2021,9174
+tabla09_asisocial.pdf,Aconcagua,Nivel Secundario,2022,13054
+tabla09_asisocial.pdf,Aconcagua,Nivel Secundario,2023,14365
+tabla09_asisocial.pdf,Aconcagua,Nivel Secundario,2024,12495
+tabla09_asisocial.pdf,Aconcagua,Urgencia,2023,1188
+tabla09_asisocial.pdf,Aconcagua,Urgencia,2024,908
+tabla09_asisocial.pdf,Metropolitano Norte,Nivel Primario,2020,27384
+tabla09_asisocial.pdf,Metropolitano Norte,Nivel Primario,2021,43235
+tabla09_asisocial.pdf,Metropolitano Norte,Nivel Primario,2022,52431
+tabla09_asisocial.pdf,Metropolitano Norte,Nivel Primario,2023,57277
+tabla09_asisocial.pdf,Metropolitano Norte,Nivel Primario,2024,60464
+tabla09_asisocial.pdf,Metropolitano Norte,Nivel Secundario,2020,21151
+tabla09_asisocial.pdf,Metropolitano Norte,Nivel Secundario,2021,25152
+tabla09_asisocial.pdf,Metropolitano Norte,Nivel Secundario,2022,30424
+tabla09_asisocial.pdf,Metropolitano Norte,Nivel Secundario,2023,18049
+tabla09_asisocial.pdf,Metropolitano Norte,Nivel Secundario,2024,23716
+tabla09_asisocial.pdf,Metropolitano Norte,Urgencia,2023,4455
+tabla09_asisocial.pdf,Metropolitano Norte,Urgencia,2024,4276
+tabla09_asisocial.pdf,Metropolitano Occidente,Nivel Primario,2020,33653
+tabla09_asisocial.pdf,Metropolitano Occidente,Nivel Primario,2021,54930
+tabla09_asisocial.pdf,Metropolitano Occidente,Nivel Primario,2022,77300
+tabla09_asisocial.pdf,Metropolitano Occidente,Nivel Primario,2023,80743
+tabla09_asisocial.pdf,Metropolitano Occidente,Nivel Primario,2024,86964
+tabla09_asisocial.pdf,Metropolitano Occidente,Nivel Secundario,2020,18806
+tabla09_asisocial.pdf,Metropolitano Occidente,Nivel Secundario,2021,27781
+tabla09_asisocial.pdf,Metropolitano Occidente,Nivel Secundario,2022,33496
+tabla09_asisocial.pdf,Metropolitano Occidente,Nivel Secundario,2023,33549
+tabla09_asisocial.pdf,Metropolitano Occidente,Nivel Secundario,2024,36875
+tabla09_asisocial.pdf,Metropolitano Occidente,Urgencia,2023,4105
+tabla09_asisocial.pdf,Metropolitano Occidente,Urgencia,2024,5586
+tabla09_asisocial.pdf,Metropolitano Central,Nivel Primario,2020,24265
+tabla09_asisocial.pdf,Metropolitano Central,Nivel Primario,2021,32853
+tabla09_asisocial.pdf,Metropolitano Central,Nivel Primario,2022,42335
+tabla09_asisocial.pdf,Metropolitano Central,Nivel Primario,2023,47006
+tabla09_asisocial.pdf,Metropolitano Central,Nivel Primario,2024,48141
+tabla09_asisocial.pdf,Metropolitano Central,Nivel Secundario,2020,10420
+tabla09_asisocial.pdf,Metropolitano Central,Nivel Secundario,2021,10983
+tabla09_asisocial.pdf,Metropolitano Central,Nivel Secundario,2022,16222
+tabla09_asisocial.pdf,Metropolitano Central,Nivel Secundario,2023,22425
+tabla09_asisocial.pdf,Metropolitano Central,Nivel Secundario,2024,31414
+tabla09_asisocial.pdf,Metropolitano Central,Urgencia,2023,634
+tabla09_asisocial.pdf,Metropolitano Central,Urgencia,2024,833
+tabla09_asisocial.pdf,Metropolitano Oriente,Nivel Primario,2020,28494
+tabla09_asisocial.pdf,Metropolitano Oriente,Nivel Primario,2021,35171
+tabla09_asisocial.pdf,Metropolitano Oriente,Nivel Primario,2022,54163
+tabla09_asisocial.pdf,Metropolitano Oriente,Nivel Primario,2023,55770
+tabla09_asisocial.pdf,Metropolitano Oriente,Nivel Primario,2024,57800
+tabla09_asisocial.pdf,Metropolitano Oriente,Nivel Secundario,2020,19971
+tabla09_asisocial.pdf,Metropolitano Oriente,Nivel Secundario,2021,20593
+tabla09_asisocial.pdf,Metropolitano Oriente,Nivel Secundario,2022,25525
+tabla09_asisocial.pdf,Metropolitano Oriente,Nivel Secundario,2023,32014
+tabla09_asisocial.pdf,Metropolitano Oriente,Nivel Secundario,2024,35239
+tabla09_asisocial.pdf,Metropolitano Oriente,Urgencia,2023,3441
+tabla09_asisocial.pdf,Metropolitano Oriente,Urgencia,2024,3764
+tabla09_asisocial.pdf,Metropolitano Sur,Nivel Primario,2020,34082
+tabla09_asisocial.pdf,Metropolitano Sur,Nivel Primario,2021,58535
+tabla09_asisocial.pdf,Metropolitano Sur,Nivel Primario,2022,90645
+tabla09_asisocial.pdf,Metropolitano Sur,Nivel Primario,2023,91460
+tabla09_asisocial.pdf,Metropolitano Sur,Nivel Primario,2024,86421
+tabla09_asisocial.pdf,Metropolitano Sur,Nivel Secundario,2020,26834
+tabla09_asisocial.pdf,Metropolitano Sur,Nivel Secundario,2021,33023
+tabla09_asisocial.pdf,Metropolitano Sur,Nivel Secundario,2022,37259
+tabla09_asisocial.pdf,Metropolitano Sur,Nivel Secundario,2023,41162
+tabla09_asisocial.pdf,Metropolitano Sur,Nivel Secundario,2024,43058
+tabla09_asisocial.pdf,Metropolitano Sur,Urgencia,2023,8532
+tabla09_asisocial.pdf,Metropolitano Sur,Urgencia,2024,10531
+tabla09_asisocial.pdf,Metropolitano Sur Oriente,Nivel Primario,2020,30544
+tabla09_asisocial.pdf,Metropolitano Sur Oriente,Nivel Primario,2021,41470
+tabla09_asisocial.pdf,Metropolitano Sur Oriente,Nivel Primario,2022,62764
+tabla09_asisocial.pdf,Metropolitano Sur Oriente,Nivel Primario,2023,76580
+tabla09_asisocial.pdf,Metropolitano Sur Oriente,Nivel Primario,2024,83632
+tabla09_asisocial.pdf,Metropolitano Sur Oriente,Nivel Secundario,2020,22006
+tabla09_asisocial.pdf,Metropolitano Sur Oriente,Nivel Secundario,2021,27795
+tabla09_asisocial.pdf,Metropolitano Sur Oriente,Nivel Secundario,2022,36876
+tabla09_asisocial.pdf,Metropolitano Sur Oriente,Nivel Secundario,2023,41156
+tabla09_asisocial.pdf,Metropolitano Sur Oriente,Nivel Secundario,2024,44031
+tabla09_asisocial.pdf,Metropolitano Sur Oriente,Urgencia,2023,6303
+tabla09_asisocial.pdf,Metropolitano Sur Oriente,Urgencia,2024,9496
+tabla09_asisocial.pdf,O'Higgins,Nivel Primario,2020,41200
+tabla09_asisocial.pdf,O'Higgins,Nivel Primario,2021,65654
+tabla09_asisocial.pdf,O'Higgins,Nivel Primario,2022,97259
+tabla09_asisocial.pdf,O'Higgins,Nivel Primario,2023,101494
+tabla09_asisocial.pdf,O'Higgins,Nivel Primario,2024,96580
+tabla09_asisocial.pdf,O'Higgins,Nivel Secundario,2020,16129
+tabla09_asisocial.pdf,O'Higgins,Nivel Secundario,2021,21989
+tabla09_asisocial.pdf,O'Higgins,Nivel Secundario,2022,29314
+tabla09_asisocial.pdf,O'Higgins,Nivel Secundario,2023,34377
+tabla09_asisocial.pdf,O'Higgins,Nivel Secundario,2024,38617
+tabla09_asisocial.pdf,O'Higgins,Urgencia,2023,3350
+tabla09_asisocial.pdf,O'Higgins,Urgencia,2024,3551
+tabla09_asisocial.pdf,Maule,Nivel Primario,2020,47099
+tabla09_asisocial.pdf,Maule,Nivel Primario,2021,65685
+tabla09_asisocial.pdf,Maule,Nivel Primario,2022,98748
+tabla09_asisocial.pdf,Maule,Nivel Primario,2023,117499
+tabla09_asisocial.pdf,Maule,Nivel Primario,2024,146827
+tabla09_asisocial.pdf,Maule,Nivel Secundario,2020,34348
+tabla09_asisocial.pdf,Maule,Nivel Secundario,2021,37034
+tabla09_asisocial.pdf,Maule,Nivel Secundario,2022,42476
+tabla09_asisocial.pdf,Maule,Nivel Secundario,2023,50878
+tabla09_asisocial.pdf,Maule,Nivel Secundario,2024,57194
+tabla09_asisocial.pdf,Maule,Urgencia,2023,4098
+tabla09_asisocial.pdf,Maule,Urgencia,2024,5857
+tabla09_asisocial.pdf,Ñuble,Nivel Primario,2020,22544
+tabla09_asisocial.pdf,Ñuble,Nivel Primario,2021,36341
+tabla09_asisocial.pdf,Ñuble,Nivel Primario,2022,49900
+tabla09_asisocial.pdf,Ñuble,Nivel Primario,2023,55754
+tabla09_asisocial.pdf,Ñuble,Nivel Primario,2024,56107
+tabla09_asisocial.pdf,Ñuble,Nivel Secundario,2020,8783
+tabla09_asisocial.pdf,Ñuble,Nivel Secundario,2021,12790
+tabla09_asisocial.pdf,Ñuble,Nivel Secundario,2022,19788
+tabla09_asisocial.pdf,Ñuble,Nivel Secundario,2023,23166
+tabla09_asisocial.pdf,Ñuble,Nivel Secundario,2024,24288
+tabla09_asisocial.pdf,Ñuble,Urgencia,2023,2258
+tabla09_asisocial.pdf,Ñuble,Urgencia,2024,1315
+tabla09_asisocial.pdf,Concepción,Nivel Primario,2020,23541
+tabla09_asisocial.pdf,Concepción,Nivel Primario,2021,34260
+tabla09_asisocial.pdf,Concepción,Nivel Primario,2022,46010
+tabla09_asisocial.pdf,Concepción,Nivel Primario,2023,49753
+tabla09_asisocial.pdf,Concepción,Nivel Primario,2024,48750
+tabla09_asisocial.pdf,Concepción,Nivel Secundario,2020,5960
+tabla09_asisocial.pdf,Concepción,Nivel Secundario,2021,7567
+tabla09_asisocial.pdf,Concepción,Nivel Secundario,2022,11692
+tabla09_asisocial.pdf,Concepción,Nivel Secundario,2023,13584
+tabla09_asisocial.pdf,Concepción,Nivel Secundario,2024,11931
+tabla09_asisocial.pdf,Concepción,Urgencia,2023,4781
+tabla09_asisocial.pdf,Concepción,Urgencia,2024,6471
+tabla09_asisocial.pdf,Arauco,Nivel Primario,2020,5022
+tabla09_asisocial.pdf,Arauco,Nivel Primario,2021,8018
+tabla09_asisocial.pdf,Arauco,Nivel Primario,2022,12215
+tabla09_asisocial.pdf,Arauco,Nivel Primario,2023,16249
+tabla09_asisocial.pdf,Arauco,Nivel Primario,2024,17131
+tabla09_asisocial.pdf,Arauco,Nivel Secundario,2020,1210
+tabla09_asisocial.pdf,Arauco,Nivel Secundario,2021,1751
+tabla09_asisocial.pdf,Arauco,Nivel Secundario,2022,2671
+tabla09_asisocial.pdf,Arauco,Nivel Secundario,2023,3479
+tabla09_asisocial.pdf,Arauco,Nivel Secundario,2024,4404
+tabla09_asisocial.pdf,Arauco,Urgencia,2023,19
+tabla09_asisocial.pdf,Arauco,Urgencia,2024,141
+tabla09_asisocial.pdf,Talcahuano,Nivel Primario,2020,10170
+tabla09_asisocial.pdf,Talcahuano,Nivel Primario,2021,15696
+tabla09_asisocial.pdf,Talcahuano,Nivel Primario,2022,28418
+tabla09_asisocial.pdf,Talcahuano,Nivel Primario,2023,28392
+tabla09_asisocial.pdf,Talcahuano,Nivel Primario,2024,27429
+tabla09_asisocial.pdf,Talcahuano,Nivel Secundario,2020,7437
+tabla09_asisocial.pdf,Talcahuano,Nivel Secundario,2021,10244
+tabla09_asisocial.pdf,Talcahuano,Nivel Secundario,2022,12448
+tabla09_asisocial.pdf,Talcahuano,Nivel Secundario,2023,13232
+tabla09_asisocial.pdf,Talcahuano,Nivel Secundario,2024,15503
+tabla09_asisocial.pdf,Talcahuano,Urgencia,2023,2202
+tabla09_asisocial.pdf,Talcahuano,Urgencia,2024,3144
+tabla09_asisocial.pdf,Biobío,Nivel Primario,2020,26934
+tabla09_asisocial.pdf,Biobío,Nivel Primario,2021,37501
+tabla09_asisocial.pdf,Biobío,Nivel Primario,2022,44609
+tabla09_asisocial.pdf,Biobío,Nivel Primario,2023,47138
+tabla09_asisocial.pdf,Biobío,Nivel Primario,2024,47827
+tabla09_asisocial.pdf,Biobío,Nivel Secundario,2020,4564
+tabla09_asisocial.pdf,Biobío,Nivel Secundario,2021,6204
+tabla09_asisocial.pdf,Biobío,Nivel Secundario,2022,11499
+tabla09_asisocial.pdf,Biobío,Nivel Secundario,2023,13539
+tabla09_asisocial.pdf,Biobío,Nivel Secundario,2024,15371
+tabla09_asisocial.pdf,Biobío,Urgencia,2023,3266
+tabla09_asisocial.pdf,Biobío,Urgencia,2024,4080
+tabla09_asisocial.pdf,Araucanía Norte,Nivel Primario,2020,13410
+tabla09_asisocial.pdf,Araucanía Norte,Nivel Primario,2021,16893
+tabla09_asisocial.pdf,Araucanía Norte,Nivel Primario,2022,29242
+tabla09_asisocial.pdf,Araucanía Norte,Nivel Primario,2023,28892
+tabla09_asisocial.pdf,Araucanía Norte,Nivel Primario,2024,33622
+tabla09_asisocial.pdf,Araucanía Norte,Nivel Secundario,2020,14511
+tabla09_asisocial.pdf,Araucanía Norte,Nivel Secundario,2021,16027
+tabla09_asisocial.pdf,Araucanía Norte,Nivel Secundario,2022,21630
+tabla09_asisocial.pdf,Araucanía Norte,Nivel Secundario,2023,21833
+tabla09_asisocial.pdf,Araucanía Norte,Nivel Secundario,2024,22802
+tabla10_kine.pdf,SNSS,Nivel Primario,2020,947911
+tabla10_kine.pdf,SNSS,Nivel Primario,2021,1750983
+tabla10_kine.pdf,SNSS,Nivel Primario,2022,2934850
+tabla10_kine.pdf,SNSS,Nivel Primario,2023,3582523
+tabla10_kine.pdf,SNSS,Nivel Primario,2024,3799018
+tabla10_kine.pdf,SNSS,Nivel Secundario,2020,3078870
+tabla10_kine.pdf,SNSS,Nivel Secundario,2021,4972502
+tabla10_kine.pdf,SNSS,Nivel Secundario,2022,5239267
+tabla10_kine.pdf,SNSS,Nivel Secundario,2023,5742800
+tabla10_kine.pdf,SNSS,Nivel Secundario,2024,6621301
+tabla10_kine.pdf,SNSS,Urgencia,2020,44770
+tabla10_kine.pdf,SNSS,Urgencia,2021,105440
+tabla10_kine.pdf,SNSS,Urgencia,2022,223802
+tabla10_kine.pdf,SNSS,Urgencia,2023,202159
+tabla10_kine.pdf,SNSS,Urgencia,2024,179257
+tabla10_kine.pdf,Arica,Nivel Primario,2020,12671
+tabla10_kine.pdf,Arica,Nivel Primario,2021,23930
+tabla10_kine.pdf,Arica,Nivel Primario,2022,31852
+tabla10_kine.pdf,Arica,Nivel Primario,2023,43309
+tabla10_kine.pdf,Arica,Nivel Primario,2024,46465
+tabla10_kine.pdf,Arica,Nivel Secundario,2020,27893
+tabla10_kine.pdf,Arica,Nivel Secundario,2021,22199
+tabla10_kine.pdf,Arica,Nivel Secundario,2022,36809
+tabla10_kine.pdf,Arica,Nivel Secundario,2023,40844
+tabla10_kine.pdf,Arica,Nivel Secundario,2024,73264
+tabla10_kine.pdf,Arica,Urgencia,2020,3124
+tabla10_kine.pdf,Arica,Urgencia,2021,8242
+tabla10_kine.pdf,Arica,Urgencia,2022,12674
+tabla10_kine.pdf,Arica,Urgencia,2023,8902
+tabla10_kine.pdf,Arica,Urgencia,2024,7921
+tabla10_kine.pdf,Iquique,Nivel Primario,2020,24566
+tabla10_kine.pdf,Iquique,Nivel Primario,2021,34042
+tabla10_kine.pdf,Iquique,Nivel Primario,2022,49004
+tabla10_kine.pdf,Iquique,Nivel Primario,2023,52957
+tabla10_kine.pdf,Iquique,Nivel Primario,2024,67919
+tabla10_kine.pdf,Iquique,Nivel Secundario,2020,9016
+tabla10_kine.pdf,Iquique,Nivel Secundario,2021,6414
+tabla10_kine.pdf,Iquique,Nivel Secundario,2022,18647
+tabla10_kine.pdf,Iquique,Nivel Secundario,2023,36445
+tabla10_kine.pdf,Iquique,Nivel Secundario,2024,77010
+tabla10_kine.pdf,Iquique,Urgencia,2020,7769
+tabla10_kine.pdf,Iquique,Urgencia,2021,10896
+tabla10_kine.pdf,Iquique,Urgencia,2022,21348
+tabla10_kine.pdf,Iquique,Urgencia,2023,16577
+tabla10_kine.pdf,Iquique,Urgencia,2024,3054
+tabla10_kine.pdf,Antofagasta,Nivel Primario,2020,18256
+tabla10_kine.pdf,Antofagasta,Nivel Primario,2021,33774
+tabla10_kine.pdf,Antofagasta,Nivel Primario,2022,60347
+tabla10_kine.pdf,Antofagasta,Nivel Primario,2023,65586
+tabla10_kine.pdf,Antofagasta,Nivel Primario,2024,72304
+tabla10_kine.pdf,Antofagasta,Nivel Secundario,2020,183746
+tabla10_kine.pdf,Antofagasta,Nivel Secundario,2021,390534
+tabla10_kine.pdf,Antofagasta,Nivel Secundario,2022,332842
+tabla10_kine.pdf,Antofagasta,Nivel Secundario,2023,286177
+tabla10_kine.pdf,Antofagasta,Nivel Secundario,2024,282289
+tabla10_kine.pdf,Antofagasta,Urgencia,2020,801
+tabla10_kine.pdf,Antofagasta,Urgencia,2021,2228
+tabla10_kine.pdf,Antofagasta,Urgencia,2022,3886
+tabla10_kine.pdf,Antofagasta,Urgencia,2023,3569
+tabla10_kine.pdf,Antofagasta,Urgencia,2024,4409
+tabla10_kine.pdf,Atacama,Nivel Primario,2020,19096
+tabla10_kine.pdf,Atacama,Nivel Primario,2021,37786
+tabla10_kine.pdf,Atacama,Nivel Primario,2022,55195
+tabla10_kine.pdf,Atacama,Nivel Primario,2023,74437
+tabla10_kine.pdf,Atacama,Nivel Primario,2024,87427
+tabla10_kine.pdf,Atacama,Nivel Secundario,2020,51240
+tabla10_kine.pdf,Atacama,Nivel Secundario,2021,119250
+tabla10_kine.pdf,Atacama,Nivel Secundario,2022,96744
+tabla10_kine.pdf,Atacama,Nivel Secundario,2023,99802
+tabla10_kine.pdf,Atacama,Nivel Secundario,2024,110924
+tabla10_kine.pdf,Atacama,Urgencia,2020,738
+tabla10_kine.pdf,Atacama,Urgencia,2021,3340
+tabla10_kine.pdf,Atacama,Urgencia,2022,1833
+tabla10_kine.pdf,Atacama,Urgencia,2023,891
+tabla10_kine.pdf,Atacama,Urgencia,2024,910
+tabla10_kine.pdf,Coquimbo,Nivel Primario,2020,52672
+tabla10_kine.pdf,Coquimbo,Nivel Primario,2021,79879
+tabla10_kine.pdf,Coquimbo,Nivel Primario,2022,132016
+tabla10_kine.pdf,Coquimbo,Nivel Primario,2023,169747
+tabla10_kine.pdf,Coquimbo,Nivel Primario,2024,175768
+tabla10_kine.pdf,Coquimbo,Nivel Secundario,2020,207060
+tabla10_kine.pdf,Coquimbo,Nivel Secundario,2021,352300
+tabla10_kine.pdf,Coquimbo,Nivel Secundario,2022,408190
+tabla10_kine.pdf,Coquimbo,Nivel Secundario,2023,395250
+tabla10_kine.pdf,Coquimbo,Nivel Secundario,2024,410138
+tabla10_kine.pdf,Coquimbo,Urgencia,2020,2153
+tabla10_kine.pdf,Coquimbo,Urgencia,2021,8188
+tabla10_kine.pdf,Coquimbo,Urgencia,2022,61145
+tabla10_kine.pdf,Coquimbo,Urgencia,2023,63853
+tabla10_kine.pdf,Coquimbo,Urgencia,2024,26383
+tabla10_kine.pdf,Valparaíso San Antonio,Nivel Primario,2020,38200
+tabla10_kine.pdf,Valparaíso San Antonio,Nivel Primario,2021,203751
+tabla10_kine.pdf,Valparaíso San Antonio,Nivel Primario,2022,102676
+tabla10_kine.pdf,Valparaíso San Antonio,Nivel Primario,2023,124119
+tabla10_kine.pdf,Valparaíso San Antonio,Nivel Primario,2024,140587
+tabla10_kine.pdf,Valparaíso San Antonio,Nivel Secundario,2020,151046
+tabla10_kine.pdf,Valparaíso San Antonio,Nivel Secundario,2021,246851
+tabla10_kine.pdf,Valparaíso San Antonio,Nivel Secundario,2022,38814
+tabla10_kine.pdf,Valparaíso San Antonio,Nivel Secundario,2023,132225
+tabla10_kine.pdf,Valparaíso San Antonio,Nivel Secundario,2024,200519
+tabla10_kine.pdf,Valparaíso San Antonio,Urgencia,2020,200
+tabla10_kine.pdf,Valparaíso San Antonio,Urgencia,2021,1701
+tabla10_kine.pdf,Valparaíso San Antonio,Urgencia,2022,7817
+tabla10_kine.pdf,Valparaíso San Antonio,Urgencia,2023,2120
+tabla10_kine.pdf,Valparaíso San Antonio,Urgencia,2024,6689
+tabla10_kine.pdf,Viña del Mar Quillota,Nivel Primario,2020,55704
+tabla10_kine.pdf,Viña del Mar Quillota,Nivel Primario,2021,88671
+tabla10_kine.pdf,Viña del Mar Quillota,Nivel Primario,2022,142555
+tabla10_kine.pdf,Viña del Mar Quillota,Nivel Primario,2023,179182
+tabla10_kine.pdf,Viña del Mar Quillota,Nivel Primario,2024,210920
+tabla10_kine.pdf,Viña del Mar Quillota,Nivel Secundario,2020,231293
+tabla10_kine.pdf,Viña del Mar Quillota,Nivel Secundario,2021,368749
+tabla10_kine.pdf,Viña del Mar Quillota,Nivel Secundario,2022,355147
+tabla10_kine.pdf,Viña del Mar Quillota,Nivel Secundario,2023,407699
+tabla10_kine.pdf,Viña del Mar Quillota,Nivel Secundario,2024,531739
+tabla10_kine.pdf,Viña del Mar Quillota,Urgencia,2020,116
+tabla10_kine.pdf,Viña del Mar Quillota,Urgencia,2021,31
+tabla10_kine.pdf,Viña del Mar Quillota,Urgencia,2022,1608
+tabla10_kine.pdf,Viña del Mar Quillota,Urgencia,2023,2403
+tabla10_kine.pdf,Viña del Mar Quillota,Urgencia,2024,6364
+tabla10_kine.pdf,Aconcagua,Nivel Primario,2020,14545
+tabla10_kine.pdf,Aconcagua,Nivel Primario,2021,22124
+tabla10_kine.pdf,Aconcagua,Nivel Primario,2022,45714
+tabla10_kine.pdf,Aconcagua,Nivel Primario,2023,55064
+tabla10_kine.pdf,Aconcagua,Nivel Primario,2024,53538
+tabla10_kine.pdf,Aconcagua,Nivel Secundario,2020,46552
+tabla10_kine.pdf,Aconcagua,Nivel Secundario,2021,87696
+tabla10_kine.pdf,Aconcagua,Nivel Secundario,2022,96242
+tabla10_kine.pdf,Aconcagua,Nivel Secundario,2023,163549
+tabla10_kine.pdf,Aconcagua,Nivel Secundario,2024,154324
+tabla10_kine.pdf,Aconcagua,Urgencia,2020,3
+tabla10_kine.pdf,Aconcagua,Urgencia,2021,1303
+tabla10_kine.pdf,Aconcagua,Urgencia,2022,2294
+tabla10_kine.pdf,Aconcagua,Urgencia,2023,789
+tabla10_kine.pdf,Aconcagua,Urgencia,2024,179
+tabla10_kine.pdf,Metropolitano Norte,Nivel Primario,2020,38661
+tabla10_kine.pdf,Metropolitano Norte,Nivel Primario,2021,65499
+tabla10_kine.pdf,Metropolitano Norte,Nivel Primario,2022,122036
+tabla10_kine.pdf,Metropolitano Norte,Nivel Primario,2023,164384
+tabla10_kine.pdf,Metropolitano Norte,Nivel Primario,2024,181091
+tabla10_kine.pdf,Metropolitano Norte,Nivel Secundario,2020,42998
+tabla10_kine.pdf,Metropolitano Norte,Nivel Secundario,2021,56136
+tabla10_kine.pdf,Metropolitano Norte,Nivel Secundario,2022,65785
+tabla10_kine.pdf,Metropolitano Norte,Nivel Secundario,2023,78587
+tabla10_kine.pdf,Metropolitano Norte,Nivel Secundario,2024,83303
+tabla10_kine.pdf,Metropolitano Norte,Urgencia,2020,4
+tabla10_kine.pdf,Metropolitano Norte,Urgencia,2021,339
+tabla10_kine.pdf,Metropolitano Norte,Urgencia,2022,2088
+tabla10_kine.pdf,Metropolitano Norte,Urgencia,2023,4069
+tabla10_kine.pdf,Metropolitano Norte,Urgencia,2024,4727
+tabla10_kine.pdf,Metropolitano Occidente,Nivel Primario,2020,48933
+tabla10_kine.pdf,Metropolitano Occidente,Nivel Primario,2021,83335
+tabla10_kine.pdf,Metropolitano Occidente,Nivel Primario,2022,174719
+tabla10_kine.pdf,Metropolitano Occidente,Nivel Primario,2023,215769
+tabla10_kine.pdf,Metropolitano Occidente,Nivel Primario,2024,237570
+tabla10_kine.pdf,Metropolitano Occidente,Nivel Secundario,2020,72104
+tabla10_kine.pdf,Metropolitano Occidente,Nivel Secundario,2021,107122
+tabla10_kine.pdf,Metropolitano Occidente,Nivel Secundario,2022,132704
+tabla10_kine.pdf,Metropolitano Occidente,Nivel Secundario,2023,184022
+tabla10_kine.pdf,Metropolitano Occidente,Nivel Secundario,2024,189233
+tabla10_kine.pdf,Metropolitano Occidente,Urgencia,2020,7519
+tabla10_kine.pdf,Metropolitano Occidente,Urgencia,2021,9046
+tabla10_kine.pdf,Metropolitano Occidente,Urgencia,2022,3833
+tabla10_kine.pdf,Metropolitano Occidente,Urgencia,2023,4819
+tabla10_kine.pdf,Metropolitano Occidente,Urgencia,2024,4249
+tabla10_kine.pdf,Metropolitano Central,Nivel Primario,2020,27804
+tabla10_kine.pdf,Metropolitano Central,Nivel Primario,2021,30039
+tabla10_kine.pdf,Metropolitano Central,Nivel Primario,2022,75437
+tabla10_kine.pdf,Metropolitano Central,Nivel Primario,2023,95399
+tabla10_kine.pdf,Metropolitano Central,Nivel Primario,2024,89000
+tabla10_kine.pdf,Metropolitano Central,Nivel Secundario,2020,343212
+tabla10_kine.pdf,Metropolitano Central,Nivel Secundario,2021,603759
+tabla10_kine.pdf,Metropolitano Central,Nivel Secundario,2022,820432
+tabla10_kine.pdf,Metropolitano Central,Nivel Secundario,2023,706873
+tabla10_kine.pdf,Metropolitano Central,Nivel Secundario,2024,661550
+tabla10_kine.pdf,Metropolitano Central,Urgencia,2020,229
+tabla10_kine.pdf,Metropolitano Central,Urgencia,2021,11697
+tabla10_kine.pdf,Metropolitano Central,Urgencia,2022,12267
+tabla10_kine.pdf,Metropolitano Central,Urgencia,2023,5708
+tabla10_kine.pdf,Metropolitano Central,Urgencia,2024,6789
+tabla10_kine.pdf,Metropolitano Oriente,Nivel Primario,2020,38465
+tabla10_kine.pdf,Metropolitano Oriente,Nivel Primario,2021,46633
+tabla10_kine.pdf,Metropolitano Oriente,Nivel Primario,2022,105053
+tabla10_kine.pdf,Metropolitano Oriente,Nivel Primario,2023,119892
+tabla10_kine.pdf,Metropolitano Oriente,Nivel Primario,2024,125073
+tabla10_kine.pdf,Metropolitano Oriente,Nivel Secundario,2020,132879
+tabla10_kine.pdf,Metropolitano Oriente,Nivel Secundario,2021,193972
+tabla10_kine.pdf,Metropolitano Oriente,Nivel Secundario,2022,184990
+tabla10_kine.pdf,Metropolitano Oriente,Nivel Secundario,2023,241058
+tabla10_kine.pdf,Metropolitano Oriente,Nivel Secundario,2024,597521
+tabla10_kine.pdf,Metropolitano Oriente,Urgencia,2020,2
+tabla10_kine.pdf,Metropolitano Oriente,Urgencia,2021,173
+tabla10_kine.pdf,Metropolitano Oriente,Urgencia,2022,896
+tabla10_kine.pdf,Metropolitano Oriente,Urgencia,2023,705
+tabla10_kine.pdf,Metropolitano Oriente,Urgencia,2024,1562
+tabla10_kine.pdf,Metropolitano Sur,Nivel Primario,2020,45181
+tabla10_kine.pdf,Metropolitano Sur,Nivel Primario,2021,72098
+tabla10_kine.pdf,Metropolitano Sur,Nivel Primario,2022,183932
+tabla10_kine.pdf,Metropolitano Sur,Nivel Primario,2023,229028
+tabla10_kine.pdf,Metropolitano Sur,Nivel Primario,2024,237423
+tabla10_kine.pdf,Metropolitano Sur,Nivel Secundario,2020,41371
+tabla10_kine.pdf,Metropolitano Sur,Nivel Secundario,2021,235541
+tabla10_kine.pdf,Metropolitano Sur,Nivel Secundario,2022,235727
+tabla10_kine.pdf,Metropolitano Sur,Nivel Secundario,2023,200407
+tabla10_kine.pdf,Metropolitano Sur,Nivel Secundario,2024,196213
+tabla10_kine.pdf,Metropolitano Sur,Urgencia,2020,5642
+tabla10_kine.pdf,Metropolitano Sur,Urgencia,2021,14873
+tabla10_kine.pdf,Metropolitano Sur,Urgencia,2022,18039
+tabla10_kine.pdf,Metropolitano Sur,Urgencia,2023,13037
+tabla10_kine.pdf,Metropolitano Sur,Urgencia,2024,34835
+tabla10_kine.pdf,Metropolitano Sur Oriente,Nivel Primario,2020,41137
+tabla10_kine.pdf,Metropolitano Sur Oriente,Nivel Primario,2021,72252
+tabla10_kine.pdf,Metropolitano Sur Oriente,Nivel Primario,2022,160573
+tabla10_kine.pdf,Metropolitano Sur Oriente,Nivel Primario,2023,207379
+tabla10_kine.pdf,Metropolitano Sur Oriente,Nivel Primario,2024,201333
+tabla10_kine.pdf,Metropolitano Sur Oriente,Nivel Secundario,2020,163498
+tabla10_kine.pdf,Metropolitano Sur Oriente,Nivel Secundario,2021,362774
+tabla10_kine.pdf,Metropolitano Sur Oriente,Nivel Secundario,2022,373081
+tabla10_kine.pdf,Metropolitano Sur Oriente,Nivel Secundario,2023,399069
+tabla10_kine.pdf,Metropolitano Sur Oriente,Nivel Secundario,2024,421927
+tabla10_kine.pdf,Metropolitano Sur Oriente,Urgencia,2020,1404
+tabla10_kine.pdf,Metropolitano Sur Oriente,Urgencia,2021,912
+tabla10_kine.pdf,Metropolitano Sur Oriente,Urgencia,2022,7142
+tabla10_kine.pdf,Metropolitano Sur Oriente,Urgencia,2023,12336
+tabla10_kine.pdf,Metropolitano Sur Oriente,Urgencia,2024,12083
+tabla10_kine.pdf,O'Higgins,Nivel Primario,2020,89226
+tabla10_kine.pdf,O'Higgins,Nivel Primario,2021,155361
+tabla10_kine.pdf,O'Higgins,Nivel Primario,2022,239785
+tabla10_kine.pdf,O'Higgins,Nivel Primario,2023,291955
+tabla10_kine.pdf,O'Higgins,Nivel Primario,2024,313466
+tabla10_kine.pdf,O'Higgins,Nivel Secundario,2020,173899
+tabla10_kine.pdf,O'Higgins,Nivel Secundario,2021,215588
+tabla10_kine.pdf,O'Higgins,Nivel Secundario,2022,229837
+tabla10_kine.pdf,O'Higgins,Nivel Secundario,2023,260853
+tabla10_kine.pdf,O'Higgins,Nivel Secundario,2024,259756
+tabla10_kine.pdf,O'Higgins,Urgencia,2020,940
+tabla10_kine.pdf,O'Higgins,Urgencia,2021,6047
+tabla10_kine.pdf,O'Higgins,Urgencia,2022,3639
+tabla10_kine.pdf,O'Higgins,Urgencia,2023,4949
+tabla10_kine.pdf,O'Higgins,Urgencia,2024,5098
+tabla10_kine.pdf,Maule,Nivel Primario,2020,77633
+tabla10_kine.pdf,Maule,Nivel Primario,2021,158301
+tabla10_kine.pdf,Maule,Nivel Primario,2022,254402
+tabla10_kine.pdf,Maule,Nivel Primario,2023,306424
+tabla10_kine.pdf,Maule,Nivel Primario,2024,328272
+tabla10_kine.pdf,Maule,Nivel Secundario,2020,141106
+tabla10_kine.pdf,Maule,Nivel Secundario,2021,197947
+tabla10_kine.pdf,Maule,Nivel Secundario,2022,235002
+tabla10_kine.pdf,Maule,Nivel Secundario,2023,239681
+tabla10_kine.pdf,Maule,Nivel Secundario,2024,265485
+tabla10_kine.pdf,Maule,Urgencia,2020,2791
+tabla10_kine.pdf,Maule,Urgencia,2021,3404
+tabla10_kine.pdf,Maule,Urgencia,2022,3034
+tabla10_kine.pdf,Maule,Urgencia,2023,5705
+tabla10_kine.pdf,Maule,Urgencia,2024,4291
+tabla10_kine.pdf,Ñuble,Nivel Primario,2020,37855
+tabla10_kine.pdf,Ñuble,Nivel Primario,2021,67386
+tabla10_kine.pdf,Ñuble,Nivel Primario,2022,103149
+tabla10_kine.pdf,Ñuble,Nivel Primario,2023,133041
+tabla10_kine.pdf,Ñuble,Nivel Primario,2024,135121
+tabla10_kine.pdf,Ñuble,Nivel Secundario,2020,95900
+tabla10_kine.pdf,Ñuble,Nivel Secundario,2021,151510
+tabla10_kine.pdf,Ñuble,Nivel Secundario,2022,170891
+tabla10_kine.pdf,Ñuble,Nivel Secundario,2023,181274
+tabla10_kine.pdf,Ñuble,Nivel Secundario,2024,211319
+tabla10_kine.pdf,Ñuble,Urgencia,2020,1
+tabla10_kine.pdf,Ñuble,Urgencia,2021,65
+tabla10_kine.pdf,Ñuble,Urgencia,2022,710
+tabla10_kine.pdf,Ñuble,Urgencia,2023,2001
+tabla10_kine.pdf,Ñuble,Urgencia,2024,2737
+tabla10_kine.pdf,Concepción,Nivel Primario,2020,26374
+tabla10_kine.pdf,Concepción,Nivel Primario,2021,45786
+tabla10_kine.pdf,Concepción,Nivel Primario,2022,99045
+tabla10_kine.pdf,Concepción,Nivel Primario,2023,140565
+tabla10_kine.pdf,Concepción,Nivel Primario,2024,142547
+tabla10_kine.pdf,Concepción,Nivel Secundario,2020,223495
+tabla10_kine.pdf,Concepción,Nivel Secundario,2021,164107
+tabla10_kine.pdf,Concepción,Nivel Secundario,2022,180570
+tabla10_kine.pdf,Concepción,Nivel Secundario,2023,274932
+tabla10_kine.pdf,Concepción,Nivel Secundario,2024,291665
+tabla10_kine.pdf,Concepción,Urgencia,2020,543
+tabla10_kine.pdf,Concepción,Urgencia,2021,97
+tabla10_kine.pdf,Concepción,Urgencia,2022,2006
+tabla10_kine.pdf,Concepción,Urgencia,2023,3468
+tabla10_kine.pdf,Concepción,Urgencia,2024,2680
+tabla10_kine.pdf,Arauco,Nivel Primario,2020,10807
+tabla10_kine.pdf,Arauco,Nivel Primario,2021,20529
+tabla10_kine.pdf,Arauco,Nivel Primario,2022,42868
+tabla10_kine.pdf,Arauco,Nivel Primario,2023,57931
+tabla10_kine.pdf,Arauco,Nivel Primario,2024,62263
+tabla10_kine.pdf,Arauco,Nivel Secundario,2020,7922
+tabla10_kine.pdf,Arauco,Nivel Secundario,2021,8296
+tabla10_kine.pdf,Arauco,Nivel Secundario,2022,14318
+tabla10_kine.pdf,Arauco,Nivel Secundario,2023,18688
+tabla10_kine.pdf,Arauco,Nivel Secundario,2024,21310
+tabla10_kine.pdf,Arauco,Urgencia,2020,853
+tabla10_kine.pdf,Arauco,Urgencia,2021,572
+tabla10_kine.pdf,Arauco,Urgencia,2022,1223
+tabla10_kine.pdf,Arauco,Urgencia,2023,2459
+tabla10_kine.pdf,Arauco,Urgencia,2024,2804
+tabla10_kine.pdf,Talcahuano,Nivel Primario,2020,19601
+tabla10_kine.pdf,Talcahuano,Nivel Primario,2021,28946
+tabla10_kine.pdf,Talcahuano,Nivel Primario,2022,61551
+tabla10_kine.pdf,Talcahuano,Nivel Primario,2023,67821
+tabla10_kine.pdf,Talcahuano,Nivel Primario,2024,70644
+tabla10_kine.pdf,Talcahuano,Nivel Secundario,2020,22804
+tabla10_kine.pdf,Talcahuano,Nivel Secundario,2021,43535
+tabla10_kine.pdf,Talcahuano,Nivel Secundario,2022,86361
+tabla10_kine.pdf,Talcahuano,Nivel Secundario,2023,139532
+tabla10_kine.pdf,Talcahuano,Nivel Secundario,2024,150668
+tabla10_kine.pdf,Talcahuano,Urgencia,2020,235
+tabla10_kine.pdf,Talcahuano,Urgencia,2021,124
+tabla10_kine.pdf,Talcahuano,Urgencia,2022,619
+tabla10_kine.pdf,Talcahuano,Urgencia,2023,1819
+tabla10_kine.pdf,Talcahuano,Urgencia,2024,4835
+tabla10_kine.pdf,Biobío,Nivel Primario,2020,33708
+tabla10_kine.pdf,Biobío,Nivel Primario,2021,60212
+tabla10_kine.pdf,Biobío,Nivel Primario,2022,106033
+tabla10_kine.pdf,Biobío,Nivel Primario,2023,123431
+tabla10_kine.pdf,Biobío,Nivel Primario,2024,137631
+tabla10_kine.pdf,Biobío,Nivel Secundario,2020,135984
+tabla10_kine.pdf,Biobío,Nivel Secundario,2021,233523
+tabla10_kine.pdf,Biobío,Nivel Secundario,2022,223218
+tabla10_kine.pdf,Biobío,Nivel Secundario,2023,239437
+tabla10_kine.pdf,Biobío,Nivel Secundario,2024,248449
+tabla10_kine.pdf,Biobío,Urgencia,2020,412
+tabla10_kine.pdf,Biobío,Urgencia,2021,2159
+tabla10_kine.pdf,Biobío,Urgencia,2022,15588
+tabla10_kine.pdf,Biobío,Urgencia,2023,20873
+tabla10_kine.pdf,Biobío,Urgencia,2024,19262
+tabla10_kine.pdf,Araucanía Norte,Nivel Primario,2020,18941
+tabla10_kine.pdf,Araucanía Norte,Nivel Primario,2021,40655
+tabla10_kine.pdf,Araucanía Norte,Nivel Primario,2022,58479
+tabla10_kine.pdf,Araucanía Norte,Nivel Primario,2023,67241
+tabla10_kine.pdf,Araucanía Norte,Nivel Primario,2024,68097
+tabla10_kine.pdf,Araucanía Norte,Nivel Secundario,2020,49505
+tabla10_kine.pdf,Araucanía Norte,Nivel Secundario,2021,86990
+tabla10_kine.pdf,Araucanía Norte,Nivel Secundario,2022,99391
+tabla10_kine.pdf,Araucanía Norte,Nivel Secundario,2023,118772
+tabla10_kine.pdf,Araucanía Norte,Nivel Secundario,2024,131241
+tabla10_kine.pdf,Araucanía Norte,Urgencia,2020,260
+tabla10_kine.pdf,Araucanía Norte,Urgencia,2021,212
+tabla10_kine.pdf,Araucanía Norte,Urgencia,2022,2108
+tabla10_kine.pdf,Araucanía Norte,Urgencia,2023,1491
+tabla10_kine.pdf,Araucanía Norte,Urgencia,2024,796
+tabla10_kine.pdf,Araucanía Sur,Nivel Primario,2020,56643
+tabla10_kine.pdf,Araucanía Sur,Nivel Primario,2021,103978
+tabla10_kine.pdf,Araucanía Sur,Nivel Primario,2022,198587
+tabla10_kine.pdf,Araucanía Sur,Nivel Primario,2023,227750
+tabla10_kine.pdf,Araucanía Sur,Nivel Primario,2024,232642
+tabla10_kine.pdf,Araucanía Sur,Nivel Secundario,2020,189116
+tabla10_kine.pdf,Araucanía Sur,Nivel Secundario,2021,274899
+tabla10_kine.pdf,Araucanía Sur,Nivel Secundario,2022,314691
+tabla10_kine.pdf,Araucanía Sur,Nivel Secundario,2023,339400
+tabla10_kine.pdf,Araucanía Sur,Nivel Secundario,2024,355564
+tabla10_kine.pdf,Araucanía Sur,Urgencia,2020,1999
+tabla10_kine.pdf,Araucanía Sur,Urgencia,2021,9026
+tabla10_kine.pdf,Araucanía Sur,Urgencia,2022,17790
+tabla10_kine.pdf,Araucanía Sur,Urgencia,2023,9350
+tabla10_kine.pdf,Araucanía Sur,Urgencia,2024,4597
+tabla10_kine.pdf,Valdivia,Nivel Primario,2020,22090
+tabla10_kine.pdf,Valdivia,Nivel Primario,2021,44418
+tabla10_kine.pdf,Valdivia,Nivel Primario,2022,91736
+tabla10_kine.pdf,Valdivia,Nivel Primario,2023,107396
+tabla10_kine.pdf,Valdivia,Nivel Primario,2024,105185
+tabla10_kine.pdf,Valdivia,Nivel Secundario,2020,54197
+tabla10_kine.pdf,Valdivia,Nivel Secundario,2021,77820
+tabla10_kine.pdf,Valdivia,Nivel Secundario,2022,100173
+tabla10_kine.pdf,Valdivia,Nivel Secundario,2023,100532
+tabla10_kine.pdf,Valdivia,Nivel Secundario,2024,179179
+tabla10_kine.pdf,Valdivia,Urgencia,2020,3875
+tabla10_kine.pdf,Valdivia,Urgencia,2021,4885
+tabla10_kine.pdf,Valdivia,Urgencia,2022,4583
+tabla10_kine.pdf,Valdivia,Urgencia,2023,2686
+tabla10_kine.pdf,Valdivia,Urgencia,2024,3251
+tabla10_kine.pdf,Osorno,Nivel Primario,2020,21498
+tabla10_kine.pdf,Osorno,Nivel Primario,2021,40604
+tabla10_kine.pdf,Osorno,Nivel Primario,2022,57173
+tabla10_kine.pdf,Osorno,Nivel Primario,2023,64439
+tabla10_kine.pdf,Osorno,Nivel Primario,2024,62022
+tabla10_kine.pdf,Osorno,Nivel Secundario,2020,56496
+tabla10_kine.pdf,Osorno,Nivel Secundario,2021,63297
+tabla10_kine.pdf,Osorno,Nivel Secundario,2022,115011
+tabla10_kine.pdf,Osorno,Nivel Secundario,2023,145762
+tabla10_kine.pdf,Osorno,Nivel Secundario,2024,170640
+tabla10_kine.pdf,Osorno,Urgencia,2020,25
+tabla10_kine.pdf,Osorno,Urgencia,2021,1347
+tabla10_kine.pdf,Osorno,Urgencia,2022,312
+tabla10_kine.pdf,Osorno,Urgencia,2024,96
+tabla10_kine.pdf,Del Reloncaví,Nivel Primario,2020,25324
+tabla10_kine.pdf,Del Reloncaví,Nivel Primario,2021,39428
+tabla10_kine.pdf,Del Reloncaví,Nivel Primario,2022,81904
+tabla10_kine.pdf,Del Reloncaví,Nivel Primario,2023,83222
+tabla10_kine.pdf,Del Reloncaví,Nivel Primario,2024,98254
+tabla10_kine.pdf,Del Reloncaví,Nivel Secundario,2020,100169
+tabla10_kine.pdf,Del Reloncaví,Nivel Secundario,2021,141059
+tabla10_kine.pdf,Del Reloncaví,Nivel Secundario,2022,125120
+tabla10_kine.pdf,Del Reloncaví,Nivel Secundario,2023,124160
+tabla10_kine.pdf,Del Reloncaví,Nivel Secundario,2024,155723
+tabla10_kine.pdf,Del Reloncaví,Urgencia,2020,1113
+tabla10_kine.pdf,Del Reloncaví,Urgencia,2021,1163
+tabla10_kine.pdf,Del Reloncaví,Urgencia,2022,9813
+tabla10_kine.pdf,Del Reloncaví,Urgencia,2023,5393
+tabla10_kine.pdf,Del Reloncaví,Urgencia,2024,4853
+tabla10_kine.pdf,Chiloé,Nivel Primario,2020,15883
+tabla10_kine.pdf,Chiloé,Nivel Primario,2021,29425
+tabla10_kine.pdf,Chiloé,Nivel Primario,2022,58220
+tabla10_kine.pdf,Chiloé,Nivel Primario,2023,63328
+tabla10_kine.pdf,Chiloé,Nivel Primario,2024,61347
+tabla10_kine.pdf,Chiloé,Nivel Secundario,2020,22139
+tabla10_kine.pdf,Chiloé,Nivel Secundario,2021,17051
+tabla10_kine.pdf,Chiloé,Nivel Secundario,2022,21834
+tabla10_kine.pdf,Chiloé,Nivel Secundario,2023,48278
+tabla10_kine.pdf,Chiloé,Nivel Secundario,2024,56255
+tabla10_kine.pdf,Chiloé,Urgencia,2020,1028
+tabla10_kine.pdf,Chiloé,Urgencia,2021,2510
+tabla10_kine.pdf,Chiloé,Urgencia,2022,5180
+tabla10_kine.pdf,Chiloé,Urgencia,2023,1095
+tabla10_kine.pdf,Chiloé,Urgencia,2024,521
+tabla10_kine.pdf,Aisén,Nivel Primario,2020,6150
+tabla10_kine.pdf,Aisén,Nivel Primario,2021,5687
+tabla10_kine.pdf,Aisén,Nivel Primario,2022,12586
+tabla10_kine.pdf,Aisén,Nivel Primario,2023,16739
+tabla10_kine.pdf,Aisén,Nivel Primario,2024,16309
+tabla10_kine.pdf,Aisén,Nivel Secundario,2020,4324
+tabla10_kine.pdf,Aisén,Nivel Secundario,2021,10516
+tabla10_kine.pdf,Aisén,Nivel Secundario,2022,13006
+tabla10_kine.pdf,Aisén,Nivel Secundario,2023,18279
+tabla10_kine.pdf,Aisén,Nivel Secundario,2024,24223
+tabla10_kine.pdf,Aisén,Urgencia,2021,106
+tabla10_kine.pdf,Aisén,Urgencia,2022,7
+tabla10_kine.pdf,Aisén,Urgencia,2023,6
+tabla10_kine.pdf,Aisén,Urgencia,2024,5
